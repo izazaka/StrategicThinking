@@ -1,2 +1,3 @@
-# strategic_thinking_ca1
+# StrategicThinking
+
 CA1 of Strategic Thinking
