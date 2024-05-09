@@ -1,0 +1,1649 @@
+starRating,Gender_Numeric,Year,cleaned_text,sentiment_score,word_count,avg_word,sentiment_label,sentiment_ml,sentiment
+5,1,2019,im every beginning year highly recommend chalet food entertainment wide variety,0.03,11,6.2727272727272725,Neutral,1,0
+5,2,2019,beautiful pleasant place breakfast lunch lot variety delicious,0.861111111111111,8,6.875,Positive,2,0
+1,2,2019,thought horrible location much many demand owner order come loud noise much le accumulation tent,-0.05,15,5.466666666666667,Negative,0,0
+5,1,2019,one best canpings region,1.0,4,5.25,Positive,2,0
+5,1,2019,family place found thing site expensive like lunch ice cream entrance chalet,-0.5,12,5.416666666666667,Negative,0,0
+5,1,2019,great place affordable price thats greices trailer is,0.8,8,5.75,Positive,2,0
+3,3,2019,went campsite stay saturday sunday arrived 330 pm wanted charge 2 day really upset since go almost holiday decided leave girl reception wanted let u climatestress left got know much better camping site theirs is always went there better option think campsite region improve checkin time go camping time make difference need set tent see location camping lighting efficient different staying chalet saw everyone problem campground allowed enter earlier exception level another thing price breakfast abusive,0.19999999999999998,76,5.657894736842105,Neutral,1,0
+5,1,2019,congratulation clean organized campsite,0.3666666666666667,4,9.0,Neutral,1,0
+2,1,2021,place nice charge unfair arrive 12 pm saturday camp leave sunday pay two night,0.04999999999999999,14,4.642857142857143,Neutral,1,0
+5,1,2022,love place worth trip,0.4,4,4.5,Neutral,1,0
+5,1,2022,liked place tasty recommend,0.6,4,6.0,Positive,2,0
+5,1,2020,stay well looked after,0.0,4,4.75,Neutral,1,0
+5,1,2018,great place great food great accommodation good,0.7750000000000001,7,5.857142857142857,Positive,2,0
+4,1,2019,cool infrastructure price bit lacking stay restaurant,0.35,7,6.714285714285714,Neutral,1,0
+5,1,2022,top place,0.5,2,4.0,Neutral,1,0
+5,1,2018,good walk weekend special occasionsall wonderful,0.6857142857142856,6,7.166666666666667,Positive,2,0
+4,1,2018,good family peaceful safe,0.48333333333333334,4,5.5,Neutral,1,0
+5,1,2017,camping good tasty healthy place,0.6,5,5.6,Positive,2,0
+5,1,2022,one best camping brazil,1.0,4,5.0,Positive,2,0
+5,1,2017,nice space several place tent good restaurant highlight common space camper prepare meal peaceful welcoming,0.24999999999999994,15,6.2,Neutral,1,0
+5,1,2018,perfect infrastructure camping accommodation addition peaceful nature climate providing comfort,0.625,10,8.6,Positive,2,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+5,1,2021,excellent place,1.0,2,7.0,Positive,2,0
+5,1,2019,great spot,0.8,2,4.5,Positive,2,0
+2,1,2019,going give score 1 decided give 2 place beautiful lack thing camping area crowded time respect rule found price charged abusive elite place camping can not expensive renting house chalet weekend expensive there,0.20000000000000004,33,5.393939393939394,Neutral,1,0
+5,2,2019,clean organized chalet breakfast lunch tasty wonderful space disconnect rush enjoy nature,0.5888888888888889,12,6.5,Positive,2,0
+5,2,2019,loved,0.7,1,5.0,Positive,2,0
+5,2,2017,best region,1.0,2,5.0,Positive,2,0
+5,2,2020,perfect,1.0,1,7.0,Positive,2,0
+5,2,2022,place wonderful camped first area designated tent thing need improve little community kitchen area,0.3541666666666667,14,6.071428571428571,Neutral,1,0
+5,2,2021,nice place spend day camp,0.6,5,4.2,Positive,2,0
+5,2,2018,wonderful,1.0,1,9.0,Positive,2,0
+3,2,2020,place nice good price however saw mother washing baby diaper swimming pool child peeing edge pool parent laughing water pool filthy even skin problem due contaminated water contracted bacteria doctor say treated water none pool lifeguard supervision whatsoever people want sign prohibiting drinking pool many people beer can inside pool snack bar weak item menu have espresso coffee cake menu then afternoon snack option,0.0833333333333333,64,5.578125,Neutral,1,0
+5,2,2023,simple adorable familiar,0.2916666666666667,3,7.333333333333333,Neutral,1,0
+5,2,2023,beautiful place great service super calm organized great restaurant several attraction hope come back soon,0.4404761904761904,15,6.133333333333334,Neutral,1,0
+4,2,2021,nice place lot tree excellent service,0.8,6,5.333333333333333,Positive,2,0
+5,2,2018,love place 4 pool,0.5,4,3.5,Neutral,1,0
+5,2,2019,wonderful environment enjoy family super attentive friendly staff magnificent structure negative point heated pool open otherwise family love everything highly recommend,0.38683333333333336,21,7.095238095238095,Neutral,1,0
+5,2,2019,great,0.8,1,5.0,Positive,2,0
+5,2,2019,great,0.8,1,5.0,Positive,2,0
+5,2,2017,family friendly place relax fun,0.3375,5,5.4,Neutral,1,0
+1,2,2023,bad went birthday party colleague chalet arrived space allow u entry spend fuel toll thing take lot lack consideration u customer long time disappointing need customershuh,-0.44999999999999996,26,5.615384615384615,Negative,0,0
+5,2,2017,family camping great structure camping several swimming pool leisure area good pet allowed campsite do aim comfort enjoyment customer,0.5,19,6.052631578947368,Neutral,1,0
+5,2,2017,loved going daughter,0.7,3,6.0,Positive,2,0
+5,2,2021,beautiful cozy familiar clean place good food,0.41833333333333333,7,5.571428571428571,Neutral,1,0
+5,2,2022,excellent,1.0,1,9.0,Positive,2,0
+4,2,2018,camping organized clean lot option child,0.3666666666666667,6,5.833333333333333,Neutral,1,0
+5,2,2018,delightful place,1.0,2,7.5,Positive,2,0
+5,2,2019,excellent place rest best recommend approved good taste,0.9,8,6.0,Positive,2,0
+3,2,2019,great place nice pool restaurant could option,0.7,7,5.571428571428571,Positive,2,0
+5,2,2023,great,0.8,1,5.0,Positive,2,0
+5,2,2021,perfect place rest lot fresh air 5 pool get crowded restaurant top food great location highly recommend,0.552,17,5.117647058823529,Positive,2,0
+5,2,2016,show,0.0,1,4.0,Neutral,1,0
+5,2,2019,clean organized,0.3666666666666667,2,7.0,Neutral,1,0
+5,2,2019,always excellent,1.0,2,7.5,Positive,2,0
+5,2,2020,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2021,everything sooo wonderful,1.0,3,7.666666666666667,Positive,2,0
+5,2,2023,camped tiradentes holiday friday sunday full however place big held well clean bathroom uptodate maintenance everything working water slide swimming pool zip line well prepared staff easy access location green ill back soon,0.06428571428571428,33,5.787878787878788,Neutral,1,0
+5,2,2021,stay different way camping trailer chalet apartment also possible use day use sensational recreation space swimming pool water slide childrens playground excellent homemade food breakfast lunch lake sport fishingat night walking foot little difficult get around due uneven floor low light,0.10541666666666667,41,6.048780487804878,Neutral,1,0
+4,1,2019,child love it,0.5,3,3.6666666666666665,Neutral,1,0
+5,1,2019,good place,0.7,2,4.5,Positive,2,0
+3,1,2022,good liked,0.6499999999999999,2,4.5,Positive,2,0
+5,1,2019,great place,0.8,2,5.0,Positive,2,0
+5,1,2019,great place perfect super organized leisure good food affordable price,0.7083333333333333,10,6.1,Positive,2,0
+4,1,2020,cool,0.35,1,4.0,Neutral,1,0
+5,1,2019,good whenever can ill go back camp,0.06666666666666665,7,4.0,Neutral,1,0
+5,2,2019,boom,0.0,1,4.0,Neutral,1,0
+5,2,2019,ive attending since 2009 get better new visit compliment,0.3181818181818182,9,5.333333333333333,Neutral,1,0
+4,1,2019,beautiful,0.85,1,9.0,Positive,2,0
+5,1,2021,cool camping tent reserved area open area shared bathroom sink nearby plenty plug point barbecue public use help lot that 3 cold pool one heated small guarantee fun child adult 2 restaurant fishing boat complete fun along tennis court multisports court pandemic much reference seem like place excitement family amazing,0.1,50,5.38,Neutral,1,0
+5,1,2020,beautiful,0.85,1,9.0,Positive,2,0
+5,1,2019,great place rest fun family,0.55,5,4.6,Positive,2,0
+4,1,2018,good experience fun daughter,0.5,4,6.25,Neutral,1,0
+4,1,2021,hard access,-0.2916666666666667,2,5.0,Negative,0,0
+5,1,2018,excellent place go walk family delicious breakfast good lunch good leisure option swimming pool worth trip,0.74,16,5.6875,Positive,2,0
+5,1,2016,excellent option,1.0,2,7.5,Positive,2,0
+5,1,2018,best place spend weekend lot greenery tranquility,1.0,7,6.142857142857143,Positive,2,0
+3,1,2015,peace good food,0.7,3,4.333333333333333,Positive,2,0
+5,2,2019,perfect,1.0,1,7.0,Positive,2,0
+4,1,2019,excellent,1.0,1,9.0,Positive,2,0
+5,1,2021,great location attentive staff,0.6000000000000001,4,6.75,Positive,2,0
+5,1,2019,tasty,0.0,1,5.0,Neutral,1,0
+5,2,2019,wonderful place created god green,0.4,5,5.8,Neutral,1,0
+5,2,2019,wonderful beautiful place relax,0.925,4,7.0,Positive,2,0
+5,1,2019,great place highly recommend,0.48000000000000004,4,6.25,Neutral,1,0
+4,1,2018,ive always liked campsite ive going since 2004 simple familiar place fishing area 1 pool even better,0.36875,17,4.9411764705882355,Neutral,1,0
+5,1,2019,camp great feature,0.8,3,5.333333333333333,Positive,2,0
+5,1,2018,cool peaceful fun place,0.3,4,5.0,Neutral,1,0
+5,1,2019,bad experience first visit due heavy rain ended flooding tent second opportunity reverse opinion offered workedwe close lake kitchen disposal bathroom gas heater campsite lot recreation cold heated swimming pool game room sauna fishing ground beautiful restaurant good foodworth knowing,-0.024999999999999998,40,6.175,Negative,0,0
+5,1,2017,camping tent vr cabin good bathroom restaurant service,0.7,8,5.875,Positive,2,0
+5,1,2018,great camping fair price tip expand pool area day use get crowded,0.75,12,4.5,Positive,2,0
+5,1,2020,good,0.7,1,4.0,Positive,2,0
+5,1,2017,spent weekend place good nice place family camp,0.39999999999999997,8,5.0,Neutral,1,0
+5,1,2019,good infrastructure affordable price,0.7,4,8.25,Positive,2,0
+5,1,2020,good fish nice service pleasant landscape good food drink,0.6833333333333333,9,5.444444444444445,Positive,2,0
+5,1,2021,rural area handsome,0.25,3,5.666666666666667,Neutral,1,0
+4,1,2021,pleasant place lot green area clean place good coffee lunch recommend it,0.39999999999999997,12,5.083333333333333,Neutral,1,0
+4,1,2020,cool,0.35,1,4.0,Neutral,1,0
+5,1,2022,good,0.7,1,4.0,Positive,2,0
+3,1,2018,great option enjoy family,0.6000000000000001,4,5.5,Positive,2,0
+2,3,2020,tel naum answersi need make reservation,0.0,6,5.666666666666667,Neutral,1,0
+5,2,2020,wonderful always love place,0.75,4,6.0,Positive,2,0
+3,1,2020,excellent quality work,1.0,3,6.666666666666667,Positive,2,0
+5,1,2020,excellent,1.0,1,9.0,Positive,2,0
+5,1,2020,pleasant environment good restaurant like little radical fun paintball field site recommend,0.3864583333333333,12,6.666666666666667,Neutral,1,0
+5,1,2020,good recommend,0.7,2,6.5,Positive,2,0
+5,1,2020,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2020,wonderful worth knowing,0.65,3,7.0,Positive,2,0
+5,2,2018,love coming campsite family friendly place swimming pool zip line trampoline playground contact nature tree insect place rest fun kid highly recommend it fifth visit,0.33375,25,5.64,Neutral,1,0
+5,2,2020,wonderful great structure easily accessible location helpful polite staff stayed guesthouse 3 day problem lot area tent several kiosk,0.54375,19,6.052631578947368,Positive,2,0
+3,2,2020,camped bathroom without lock door simple thing bother woman,0.0,9,5.666666666666667,Neutral,1,0
+5,2,2021,beautiful place landscape,0.85,3,7.666666666666667,Positive,2,0
+5,3,2020,good,0.7,1,4.0,Positive,2,0
+5,1,2019,great,0.8,1,5.0,Positive,2,0
+5,1,2019,super cool,0.3416666666666667,2,4.5,Neutral,1,0
+4,1,2019,good,0.7,1,4.0,Positive,2,0
+5,2,2019,beautiful place excellent organization great infrastructure spectacular service tasty food highly recommend,0.6820000000000002,12,8.0,Positive,2,0
+1,2,2023,go wont sent message answer question person answered make slightest point treating well responding politely think need customer,0.0,18,6.111111111111111,Neutral,1,0
+5,2,2022,incredible chale unique experience certainly big impact cozy place wonderful food polite staff definitely back,0.3458333333333334,15,6.4,Neutral,1,0
+5,2,2023,really liked place clean cozy environment,0.2555555555555556,6,6.0,Neutral,1,0
+5,2,2018,great place relax,0.8,3,5.0,Positive,2,0
+4,2,2023,incredible place several pool option used day use caveat bathroom far pool point found negative rest praise,0.175,17,5.352941176470588,Neutral,1,0
+5,2,2019,simple welcoming space great leisure family,0.4,6,6.333333333333333,Neutral,1,0
+5,2,2019,goodfirst time came camping husband 7 year old son small dog well attended first contact whatsapp awe structure camping plenty bathroom clean way several pool one heated free zip line short camping huge wonderful nature come back often recommend it,0.22666666666666666,40,5.225,Neutral,1,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+5,1,2019,without doubt camping best structure ever to,1.0,7,5.428571428571429,Positive,2,0
+5,2,2019,wonderful loved,0.85,2,7.0,Positive,2,0
+4,1,2019,liked it great service,0.7,4,4.75,Positive,2,0
+5,1,2021,good place,0.7,2,4.5,Positive,2,0
+5,1,2022,great,0.8,1,5.0,Positive,2,0
+4,1,2019,place good chalet structure camping area,0.7,6,5.833333333333333,Positive,2,0
+4,1,2018,cool,0.35,1,4.0,Neutral,1,0
+5,2,2019,family atmosphere close contact nature clean safe quiet go child elderly small animal,0.15416666666666667,13,5.615384615384615,Neutral,1,0
+5,2,2020,favorite camping everything clean organized service grade 10 varied menu breakfast lunch too fishing spot beautiful bathroom always clean swimming pool taste anyway love place,0.5166666666666667,25,6.04,Positive,2,0
+5,2,2019,wonderful place well structured,1.0,4,7.0,Positive,2,0
+5,2,2018,wonderful day already miss them chalet cute cozy cell phone reception meal delicious pool also great campsite attracts really nice people,0.6166666666666666,21,5.571428571428571,Positive,2,0
+5,2,2023,incredible leisure space perfect child good restaurant tasty food,0.8666666666666666,9,6.333333333333333,Positive,2,0
+5,1,2019,great time brother place wonderful campsite whole family great facility,0.7,10,6.2,Positive,2,0
+5,1,2019,excellent,1.0,1,9.0,Positive,2,0
+5,2,2019,good easy access variety activity leisure family peaceful pleasant environment camping great fishing too recommend,0.5833333333333334,15,6.666666666666667,Positive,2,0
+4,1,2019,good clean place great coffee lunch heated pool loved it plan go back soon thanks,0.4611111111111111,15,4.466666666666667,Neutral,1,0
+2,1,2020,family hated chalet 31 door bottom completely damaged tv signal terrible 76yearold mother see anything bathroom place store shampoo product complained owner solved bathroom problem tv problem continued toilet little loose barbecue horrible recommend chalet rest ok,-0.3219729344729345,37,6.162162162162162,Negative,0,0
+4,1,2018,good placelots fishvery familiar best,0.6916666666666668,5,6.6,Positive,2,0
+5,1,2017,wonderful place month returning top,0.75,5,6.2,Positive,2,0
+5,1,2017,delight go,0.0,2,4.5,Neutral,1,0
+4,1,2019,good,0.7,1,4.0,Positive,2,0
+4,1,2019,nice place 4 swimming pool 1 heated fast water slide appeal age steel cable reel child excellent bathroom facility large camping area without shade flat daily value per person camping 50 reais child 10 free criticism lot thing lack maintenance bocce ball ball pimbolin snooker without ball too reel also seen better time food good cheap looking save money good idea make food campsite picnic table site barbecue take grill,0.4262987012987013,70,5.042857142857143,Neutral,1,0
+5,1,2021,show,0.0,1,4.0,Neutral,1,0
+2,1,2019,went couple day use camper idea use pool structure place quite awkward pool small crowded place nameplate driving around found pool bar far pool comfortable place stay plastic chair umbrellasmany stair bathroom far pool uncomfortablefor day use recommend,-0.049999999999999996,38,5.7105263157894735,Negative,0,0
+5,1,2022,good place recommend,0.7,3,6.0,Positive,2,0
+5,1,2020,good quiet place,0.35,3,4.666666666666667,Neutral,1,0
+4,1,2021,family environment clean safe good restaurant swimming pool sufficient number holiday crowding outstanding service entire staff congratulation,0.4133333333333333,17,7.411764705882353,Neutral,1,0
+5,1,2017,good,0.7,1,4.0,Positive,2,0
+5,1,2017,nice place stay,0.6,3,4.333333333333333,Positive,2,0
+5,1,2022,well structured placegreat pool good food great camping area,0.75,9,5.777777777777778,Positive,2,0
+5,2,2019,family atmosphere impeccable service wonderful pool good restaurant affordable price,0.8166666666666668,10,7.5,Positive,2,0
+4,2,2019,paradise microwave suite room service night,0.0,6,6.333333333333333,Neutral,1,0
+5,1,2019,wonderful place speechless everyone congratulated work every possible recommendation,0.5,9,8.444444444444445,Neutral,1,0
+5,1,2023,connection nature outdoor adventure night star unique invigorating experience outdoor lover,0.375,11,7.363636363636363,Neutral,1,0
+5,1,2021,excellent place rest enjoy family spacious lot thing enjoy,0.6,9,5.555555555555555,Positive,2,0
+5,1,2020,great chalet far away great looking privacy visitor play loud music great looking mental peace girlfriend requested pokestops place play pokemon go rest assured able play too,0.42857142857142866,27,5.481481481481482,Neutral,1,0
+5,1,2018,excellent great place family environment various activity,0.6,7,7.285714285714286,Positive,2,0
+5,1,2022,excellent,1.0,1,9.0,Positive,2,0
+5,1,2019,great structure family atmosphere perfect spending day even extending stay option camping chalet available comfortable accommodation breakfast option also going spend day complete buffet fair price,0.5666666666666668,26,6.615384615384615,Positive,2,0
+5,1,2018,went camping really liked area reserved camper able use leisure area swimming pool one heated water slide zip line fishing etc,0.55,21,5.0476190476190474,Positive,2,0
+5,1,2019,childhood,0.0,1,9.0,Neutral,1,0
+4,1,2018,cool good food great spend day,0.6166666666666666,6,4.166666666666667,Positive,2,0
+3,1,2023,everything good unfortunately time problem shower chalet 11 shower little water hot skinning recommend place change it everything else fine,0.13583333333333333,20,6.0,Neutral,1,0
+5,1,2021,beautiful place kind people first several ill go there,0.24,9,5.111111111111111,Neutral,1,0
+4,1,2019,good,0.7,1,4.0,Positive,2,0
+4,1,2020,good,0.7,1,4.0,Positive,2,0
+3,1,2019,much problem gave sleep three night,0.2,6,5.0,Neutral,1,0
+5,2,2019,wellbeing,0.0,1,9.0,Neutral,1,0
+5,2,2020,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2020,good one heated pool,0.7,4,4.25,Positive,2,0
+5,2,2019,wonderful great place,0.9,3,6.333333333333333,Positive,2,0
+5,2,2021,good,0.7,1,4.0,Positive,2,0
+5,2,2018,everything wonderful breakfast lunch good recommend ill back sure,0.33999999999999997,9,6.333333333333333,Neutral,1,0
+5,2,2020,great place family outing polite staff always clean bathroom like much go camping twice year,0.45555555555555555,15,5.2,Neutral,1,0
+5,2,2019,clean organized place wonderful service attentive staff good people,0.6166666666666667,9,6.555555555555555,Positive,2,0
+5,2,2017,wonderful place rest enjoy family,0.7,5,5.8,Positive,2,0
+3,2,2021,good,0.7,1,4.0,Positive,2,0
+5,2,2017,cozy recommend,-0.19999999999999998,2,6.5,Negative,0,0
+5,2,2020,love place nature peace recommend,0.5,5,5.8,Neutral,1,0
+5,1,2019,cool spend weekend camping chalet great food site,0.575,8,5.25,Positive,2,0
+5,1,2018,camping customer many year every time return structure place improved compared campsite region organized recommend,0.5,15,6.666666666666667,Neutral,1,0
+5,1,2019,absolutely great place stay family friend good place camp spend time pool eat thing see star stay nature,0.75,18,4.833333333333333,Positive,2,0
+4,1,2019,good miss thing night,0.7,4,4.5,Positive,2,0
+5,1,2023,spent holiday place well received cool place place camp rent chalet fantastic place heated pool water slide clean bathroom team monitor playing day child various activity fishing spotfantastic,0.2033333333333333,28,5.892857142857143,Neutral,1,0
+5,1,2016,great place camp fun family friend,0.55,6,4.833333333333333,Positive,2,0
+5,2,2019,love im well served good food,0.6,6,4.0,Positive,2,0
+5,2,2019,good highly recommend,0.43,3,6.333333333333333,Neutral,1,0
+5,2,2018,wonderful place rest,1.0,3,6.0,Positive,2,0
+5,1,2019,wonderful place,1.0,2,7.0,Positive,2,0
+5,1,2018,excellent,1.0,1,9.0,Positive,2,0
+5,2,2019,beautiful place worth going again,0.575,5,5.8,Positive,2,0
+5,2,2022,ive several time even stayed chalet husband loved it top staff serve u well recommend place it wonderful,0.55,18,4.833333333333333,Positive,2,0
+5,3,2019,great option camping near capital sp friendly service impeccable structure guaranteed fun adult child,0.4041666666666666,14,6.285714285714286,Neutral,1,0
+5,2,2019,child adult alike place fantastic bathroom improved camping area nothing close structure offer soooo cool loved,0.38749999999999996,16,6.0,Neutral,1,0
+3,3,2019,beautiful,0.85,1,9.0,Positive,2,0
+3,3,2018,cool place go family service hot shower little water bed pillow left something desired good breakfast lunch simple well prepared,0.18541666666666665,20,5.45,Neutral,1,0
+4,2,2019,tidy clean bathroom general pleasant family environment good go child could improve number light point better organize parking,0.4785714285714286,18,6.055555555555555,Neutral,1,0
+5,2,2022,good,0.7,1,4.0,Positive,2,0
+5,1,2021,good day child lot fun price,0.5,6,3.8333333333333335,Neutral,1,0
+4,1,2021,problem restroom men woman same,0.0,5,5.4,Neutral,1,0
+4,1,2019,beautiful peaceful place,0.55,3,7.333333333333333,Positive,2,0
+5,1,2019,excellent infrastructure great meal,0.9,4,8.0,Positive,2,0
+5,1,2022,excellent camping,1.0,2,8.0,Positive,2,0
+5,1,2022,excellent option several camping area well maintained equipped full bathroom restaurant breakfast lunch restaurant dinner several swimming pool 1 heated water slide etc indoor football tennis court well maintained green area make that camped great family friendly silent everywhere,0.290625,39,6.230769230769231,Neutral,1,0
+5,1,2018,want rest family weekend go chapu sol leave comment,0.0,9,4.777777777777778,Neutral,1,0
+5,1,2016,best camping town close everything best attraction family,1.0,8,6.25,Positive,2,0
+2,1,2020,found nice place open market inside want barbecue buy charcoal go find market nearby,0.3,14,5.071428571428571,Neutral,1,0
+5,1,2019,great option spend weekend family,0.8,5,5.8,Positive,2,0
+5,1,2019,good structure swimming pool chalet camping worth visiting,0.5,8,6.375,Neutral,1,0
+5,1,2018,delicious pool perfect food family environment green highly recommended,0.49,9,7.0,Neutral,1,0
+4,1,2022,camping area note 10 motorhome area bathroom pool value mean salty 6000 daily camping date 09042022,-0.15625,16,5.25,Negative,0,0
+4,1,2023,really like sun hat one best campsite something need improved structure barbecue sink bottom could renovation rest really like,0.4666666666666666,19,5.684210526315789,Neutral,1,0
+3,1,2021,lack activity night quiet simple food game room charged separately one us it place free charged separately,0.0,17,5.294117647058823,Neutral,1,0
+4,1,2018,organized clean ideal family,0.6333333333333333,4,6.25,Positive,2,0
+5,1,2018,group played paintball lot fun,0.3,5,5.2,Neutral,1,0
+5,1,2021,excellent good infrastructure great service,0.8333333333333334,5,7.8,Positive,2,0
+5,2,2021,liked much im coming back,0.26666666666666666,5,4.2,Neutral,1,0
+5,1,2021,loved it everything perfect great relaxing polite knowledgeable staff food high quality recommend everyone,0.665,14,6.642857142857143,Positive,2,0
+5,1,2023,good resting,0.7,2,5.5,Positive,2,0
+4,1,2020,service good think lack activity adult child,0.39999999999999997,7,5.428571428571429,Neutral,1,0
+5,1,2021,sensational,0.6666666666666666,1,11.0,Positive,2,0
+5,4,2021,wonderful peaceful place rest mind body,0.625,6,5.666666666666667,Positive,2,0
+5,4,2020,pleasant family atmosphere impeccable service entire staff polite attentive recommend everyone,0.4708333333333333,11,7.636363636363637,Neutral,1,0
+5,2,2021,love passion little piece paradise next highway easy access super structure middle nature,0.1798611111111111,13,5.923076923076923,Neutral,1,0
+5,2,2017,wonderful place peaceful environment clean wonderful camping excellent chalet worth checking,0.6527777777777778,11,7.454545454545454,Positive,2,0
+5,1,2021,everything simple pleasant polite helpful staff plentiful good meal perfect place rest,0.6083333333333333,12,6.25,Positive,2,0
+4,1,2019,comment could little cheaper chalet need renovation atmosphere really cool,0.08124999999999999,10,6.5,Neutral,1,0
+3,1,2022,location beautiful good infrastructure facility left lot desired signage poor condition sign numbering chalet follow logical sequence,0.27999999999999997,17,6.882352941176471,Neutral,1,0
+5,1,2018,fantastic place lot option kid everything clean organized,0.38333333333333336,8,6.25,Neutral,1,0
+5,2,2021,wonderful corner,1.0,2,7.5,Positive,2,0
+5,2,2021,great organized clean bathroom hot water pool ten,0.3541666666666667,8,5.25,Neutral,1,0
+5,1,2021,good,0.7,1,4.0,Positive,2,0
+4,1,2017,great place relax fun recommend,0.55,5,5.4,Positive,2,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+4,1,2017,good accommodation simple food heated pool would better bigger,0.3,9,6.0,Neutral,1,0
+5,1,2018,great place spend weekend service excellent thankful day spent there,0.5666666666666667,10,5.9,Positive,2,0
+5,1,2022,loved camping great structure well organized maintained,0.75,7,7.0,Positive,2,0
+1,1,2022,gave due bad service booking price listed website value time booking via whatsapp another,-0.4124999999999999,14,5.428571428571429,Negative,0,0
+5,1,2022,excellent camping structure well organized,1.0,5,7.6,Positive,2,0
+5,1,2021,good camping experience complete place high spirit,0.32,7,6.285714285714286,Neutral,1,0
+5,1,2017,great place great structure,0.8,4,6.0,Positive,2,0
+4,2,2019,good,0.7,1,4.0,Positive,2,0
+5,2,2021,wonderful quiet great place rest family,0.6,6,5.666666666666667,Positive,2,0
+5,2,2022,recommend already stayed 6 time different chalet clean wellmaintained environment breakfast lunch top plenty variety attentive helpful staff downside opinion people drinking pool anxious go back,0.16944444444444443,26,6.5,Neutral,1,0
+5,2,2018,extremely well maintained beautiful,0.3625,4,8.0,Neutral,1,0
+5,2,2019,loved ithuge camping great weather excellent service worth spending weekend,0.7,10,6.6,Positive,2,0
+5,2,2022,best place rest leisure,1.0,4,5.0,Positive,2,0
+5,2,2015,good,0.7,1,4.0,Positive,2,0
+5,3,2022,simple comfortable silent tasty place easy location affordable price super recommend,0.23333333333333334,11,6.7272727272727275,Neutral,1,0
+5,2,2022,wonderful place loved experience want come back often polite staff super clean pool,0.48,13,5.461538461538462,Neutral,1,0
+5,2,2022,campsite topnotch ive going year ill always go sure,0.0,9,4.777777777777778,Neutral,1,0
+5,2,2022,love camping ive twice great structure well organized clean tent area perfect hope come back again,0.5333333333333334,16,5.1875,Positive,2,0
+5,2,2018,ive suspect 20 year,0.0,4,4.0,Neutral,1,0
+4,1,2022,good camping good infrastructure clean restroom,0.5888888888888889,6,7.0,Positive,2,0
+5,1,2021,accommodation amazing,0.6000000000000001,2,10.0,Positive,2,0
+5,1,2019,good place beautiful family,0.7749999999999999,4,6.0,Positive,2,0
+5,1,2018,good spend day spend weekend,0.7,5,4.8,Positive,2,0
+4,2,2022,much improved term pool good place enjoy fds,0.4333333333333333,8,4.625,Neutral,1,0
+5,2,2022,well organized clean wonderful place,0.6833333333333333,5,6.4,Positive,2,0
+5,2,2017,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2021,delicious environment,1.0,2,10.0,Positive,2,0
+1,2,2022,camping nice grass set tent bathroom clean kitchen clean want use iti intend return due number people enter day use want peace go campsite full day use people use loud music around pool sign can not enter glass bottle employee watching several people glass bottle inside poolits extremely crowded full people loud music cant even hear single song tranquility,0.17380952380952386,59,5.084745762711864,Neutral,1,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2017,familiar place,0.375,2,6.5,Neutral,1,0
+5,2,2018,wonderful place perfect relaxing close capital so paulo,1.0,8,6.0,Positive,2,0
+5,3,2021,looking place lunch friend commented camping much camping accommodation taste pleasant familiar healthy environment worth going visit,0.4216666666666667,17,6.882352941176471,Neutral,1,0
+5,2,2021,wonderful place heated pool zip line chalet fully structured camping,1.0,10,5.9,Positive,2,0
+5,2,2021,wellstructured camping power point spread throughout area wonderful heated pool clean bathroom attentive staff want camp option chalet cute definitely come back,0.37777777777777777,22,6.318181818181818,Neutral,1,0
+5,2,2021,loved,0.7,1,5.0,Positive,2,0
+5,2,2019,went back 2nd time always love wonderful breakfast got know fishing spot 1000 everything despite storm everything worked thanks god,0.33999999999999997,20,5.6,Neutral,1,0
+5,2,2023,loved place clean bathroom great camping structure communal kitchen attentive staff swimming pool fishing beautiful place went twice definitely come back again,0.44523809523809527,22,6.2727272727272725,Neutral,1,0
+4,2,2016,great place want rest,0.8,4,4.5,Positive,2,0
+5,2,2020,wonderful place contact nature perfect go couple also family child play ease,1.0,12,5.416666666666667,Positive,2,0
+1,2,2019,campground say take reservation came so bernardo arrived door packed tremendous disorganization,0.3333333333333333,12,7.0,Neutral,1,0
+3,3,2021,clean beautiful cozy especially couple leave lot desired term restaurant fishing service employee inattentive apathetic proactive beautiful safe camping area,0.39444444444444443,20,6.9,Neutral,1,0
+4,1,2021,good service bathroom leave little desired price little water shower spider little tight dry area change cool pool beautiful landscape top fishing checkin time late 1600 camping top worth it,0.17435515873015872,30,5.366666666666666,Neutral,1,0
+5,1,2021,good loved it family leisure,0.7,5,4.8,Positive,2,0
+5,2,2021,good ample space tent great,0.75,5,4.6,Positive,2,0
+5,1,2021,nice liked it great relaxing,0.6666666666666666,5,4.8,Positive,2,0
+3,1,2023,disappointed price due rule many before holiday left something desired hope improve place good,0.06499999999999999,14,5.785714285714286,Neutral,1,0
+5,1,2021,sensational place quiet clean familiar excellent food congratulation camping sun hat,0.48166666666666663,11,6.7272727272727275,Neutral,1,0
+5,1,2017,memorable moment family wonderful place,0.75,5,7.0,Positive,2,0
+5,1,2021,wonderful place,1.0,2,7.0,Positive,2,0
+5,1,2021,sensational place like tranquility family atmosphere fair price campsite highly recommend it,0.5088888888888888,12,6.75,Positive,2,0
+5,1,2023,good spent day there liked muchcongratulations reception sound great,0.4800000000000001,9,6.666666666666667,Neutral,1,0
+5,1,2023,great went camping excellent structure everything organized is one best camping site so paulo,0.9333333333333332,14,5.714285714285714,Positive,2,0
+4,1,2018,excellent option spend holiday family,1.0,5,6.6,Positive,2,0
+5,2,2023,im suspicious speak favorite campground love everything here attraction especially heated pool win winter always stay campsite love making bonfire night,0.45999999999999996,21,6.285714285714286,Neutral,1,0
+4,2,2016,good infrastructure swimming pool childrens toy lake restaurant kinda expensive,0.09999999999999998,10,7.0,Neutral,1,0
+5,1,2023,great liked lot,0.7,3,4.333333333333333,Positive,2,0
+5,1,2023,excellent recommend everyone,1.0,3,8.666666666666666,Positive,2,0
+5,2,2023,beautiful place quiet well maintained super nominate,0.39444444444444443,7,6.571428571428571,Neutral,1,0
+3,2,2023,use camping area beautiful place spacious heated pool excellent temperature night released 10 pm day lower temperature making water uncomfortable camping area no external lighting use flashlight go bathroom access heated pool could put trash can area disposal area debris open protected grid disposal waste exposed unpleasant closed sauna bathroom without toilet paper garbage basket full paper wifi area,0.07166666666666668,59,5.864406779661017,Neutral,1,0
+4,1,2023,good girl working restaurant well day went,0.7,7,5.142857142857143,Positive,2,0
+5,2,2023,camping great structure bathroom leisure clean swimming pool heated pool good portion snack day,0.6222222222222222,14,5.857142857142857,Positive,2,0
+5,2,2023,impeccable infrastructure super polite employee worth every penny,0.4611111111111111,8,7.25,Neutral,1,0
+5,2,2018,wonderful place spend holiday highly recommend it,0.58,7,6.142857142857143,Positive,2,0
+5,1,2023,wonderful experience impeccable service everything great,0.85,6,8.5,Positive,2,0
+5,1,2018,sensationalgreat structure respect quiet hour,0.0,5,8.2,Neutral,1,0
+5,1,2017,good place take child ha 1 toboggan run 2 swimming pool 1 heated swimming pool restaurant extensive camping sauna game room monitor play variety game,-0.025000000000000022,25,5.0,Negative,0,0
+5,1,2019,,0.0,1,0.0,Neutral,1,0
+5,1,2017,wellkept place need basic maintenance 100 clean,0.18333333333333335,7,5.857142857142857,Neutral,1,0
+5,1,2021,wonderful place heated pool,1.0,4,6.0,Positive,2,0
+5,2,2023,best camping region sure,0.75,4,5.25,Positive,2,0
+4,2,2023,love place beautiful staff polite previous call guest loved back sure,0.3972222222222222,11,5.363636363636363,Neutral,1,0
+4,2,2016,calm familiar open nonguest public extra attention must paid,0.135,9,5.777777777777778,Neutral,1,0
+3,2,2019,great place spend day family,0.8,5,4.8,Positive,2,0
+5,2,2018,love everything much,0.35,3,6.0,Neutral,1,0
+5,2,2022,excellent place relax fun,0.65,4,5.5,Positive,2,0
+3,1,2022,liked,0.6,1,5.0,Positive,2,0
+5,2,2021,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2022,great,0.8,1,5.0,Positive,2,0
+5,2,2019,love place,0.5,2,4.5,Neutral,1,0
+5,2,2022,good friendly people good service,0.5916666666666667,5,5.8,Positive,2,0
+5,1,2022,good clean bathroom great pool recommend,0.6222222222222222,6,5.833333333333333,Positive,2,0
+5,1,2022,wonderful place family atmosphere employee attentive,0.7,6,7.833333333333333,Positive,2,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+5,1,2018,one best campsite so paulo,1.0,5,4.4,Positive,2,0
+5,1,2022,wonderful place service excellence real congratulation went came back im already getting ready go,0.35,14,6.0,Neutral,1,0
+5,1,2019,excellent perhaps making bathroom area pingpong table could good idea,0.85,10,6.0,Positive,2,0
+4,1,2022,lowered level coffee lunch,0.0,4,5.75,Neutral,1,0
+5,1,2021,great camping community kitchen restaurant simple food,0.4,7,6.857142857142857,Neutral,1,0
+5,1,2018,good great place,0.75,3,4.666666666666667,Positive,2,0
+5,1,2021,camping changed lot since started going great good leisure option good restaurant,0.7333333333333334,12,5.833333333333333,Positive,2,0
+5,1,2020,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2018,good place back,0.35,3,4.333333333333333,Neutral,1,0
+5,1,2022,wonderful experience excellent value money,1.0,5,7.6,Positive,2,0
+5,1,2022,stayed remote tent site best thing did movement tranquility nature without fear making mistake recommend,0.45,15,6.0,Neutral,1,0
+5,1,2022,camping familiar nice structure recreation day long mainly child serf breakfast lunch included accommodation package close city itu,0.27291666666666664,18,6.333333333333333,Neutral,1,0
+5,1,2017,great camping one best,0.9,4,4.75,Positive,2,0
+5,1,2023,great place,0.8,2,5.0,Positive,2,0
+5,1,2020,nice place many giant tambacu there lot,0.3666666666666667,7,4.714285714285714,Neutral,1,0
+5,2,2022,love it top infrastructurefriendly staffwe definitely backtop guy,0.3333333333333333,8,7.25,Neutral,1,0
+5,2,2022,camping beautiful large many pool clean bathroom also clean restaurant food delicious spent wonderful day family intend come back often fruit water go child like me found good,0.4897619047619048,28,5.285714285714286,Neutral,1,0
+5,1,2022,great environment looking honeymoon trip family space large plenty green area chalet cozy good food breakfast lunch complete great experience definitely back enjoy it,0.2904761904761905,24,5.958333333333333,Neutral,1,0
+4,2,2022,good,0.7,1,4.0,Positive,2,0
+5,1,2022,much,0.2,1,4.0,Neutral,1,0
+5,1,2022,visualized page internet could never imagined everything big well organized definitely back,0.0,12,6.666666666666667,Neutral,1,0
+5,2,2018,beautiful place nature good pool food,0.7749999999999999,6,5.333333333333333,Positive,2,0
+5,2,2018,really enjoyed place,0.5,3,6.0,Neutral,1,0
+5,2,2022,delightful family weekend many attraction age,0.75,6,6.666666666666667,Positive,2,0
+5,2,2023,great experience place beautiful clean simply wonderful,0.7541666666666667,7,7.0,Positive,2,0
+5,1,2018,excellent good liked much,0.625,4,5.5,Positive,2,0
+4,1,2022,cool liked,0.475,2,4.5,Neutral,1,0
+5,1,2017,great place,0.8,2,5.0,Positive,2,0
+5,1,2020,thing missing serf serf site middle week everything else great nice staff,0.30000000000000004,12,5.166666666666667,Neutral,1,0
+5,2,2018,great staff reception cleaning attentive helpful wonderful place,0.7333333333333334,8,7.125,Positive,2,0
+4,2,2017,great spot camping excellent infrastructure clean restroom good location need fix water slide,0.7166666666666668,13,6.230769230769231,Positive,2,0
+5,2,2022,super wooded place great lunch breakfast chalet always clean staff attentive helpful reception cleaning family friendly place pool wonderful congratulation highly recommend,0.4907142857142857,22,6.863636363636363,Neutral,1,0
+5,2,2018,paradise exist,0.0,2,6.5,Neutral,1,0
+5,2,2022,doubt paradise exists invite come discover itthe best place world,1.0,10,5.6,Positive,2,0
+4,1,2018,great place sunbathe swim pool,0.8,5,5.2,Positive,2,0
+4,2,2018,day use spent day campsite food great beautiful pleasant place pool ok cold ended going in game area maintenance ended playing pool walked trail visited fishing spot,0.25476190476190474,27,5.148148148148148,Neutral,1,0
+5,1,2018,good place,0.7,2,4.5,Positive,2,0
+5,2,2021,good,0.7,1,4.0,Positive,2,0
+5,2,2021,beautiful place everything clean great snack bar service reception note 10 super attentive friendly everyone respect law silence night always stay inn wonderful camping area tent too super organized community kitchen clean bathroom wonderful place,0.5824999999999999,35,6.085714285714285,Positive,2,0
+5,2,2019,place structure love camping,0.5,4,6.25,Neutral,1,0
+5,2,2020,family atmosphere,0.0,2,8.0,Neutral,1,0
+4,1,2021,great place could improve price per person camping light dark camping area,0.3500000000000001,12,5.25,Neutral,1,0
+5,2,2021,great,0.8,1,5.0,Positive,2,0
+5,2,2021,wonderful super cozy great go family friend relax alone enjoy nature good price good food certain variety clean pool,0.47936507936507944,19,5.157894736842105,Neutral,1,0
+5,1,2021,great spending weekend,0.8,3,6.666666666666667,Positive,2,0
+4,1,2020,good,0.7,1,4.0,Positive,2,0
+5,1,2018,went camping wife child beautiful wellkept gigantic place got violent rain flooded tent administration lent u chalet spend night kind loved pool water slide court fishing ground etc anyway worth it whole family apart visit historic center it,0.21874999999999997,38,5.368421052631579,Neutral,1,0
+2,1,2017,interesting place good food good tour excellent infrastructure fantastic landscape however safety aspect water slide precarious violent going pool hit knee elbow wife hit head nothing serious happened one time another could happen changed experience campsite go back again,0.2708333333333333,39,6.0,Neutral,1,0
+5,1,2022,great camping first camp son loved,0.5833333333333334,6,4.833333333333333,Positive,2,0
+4,1,2019,recommend,0.0,1,9.0,Neutral,1,0
+5,1,2020,complete entertainment whole family,0.15000000000000002,4,8.0,Neutral,1,0
+4,1,2017,great camping several chalet place camp clean bathroom pool chair heated pool small get hot there still space stay there literal fence,0.23333333333333334,22,5.136363636363637,Neutral,1,0
+5,1,2017,place beautiful,0.85,2,7.0,Positive,2,0
+5,1,2018,camping excellent structure great place child fun attentive monitor,0.625,9,6.555555555555555,Positive,2,0
+4,1,2017,top family place cozy fun wall great,0.35000000000000003,7,4.285714285714286,Neutral,1,0
+5,1,2017,good show clean quiet cozy family,0.21666666666666667,6,4.666666666666667,Neutral,1,0
+5,1,2023,even though quite busy area well served swimming pool bathroom restaurant great structure negative point noise even 10pm,0.20000000000000004,18,5.722222222222222,Neutral,1,0
+5,1,2021,camping area good two communal kitchen fridgebathrooms cleaned frequently almost gas shower could ventilation one bathroom electric showerit fishing area two cold pool heated pool zip line playground game room restaurantthe environment familiar calm go intention mess around late noise 10 pm severely reprimanded security even witnessed expulsion group refused lower ball,0.0,52,6.153846153846154,Neutral,1,0
+5,1,2016,excellent place fun close nature well maintained infrastructure great service recommend,0.7000000000000001,11,7.0,Positive,2,0
+4,1,2019,great place missing locker store belonging,0.30000000000000004,6,6.166666666666667,Neutral,1,0
+3,1,2021,place good think lack accessibility elderly people wheelchair user,0.7,9,6.444444444444445,Positive,2,0
+5,3,2021,second time visited campsite love it style organization cleanliness really like it,0.2333333333333333,12,5.916666666666667,Neutral,1,0
+4,1,2021,recommended camping planning take whole family,0.2,6,6.833333333333333,Neutral,1,0
+1,2,2021,beautiful place,0.85,2,7.0,Positive,2,0
+5,1,2021,highly recommend it cleanliness environment restaurant clean food delicious education employee firstclass thing,0.508888888888889,13,7.615384615384615,Positive,2,0
+5,1,2018,fantastic place,0.4,2,7.0,Neutral,1,0
+2,1,2019,swimming pool dirty even absorbent pad,-0.6,6,5.5,Negative,0,0
+5,1,2022,wonderful place,1.0,2,7.0,Positive,2,0
+5,1,2018,excellent family,1.0,2,7.5,Positive,2,0
+4,1,2018,good place especially child play,0.35,5,5.6,Neutral,1,0
+5,1,2018,definitely great place spend weekend familycouple second time visited camping first time 2018 october 2021 place remains structure fantastic chalet well organized clean excellent staff recreational activity,0.4694444444444445,27,6.666666666666667,Neutral,1,0
+5,1,2023,nice quiet place recommend,0.3,4,5.75,Neutral,1,0
+2,3,2020,place clean organized food restaurant good upset chalet number 31 door stuck locked left take personal belonging television work toilet loose floor practically socket bad connection problem easy solve routine maintenancethe campsite lacked commitmentas rent cheap,0.12108262108262109,36,6.333333333333333,Neutral,1,0
+5,2,2020,place good everything good,0.7,4,5.75,Positive,2,0
+5,2,2017,traditional stop serra cip,0.0,4,5.75,Neutral,1,0
+5,1,2020,wonderful beautiful place look like paradise,0.925,6,6.5,Positive,2,0
+5,1,2020,great reception excellent infrastructure camped everything great,0.8666666666666667,7,8.285714285714286,Positive,2,0
+5,1,2018,wonderful great place recommend it,0.9,5,6.0,Positive,2,0
+4,1,2018,excellent,1.0,1,9.0,Positive,2,0
+5,1,2019,extremely familiar good structure lack electricity water stayed new year eve 20189 nothing left desired polite solicitous attentive professional bathroom cleaned sanitized every day kitchen community bench too space tent already several faucet masonry barbecue space sink lot tree spare mosquito little several pool cold acclimatized heated restaurant good open lot recreation kid finish there also little bit adult including hydrofoil around lunchtime there toboggan monster scary quite radical lol recommend sitting first time value make investment familiar find friendly smiling camper fun messfree quiet good place camping big wonderful huge newly renovated fishing spot worth it,0.21331168831168834,97,6.051546391752577,Neutral,1,0
+4,1,2019,good although little expensive,0.004166666666666652,4,6.75,Neutral,1,0
+5,1,2017,wonderful place exceeded expectation great atmosphere excellent service stunning setting,0.825,10,7.9,Positive,2,0
+5,1,2022,wonderful,1.0,1,9.0,Positive,2,0
+4,1,2022,wonderful place destress good accommodation attentive staff restaurant great meal super friendly staff thing approve ban taking thermal bag beer soda pool fishing ground overall 4 star,0.5154761904761905,27,5.851851851851852,Positive,2,0
+5,1,2017,super nice camping family atmosphere recommend rest,0.4666666666666667,7,6.428571428571429,Neutral,1,0
+5,1,2020,perfect multiple fun option maintaining social distancing swimming pool taste different depth shape including one heated water well fishing trail bowl among option enjoy day restaurant cafeteria chalet inn prefer place motorhome trailer space camping infrastructure electricity water changing room bathroom due pandemic attraction yet working sauna toboggan order avoid contact crowd people treelined avenue always clean ensuring freshness walking comfort stay still counting excellent service attention complete team always working keep everything working recommend,0.3075,75,6.56,Neutral,1,0
+5,1,2020,super family atmosphere,0.3333333333333333,3,7.0,Neutral,1,0
+5,1,2018,great place spend weekend,0.8,4,5.5,Positive,2,0
+4,1,2020,great place rest weekend sport fishing,0.8,6,5.5,Positive,2,0
+5,1,2019,beautiful pleasant place great restaurant everything well organized clean top,0.65,10,6.8,Positive,2,0
+5,1,2018,simply sensational,0.6666666666666666,2,8.5,Positive,2,0
+5,1,2022,top place,0.5,2,4.0,Neutral,1,0
+5,1,2019,amazing place good vacation,0.65,4,6.0,Positive,2,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+5,1,2018,good camping,0.7,2,5.5,Positive,2,0
+5,1,2019,great place camping large area swimming pool restaurant snack bar fishing area camping area wooden chalet masonry chalet zip line also activity monitor season camping newest structure best bathroom area close fishing ground shower gas heated bathroom newer area,0.5035714285714286,39,5.717948717948718,Positive,2,0
+3,1,2019,great camping environment service also good would praise say place stay value are high justify camping offer possible afford complete trip northeast country including hotel stay charged day camping chalet really overpriced,0.32666666666666666,32,5.96875,Neutral,1,0
+5,1,2023,always well attended staff attentive polite restaurant great food everything clean bathroom camper great condition hot water several pool pleasant environment top recreation commemorative date vacation aunt fu make kid adult happy animated hydro bath,0.4750000000000001,35,6.171428571428572,Neutral,1,0
+4,1,2021,nice place camping spend good time family barbecue could private modality single night,0.3071428571428571,13,5.6923076923076925,Neutral,1,0
+4,1,2018,place need little development crowded barbecue facility available swimming pool,0.10625000000000001,10,7.0,Neutral,1,0
+4,1,2017,beautiful place,0.85,2,7.0,Positive,2,0
+5,2,2020,highly recommend it good place lot greenery peace stayed wooden chalet cozy breakfast top notch lunch also good everything perfect,0.40857142857142864,20,5.55,Neutral,1,0
+5,1,2017,excellent service great location,0.9,4,7.25,Positive,2,0
+5,1,2018,fun,0.3,1,3.0,Neutral,1,0
+4,1,2019,spacious place several pool option good age several water activity guided instructor biggest problem fact pool large make difficult two busy one,0.0857142857142857,22,5.590909090909091,Neutral,1,0
+5,2,2017,excellent place swimming pool playground restaurant recommend it,1.0,8,7.125,Positive,2,0
+5,3,2017,good place,0.7,2,4.5,Positive,2,0
+5,2,2017,great place,0.8,2,5.0,Positive,2,0
+5,2,2020,nice place clean bathroom great structure camping good programming child loved already want go back super recommended,0.5000000000000001,17,5.9411764705882355,Positive,2,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2021,clean organized uptodate maintenance calm family breakfast lunch well varied without excess require mask restaurant proper alcohol bad point night service dinner snack bar bar restaurant closed 5pm weekday,-0.026666666666666623,29,6.103448275862069,Negative,0,0
+5,2,2018,good great service beautiful place,0.7833333333333333,5,6.0,Positive,2,0
+5,2,2018,really enjoyed stay campsite ok family everything sooooo clean everything order friendly staff food homemade landscaping beautiful see leave everything yourself nature really nice planning definitely come back,0.39895833333333336,28,6.5,Neutral,1,0
+5,2,2020,wonderful place quiet beautiful natural landscape clean chalet thing oven chalet 22 work anyway good food fishing restaurant good want come back often,0.46458333333333335,23,5.565217391304348,Neutral,1,0
+5,1,2017,wonderful,1.0,1,9.0,Positive,2,0
+4,1,2017,camped childrens day holiday already imagined would full full place completely packed promotion day use increased demand beautiful camping chapu de sol despite huge number people format distribution campsite accommodates many people chalet well spread 4 tent area quite large equipped toilet set quite far apart other far away saw two took drive leaving place 3 swimming pool playground game room court sauna paintball replica indigenous village attraction honestly think could see everything must forgetting thing others worth commenting on like bocce court well detonated still expanding soon fishing lake another pool beautiful service super attentive helpful saw people cleaning camping bathroom night team hired cheer child great downside found restaurant system used said camping huge well distributed hardly idea how many people inside want eat drink something mealtime restaurant quite full queue last long time there point arriving early release serving line there already considerable queue prevents occurrence wild west scene family atmosphere quality food end everyone left satisfied hope big holiday prioritize guest day use otherwise avoid overcrowding like childrens day,0.24658730158730155,173,5.855491329479769,Neutral,1,0
+4,1,2018,familiar cozy atmosphere ive going place since childhood looking close nature restaurant infrastructure game room swimming pool interesting option,0.06875,19,6.7368421052631575,Neutral,1,0
+3,1,2019,liked place found cheap enter paid 40 reais per person monday end week look like 50 problem lunch good many option boiled meat chicken fillet thing consumption type portion drink cheap still really worth it next time im going rent chalet instead day use see like seems cost 570 weekend,0.2875,50,4.72,Neutral,1,0
+5,1,2019,well organized clean place,0.3666666666666667,4,5.75,Neutral,1,0
+5,1,2020,nice place,0.6,2,4.5,Positive,2,0
+5,1,2017,think simply necessary everyone know sun hat family comfortable space location accommodation,0.2,12,6.75,Neutral,1,0
+5,1,2018,top 10,0.5,2,2.5,Neutral,1,0
+5,1,2020,good highly recommend,0.43,3,6.333333333333333,Neutral,1,0
+4,2,2017,spent holiday camping crowded nice atmosphere,0.25,6,6.666666666666667,Neutral,1,0
+5,2,2021,wow fantastic place recommend eye closed family atmosphere great service favorite place,0.34,12,6.333333333333333,Neutral,1,0
+4,2,2018,small place good facility family outing,0.22499999999999998,6,5.666666666666667,Neutral,1,0
+4,2,2021,loved place first time well organized enjoyed lot family,0.48333333333333334,9,5.333333333333333,Neutral,1,0
+4,2,2016,nice nice place simple breakfast,0.39999999999999997,5,5.6,Neutral,1,0
+5,2,2022,wonderful place rest family peaceful great structure organization security highly recommend come back several time worth,0.35857142857142854,16,6.5625,Neutral,1,0
+4,2,2017,go long holiday weekend recommend it,-0.05,6,5.166666666666667,Negative,0,0
+5,2,2020,love heated pool chalet,0.5,4,5.0,Neutral,1,0
+5,2,2018,excellent place,1.0,2,7.0,Positive,2,0
+5,1,2017,showtop place,0.0,2,6.0,Neutral,1,0
+4,1,2019,nice place spend weekend family recommend,0.6,6,6.0,Positive,2,0
+4,1,2017,clean organized,0.3666666666666667,2,7.0,Neutral,1,0
+4,4,2017,great camping,0.8,2,6.0,Positive,2,0
+5,3,2019,say place hotel possibility camping exceptional place festive event spacious place several leisure option great family atmosphere good food sensational fishing spot also indigenous tribe performs public staying there,0.47222222222222227,29,6.482758620689655,Neutral,1,0
+5,2,2019,loved intend go back,0.35,4,4.25,Neutral,1,0
+5,2,2019,love place highly recommend it,0.33,5,5.2,Neutral,1,0
+5,2,2019,beautiful organized familiar clean place,0.5305555555555556,5,7.2,Positive,2,0
+2,2,2021,tasty especially child inconvenience 220v take coffee machine aiy frayer electric rice cooker minibar cant use anything still left 2 small child minibar 10000 night apart good,0.11249999999999999,27,5.518518518518518,Neutral,1,0
+4,1,2019,spacious well maintained clean place heated pool,0.3666666666666667,7,6.0,Neutral,1,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2020,family camping well maintained managed,0.0,5,6.8,Neutral,1,0
+4,2,2020,fresh air tranquility wellmade homemade food plenty food good swimming pool,0.5,11,5.909090909090909,Neutral,1,0
+5,2,2023,sensational camping swimming pool space restaurant lunch coffee,0.6666666666666666,8,7.0,Positive,2,0
+5,2,2019,soooooo good,0.7,2,5.5,Positive,2,0
+5,2,2019,wonderful place peace,1.0,3,6.333333333333333,Positive,2,0
+5,2,2020,great place spend day familyit incredible experiencecongratulations,0.8500000000000001,7,8.714285714285714,Positive,2,0
+5,2,2020,great family environment,0.8,3,7.333333333333333,Positive,2,0
+5,2,2021,beautiful place organized good camping area several pool really liked place,0.5375,11,5.909090909090909,Positive,2,0
+5,2,2021,great place missed ambient sound waterslide pool general everything pleasant great service good food fair price,0.5976190476190476,16,6.0,Positive,2,0
+5,2,2019,best region opinion pleasant well maintained great service,0.8444444444444444,8,6.375,Positive,2,0
+5,2,2021,familiar place 4 swimming pool one heated good infrastructure,0.5375,9,5.888888888888889,Positive,2,0
+5,2,2021,love going,0.5,2,4.5,Neutral,1,0
+5,2,2022,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2020,good,0.7,1,4.0,Positive,2,0
+2,2,2020,rude reception girl swimming pool game room court bathroom camping area lack maintenance went camping carnival service terrible moment arrived need review rule better guide employee certainly rethink whether return campsite next carnival,-0.16428571428571428,33,6.212121212121212,Negative,0,0
+5,2,2023,campsite huge super well structured went holiday even though quite crowded bathroom always clean cabin shower staff respect quiet hour much really make noise even day many bathroom trash can scattered around sink washing dish 220v socket point pool large lot fun whole family bad point complimentary coffee offered restaurant looked like tea mere detail ill resolve next time taking stove put mine on arrive day setting tent dark pretty bad,0.030252100840336152,71,5.211267605633803,Neutral,1,0
+5,2,2019,good,0.7,1,4.0,Positive,2,0
+5,2,2022,excellent extremely familyfriendly camping chalet breakfast lunch included food excellent ive twice recommend,0.625,13,7.461538461538462,Positive,2,0
+5,1,2020,spectacular campsite huge infrastructure several bathroom shower bit pricey worth,0.325,10,7.2,Neutral,1,0
+5,3,2020,good,0.7,1,4.0,Positive,2,0
+5,2,2020,paradise great,0.8,2,6.5,Positive,2,0
+4,2,2023,nice place close nature mini hotel chalet rent camping space trailer parking however frequent camping hygiene pet cat leaving animal business grass collecting them also lot cat rain grass full dew unbearable stench would rule animal price cheap person visit place ugh every year dog cat lot bad smell due animal urine feces,0.10416666666666664,53,5.113207547169812,Neutral,1,0
+5,1,2020,me best family camping region clean wellmaintained lot space several pool restaurant several option chalet organized fair price there clutter really familiar space highly recommend,0.37166666666666665,25,6.24,Neutral,1,0
+5,1,2018,one best campsite ive ever visited great infrastructure swimming pool 60 meter water slide addition fishing paintball arena super recommend,0.7111111111111111,20,6.0,Positive,2,0
+5,1,2021,place respect asd childrenteenagers offer discount kind breakfast cost r2500 per head lunch around r5400 per kg food honest delicious ate lot always employee looking place attraction u heated pool basketball court watching sunset sunrise campsite allows come go stay go plaza itu shopping mall 5 minute away campsite,0.7333333333333334,49,5.469387755102041,Positive,2,0
+5,1,2017,good entertained breakfast great delicious,0.8333333333333334,5,7.6,Positive,2,0
+5,1,2019,amazing place clean organized excellent camping,0.6555555555555556,6,7.0,Positive,2,0
+5,1,2018,loved,0.7,1,5.0,Positive,2,0
+5,2,2018,best camping itu excellent infrastructure 5 swimming pool one heated 3 camping area fishing lake paintball area restaurant snack bar electricity tent 220v,1.0,23,5.739130434782608,Positive,2,0
+5,2,2018,love camping super clean family friendly great pool quiet peaceful place relax affordable price polite helpful staff,0.375,17,5.882352941176471,Neutral,1,0
+5,2,2019,always go based income far best value money region trade maeda example good food affordable price swimming pool wellkept place,0.6,20,5.35,Positive,2,0
+4,2,2018,great place lodging chalet swimming pool family child beautiful room fishing area lake great grass room heater wellstructured restaurant lunch will drink place great environment camping,0.8125,26,6.153846153846154,Positive,2,0
+4,1,2018,good suitable family track,0.625,4,5.75,Positive,2,0
+3,1,2021,terrible shower cold water broken bed 3 star nature,-0.6666666666666666,9,4.777777777777778,Negative,0,0
+5,1,2018,wonderful lot fun peace nature family,0.65,6,5.333333333333333,Positive,2,0
+5,1,2022,good great service,0.75,3,5.333333333333333,Positive,2,0
+5,1,2019,yes great place good accommodation clean familiar environment good service excellent staff mention delicious meal,0.7059523809523809,15,6.6,Positive,2,0
+5,1,2018,cool wellmaintained place went camping first time family felt home everything clean nice recreation good food ill back often lighting improve especially swimming pool area toy stair handrail suggested,0.22083333333333333,29,5.931034482758621,Neutral,1,0
+5,1,2018,cool camping took day use intend go back camp,0.175,9,4.111111111111111,Neutral,1,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+5,1,2018,stayed weekend chalet everything simple nice excellent value money family love it,0.525,12,5.833333333333333,Positive,2,0
+5,1,2018,one best camping experience ive ever had normal heated pool sauna bar restaurant fishing sport court paintball clean bathroom double sheet toilet paper charming cozy chalet ample parking entire gastronomic structure space work 2200 fantastic experience great price,0.31833333333333336,38,5.973684210526316,Neutral,1,0
+5,1,2019,best trip life quiet place area tent chalet good infrastructure many swimming pool water slide dominates child breakfast lunch evening snack great age intend return,0.6,25,5.6,Positive,2,0
+5,1,2023,showeverything wanted good experience recommend,0.7,5,8.6,Positive,2,0
+3,1,2017,quite frequented,0.0,2,7.5,Neutral,1,0
+4,3,2018,fishing good good fish great service,0.7333333333333334,6,5.166666666666667,Positive,2,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+4,1,2020,quiet place rest respect lot fun kid peace mind parent however management must rigorous come respecting quiet hour people tent listening music talking loudly 0030,0.1,25,5.52,Neutral,1,0
+4,1,2015,spent weekend 2011 holiday campsite fiance food really good also quiet missed better program adultsmost attraction child,0.275,17,6.117647058823529,Neutral,1,0
+5,1,2018,great spot good camping fun entertainment team,0.6,7,5.714285714285714,Positive,2,0
+4,1,2018,good weekend holiday crowded weekend privacy greater,0.6,7,6.571428571428571,Positive,2,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+5,1,2016,legal,0.2,1,5.0,Neutral,1,0
+5,1,2020,good place spend holiday,0.7,4,5.25,Positive,2,0
+5,1,2022,wonderful place negative point wish would go back sauna,0.2333333333333333,9,5.222222222222222,Neutral,1,0
+5,1,2017,without word worth every penny paid,0.3,6,5.0,Neutral,1,0
+5,3,2022,guy sun hat fantastic im already user family volleyball group held fraternization beautiful fantastic day use group loved much reception camping entrance exit pleasant hug dear cidinha who together dbora sergio scheduled everything time reception show show show know miss new year eve sun hat wonderful family fun environment,0.5244107744107744,49,5.653061224489796,Positive,2,0
+4,1,2022,cafeteria cashier slow serve thus form giant queue,-0.15000000000000002,8,5.375,Negative,0,0
+5,1,2022,complete camping fair price everything well looked after hot shower nearby dishwashing facility also nearby pool transparent waterslide look smooth fast cool zipline fishing spot beautiful really saw guy catching bite went family everyone loved it come back sure,0.4041666666666666,39,5.743589743589744,Neutral,1,0
+5,3,2022,great place renew energy nature,0.8,5,5.4,Positive,2,0
+5,1,2022,location excellent space camping staying chalet inn four large space camping energy structure bathroom communal kitchen addition restaurant paid separately breakfast paid separately zip line fishing several space rest go camping forget take electric extension tarp insect repellent firewood lamp make space pleasant space named signposted even possible go motorhome trailer that contact campsite restaurant cozy structure ample space good food breakfast lunch,0.19345238095238093,63,6.301587301587301,Neutral,1,0
+4,1,2017,good place spend weekend family organized clean employee attentive anyway want come back often,0.3666666666666667,14,5.785714285714286,Neutral,1,0
+5,1,2022,excellent place rest enjoy whether family couple,0.7,7,6.0,Positive,2,0
+5,1,2022,great place go family guaranteed fun,0.55,6,5.166666666666667,Positive,2,0
+5,1,2022,excellent camping,1.0,2,8.0,Positive,2,0
+5,1,2017,beautiful place,0.85,2,7.0,Positive,2,0
+5,1,2019,nice place clean bathroom good pool,0.5555555555555555,6,5.0,Positive,2,0
+5,1,2020,great,0.8,1,5.0,Positive,2,0
+5,1,2020,nice place family atmosphere good quantity variety fish lake try meal there,0.6499999999999999,12,5.333333333333333,Positive,2,0
+4,1,2016,good friendly service organized place good restaurant spent weekend camping family child able fun lot contact nature,0.4124999999999999,17,5.882352941176471,Neutral,1,0
+5,1,2020,great spend family,0.8,3,5.333333333333333,Positive,2,0
+5,1,2022,many camping area electric power point throughout area communal kitchen barbecue located strategic location clean restroom family environment receptive staff monitor thing left something desired lighting night make difficult user circulate,0.09166666666666667,31,6.741935483870968,Neutral,1,0
+5,1,2021,wonderful,1.0,1,9.0,Positive,2,0
+4,1,2021,tidy place great location going chapada tasty barbecue good self service option clean restroom,0.6166666666666666,14,5.785714285714286,Positive,2,0
+4,2,2022,love camping criterion sound camper go place quiet,0.3,8,5.375,Neutral,1,0
+5,2,2021,wonderful place perfect food coffee ill back soon,0.375,8,5.25,Neutral,1,0
+5,2,2018,great place kid great food cheap price,0.6666666666666666,7,4.571428571428571,Positive,2,0
+4,2,2022,good place take family rest intend return,0.7,7,5.0,Positive,2,0
+5,2,2023,loved stay place beautiful wonderful place excellent disconnect hustle bustle big city connect nature definitely back already recommended people stayed working tomorrowland brasil 2023,0.5916666666666667,24,6.708333333333333,Positive,2,0
+5,2,2017,went 2016 came back easter holiday still good stayed chalet 30 simple clean comfortable equipped family leisure recreation attentive staff took uber reception arrived itu bus went chalet foot kind guy took suitcase motorbike door get back nice girl reception gave ride exit grade 10,0.3407407407407408,45,5.288888888888889,Neutral,1,0
+5,2,2019,complete many leisure option daughter love it,0.3666666666666667,7,5.571428571428571,Neutral,1,0
+5,2,2023,great service clean well maintained place clean pool great place rest,0.5833333333333334,11,5.363636363636363,Positive,2,0
+5,2,2022,wonderful like difference level pool there lot hill go down,0.4222222222222222,10,5.0,Neutral,1,0
+5,2,2022,excellent spend weekend,1.0,3,7.0,Positive,2,0
+5,1,2022,nice camping family enjoyed much good service excellent fishery food note 10,0.7,12,5.416666666666667,Positive,2,0
+5,1,2022,easy access good structure spacious camped 2 day problem power supply bathroom always cleanwe stayed quieter area little away pool always busy chaosas today 1122 price ok r 60 entry consumption fishery little saltier eating well leave least around 60 70 2 people worth experience absurdi highly recommend space worth every minute real invested,0.1834848484848485,54,5.37037037037037,Neutral,1,0
+5,1,2021,lot place enjoyed lot family,0.5,5,4.8,Neutral,1,0
+5,1,2019,lot showprice little high good,0.22416666666666665,5,5.2,Neutral,1,0
+4,1,2019,receptiveness fun leisure rest good memory,0.5,6,6.166666666666667,Neutral,1,0
+5,1,2022,organized place great structure ideal go child,0.8500000000000001,7,5.714285714285714,Positive,2,0
+1,1,2020,let u see campsite made u come back week,0.0,9,3.5555555555555554,Neutral,1,0
+1,1,2020,let visit campsite asked come back next day,0.0,8,4.5,Neutral,1,0
+5,1,2020,great place rest,0.8,3,4.666666666666667,Positive,2,0
+4,1,2018,spent pleasant day enjoyed pool great restaurant service staff,0.48333333333333334,9,6.0,Neutral,1,0
+5,2,2022,wonderful place cozy great service,0.5333333333333333,5,6.0,Positive,2,0
+5,2,2021,wonderful place good relax wonderful day family,0.9,7,5.857142857142857,Positive,2,0
+5,2,2021,wonderful place well maintained reception attentive polite people always come back,0.4666666666666666,11,6.545454545454546,Neutral,1,0
+3,2,2020,good camping recreation swimming pool good sauna cleanliness bathroom left lot desired community kitchen size camping enough either camper already bring enough stuff everyday life clean bathroom least campground offer release entrance least 400 pm onwards entering 600 pm setting tent dark cool,0.10606060606060605,43,5.8604651162790695,Neutral,1,0
+4,2,2022,place beautiful close center itu delivery apps like ifood reach chalet would like restaurant serve snack portion evening close early order delivery saturday dinner wonderful could included dinner side dish well great pool great recreation bad shower ok,0.40625000000000006,38,5.657894736842105,Neutral,1,0
+3,2,2021,wonderful food leisure horrible wooden chalet hot small 10 bad smell,-0.11666666666666664,11,5.2727272727272725,Negative,0,0
+2,2,2020,ask information whatsapp number take long time respond often respond within day think disrespectful add respond customer better,0.225,18,6.111111111111111,Neutral,1,0
+5,2,2021,note 1000,0.0,2,4.0,Neutral,1,0
+5,1,2020,lush nature cozy place great restaurant heated pool good,0.35,9,5.333333333333333,Neutral,1,0
+5,1,2019,good rest unwind pleasant place,0.7166666666666666,5,5.4,Positive,2,0
+5,3,2020,great place rest,0.8,3,4.666666666666667,Positive,2,0
+5,1,2020,place relax rest pure nature,0.21428571428571427,5,4.8,Neutral,1,0
+5,1,2020,place good excellent structure family camping,0.85,6,6.666666666666667,Positive,2,0
+5,1,2020,delight place perfect pool,1.0,4,5.75,Positive,2,0
+5,3,2020,wonderful place family atmosphere love place,0.75,6,6.5,Positive,2,0
+5,1,2021,top,0.5,1,3.0,Neutral,1,0
+3,2,2021,really liked space lack detail chalet standardized larger others smaller barbecue even pizza oven together others drum say barbecue paying price bathroom chalet stinking extremely dirty drain wall full hair even shower stall bathroom couple u much larger shower stall breakfast ok lunch first day pretty bland second day much better drink separate r30 jug juice found quite abusive fishing area best part found price renting equipment fair pool ok size except heated one tiny even get close always crowded lighting night street could improved car lot pothole almost left part car behind lol recreation girl extremely friendly fun attendant polite improving hygiene making small improvement would definitely recommend everyone,0.2045138888888889,110,5.6,Neutral,1,0
+5,2,2020,organized clean harmonious place,0.3666666666666667,4,7.25,Neutral,1,0
+4,1,2021,good,0.7,1,4.0,Positive,2,0
+4,1,2017,location good near far citythe service also good room great,0.48,10,5.0,Neutral,1,0
+5,1,2020,wonderful place heated pool wonderful breakfast family really enjoyed place,0.8333333333333334,10,6.6,Positive,2,0
+5,1,2020,wonderful place excellent infrastructure pandemic season good call see there vacancy,0.9,11,6.7272727272727275,Positive,2,0
+5,1,2023,great place enjoy family camping option chalet flat recommend,0.3916666666666668,9,5.888888888888889,Neutral,1,0
+5,2,2021,wonderful love place,0.75,3,6.0,Positive,2,0
+4,1,2021,good,0.7,1,4.0,Positive,2,0
+5,1,2023,went really well think review cannibal prank venue spectacular quite fit surroundings everything fine,0.40416666666666673,14,6.285714285714286,Neutral,1,0
+5,1,2017,family atmosphere attentive staff always clean changing room recommend it,0.38333333333333336,10,6.4,Neutral,1,0
+3,1,2021,place nice food could better found simple expensive many option,0.22000000000000003,10,5.4,Neutral,1,0
+5,1,2021,really liked it recommend,0.6,4,5.5,Positive,2,0
+4,1,2017,good,0.7,1,4.0,Positive,2,0
+3,1,2020,thought place really cool lot people know close city dy use,0.35,11,4.454545454545454,Neutral,1,0
+5,1,2021,great,0.8,1,5.0,Positive,2,0
+5,1,2017,excellent apartment inn breakfast included excellent quality lunch equally standard quality one best place weekend whether couple whole family,0.64,19,6.526315789473684,Positive,2,0
+5,1,2022,great place take kid bathroom always clean family atmosphere,0.5833333333333334,9,5.777777777777778,Positive,2,0
+5,1,2018,excellent place,1.0,2,7.0,Positive,2,0
+4,4,2021,great environment rest fun whole family,0.43333333333333335,6,5.666666666666667,Neutral,1,0
+5,1,2021,great place good value money,0.75,5,4.8,Positive,2,0
+5,1,2020,show,0.0,1,4.0,Neutral,1,0
+4,1,2017,good,0.7,1,4.0,Positive,2,0
+5,1,2021,expensive good infrastructure,0.09999999999999998,3,9.0,Neutral,1,0
+1,1,2023,rented chalet tomorrowland addition absurd price charging experience transfer sold u real terror starting first day journey driver took wrong route 4 time went talk him said knew everything city trip supposed take maximum 40min 1hr took 4 hour due turn took traffic increased got halfway walk up way back none bus remained parking lot returned garage told u would parking lot walk 2 hour maeda exit br find bus there bus arrived there arrived yet event ended 2am arrived br 4am bus arrive 6am inn respond u gave u contact detail driver left u hanging one hired bus company,-0.084375,100,4.73,Negative,0,0
+5,1,2020,great place green swimming pool water slide sauna two restaurant many chalet 4 large camping area power water near tent camping area bathroom living area one stayed always clean gas shower stayed long holiday activity child every two hour great,0.3163690476190476,40,5.125,Neutral,1,0
+5,1,2022,great child anyone want break,0.8,5,5.0,Positive,2,0
+5,1,2016,want camp comfortably safely cleanly campsite,0.3666666666666667,6,6.666666666666667,Neutral,1,0
+5,1,2018,great space,0.8,2,5.0,Positive,2,0
+1,1,2023,terrible service ive sending message whatsapp 3 week trying book 3 day chalet respond promptly respond back time day go without responding respond send message again horrible service,-0.6666666666666666,28,5.535714285714286,Negative,0,0
+5,2,2023,wonderful place exceeded expectation,1.0,4,8.25,Positive,2,0
+5,2,2023,place paradisiacal beach lover trade beach pool visiting campsite would certainly trade beach trip it spent weekend checking 7pm friday leaving 5pm sunday stayed simple wooden chalet really simple go enjoy fun enough take shower sleep recommend taking repellent cockroach poison found 2 chalet barbecue precarious night barbecue rained cover almost impossible barbecue thank god rain stopped average 1h30m possible quickly lighting horrible found strange stayed chalet 30 surrounding chalet covered including table support thing something have single mattress good double mattress soft mazanino walk bent over can not stand upright ideal child adult struggle even climb stair felt chalet quite abandoned maintenance lot cobweb said going use bathing sleeping deal it food exceptional one best ive ever eaten entire life breakfast lunch included package lunch drink separate expensive total 7 sparkling water juice del valle cost 25 reais shower burned quickly contacting reception fixed even though 9pm night 6 swimming pool one heated meaning even cloudy raining miss trip addition activity game room rappelling sauna sport fishing indian house playground among others swimming pool kind step sit water slide radical child 6 year old thought little dangerous 2 time enough hurt completely dislocated knee im purple brother dad went 20 time everything fine lifeguard despite sign cant take anything consumption pool thats saw most especially alcoholic drink complaint contact via whatsapp horrible sent message several time trying rent even see today take mother cell phone try contact worked since birthday present her stop surprising her addition attentive staff clean restaurant recommend visiting plaza shopping mall 5 minute camping made short video showing little camping tiktok user safiracostta would come back thousand time time would call avoid stress via whatsapp note photo bad lunch took screenshot video,0.020772594752186596,287,5.682926829268292,Neutral,1,0
+5,1,2023,spectacular place,0.6,2,8.0,Positive,2,0
+5,1,2020,good heated pool relaxing night breakfast varied taste great,0.75,9,5.777777777777778,Positive,2,0
+5,2,2023,like place service offered service cleanliness however information website flawed respond whatsapp,-0.5,12,7.25,Negative,0,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2021,beautiful pleasant place place eat camp chalet even tent,0.7916666666666666,9,5.333333333333333,Positive,2,0
+4,2,2021,excellent rest,1.0,2,6.5,Positive,2,0
+5,2,2019,guaranteed fun whole family there even vdd indigenous tribe take student cultural purpose sauna natural eucalyptus aroma eucalyptus tree go check out regret it,0.175,24,5.666666666666667,Neutral,1,0
+5,1,2019,show,0.0,1,4.0,Neutral,1,0
+3,1,2017,nice tasty place,0.6,3,4.666666666666667,Positive,2,0
+4,1,2022,good make one observation television stayed work comply announcedwe certainly back hope happen againtake good care customer must priority,0.4666666666666666,19,6.2631578947368425,Neutral,1,0
+2,1,2020,medium camping structure camping bathroom unisex swimming pool common camping chalet apartment day use structure support demand recommend camping especially family child,-0.15,22,6.7272727272727275,Negative,0,0
+5,1,2020,quiet location great service,0.4,4,6.25,Neutral,1,0
+5,1,2017,pleasant weekend,0.7333333333333333,2,7.5,Positive,2,0
+4,1,2023,replace fence top neighborhood used day use allowed far perfect however placing fence sharp wire ground hurt child pet visible danger get ready urgently right tennis court,0.3267857142857143,27,5.37037037037037,Neutral,1,0
+5,1,2019,top,0.5,1,3.0,Neutral,1,0
+4,1,2022,good restaurant take long time deliver,0.32499999999999996,6,5.5,Neutral,1,0
+5,1,2019,good place,0.7,2,4.5,Positive,2,0
+4,1,2019,great camping recommend,0.8,3,7.0,Positive,2,0
+5,1,2019,good place heated pool delight,0.7,5,5.2,Positive,2,0
+5,1,2018,great family experience camping great infrastructure impeccable cleanliness fishery lot fish let go back sure,0.5700000000000001,15,6.333333333333333,Positive,2,0
+5,1,2017,great campsite middle nature,0.4,4,6.25,Neutral,1,0
+5,1,2023,excellent,1.0,1,9.0,Positive,2,0
+5,1,2023,im using camping good nothing better sleep relax even though im using reason city see relaxed people playing football sport nightfall using pool fishing restaurant end infinite leisure offer finally safe observation far hope remains way weekend arrives know always different story,0.36,42,5.690476190476191,Neutral,1,0
+5,1,2016,treated respect,0.0,2,7.0,Neutral,1,0
+3,1,2023,place good large beautiful beautiful landscape several option restaurant swimming pool playground child sport court well maintained need care fishing stayed camping area found place half abandoned bathroom without much structure communal kitchen also half abandoned least front warehousethere isolated case camper close u disturbed peace others space camp inappropriate attitude camp staff informed even went location next day returned avail take action already left it expected attitude camping part itno further,0.1557823129251701,72,6.138888888888889,Neutral,1,0
+5,1,2023,satisfaction every time visit chapu de sol family service organization food pool neat,0.0,13,5.615384615384615,Neutral,1,0
+5,1,2020,good place cozy nice pool,0.3666666666666667,5,4.2,Neutral,1,0
+5,2,2019,camping excellent structure receptive staff,1.0,5,7.8,Positive,2,0
+5,3,2020,cool,0.35,1,4.0,Neutral,1,0
+3,2,2020,really liked it place beautiful thing leaf something desired price snack bar fishing restaurant expensive worth going taking food there chalet barbecue facility opening hour short thing open 5pm time everything dark go heated pool open 10pm,0.1375,37,5.513513513513513,Neutral,1,0
+2,1,2020,place beautiful good pool including heated one swimming get cold night fishing show fish various specie service one provided reception restaurant everything absurd spend lot eat little mention hypocrisy relation corona virus people crowd together walk around restaurant without mask lick finger go grab food getting coffee without mask already serious thing fishing restaurant one wear mask including attendant treat customer favor 5 pm everything close thing still working heated pool 10 pm day use fishing match day site site thursday free day got closed short bring food bring drink depends whats there spend lot photo portion 40 reais delivered aluminum lunch box,0.03901515151515151,103,5.485436893203883,Neutral,1,0
+5,2,2020,wonderful good stayed 2 wonderful day family,0.9,7,5.428571428571429,Positive,2,0
+5,2,2019,beautiful place quiet well maintained super familiar second stay praise,0.31166666666666665,10,6.2,Neutral,1,0
+5,1,2020,excellent,1.0,1,9.0,Positive,2,0
+5,1,2023,start service m cida high spirit yesterday 8923 long holiday busy well organized family atmosphere bathroom always clean heated pool show itself friendly staff entertainment rating 100 manage capture childrens attention lot moving game staff polite restaurant great food fair price quality ample space traveling motor home accepts pet fee separately everything perfect think could lighting camping area tennis court top could better nothing compromise stay chalet everyone raf noticed several user time prof great,0.3732051282051282,75,5.8533333333333335,Neutral,1,0
+5,1,2021,good good camper structure,0.7,4,5.75,Positive,2,0
+5,1,2019,great,0.8,1,5.0,Positive,2,0
+4,1,2020,good,0.7,1,4.0,Positive,2,0
+5,1,2017,comping note 10 otumastructureq,0.0,4,7.0,Neutral,1,0
+5,1,2018,great place go walk spend holiday family already fourth time ive taken family spend day camping praise last time went group boy next chalet totally uneducated swearing pool pornographic conversation environment full child put plastic chair pool complained left im sure management see happen again super recommend staff note 10,0.1683333333333333,50,5.54,Neutral,1,0
+5,3,2020,good food really cool place,0.5249999999999999,5,4.6,Positive,2,0
+5,2,2020,perfect place great spend day family,0.9,6,5.166666666666667,Positive,2,0
+5,2,2020,nice place family atmosphere,0.6,4,6.25,Positive,2,0
+3,2,2022,stayed pousada package christmas excellent room cleaning room change towel pousada paying expensively would obligation service restaurant excellent service helpful cordial employee nice food small swimming pool number people served day use end good impression place sunday christmas stay room eat whats left food got crowded intend stay day use seems like invasion without control ended ruining accommodation period restaurant accommodation id give zero grade,0.36428571428571427,65,6.076923076923077,Neutral,1,0
+5,1,2019,great environment good price,0.75,4,6.25,Positive,2,0
+4,1,2021,fishing good lot fish much fun,0.5,6,4.166666666666667,Neutral,1,0
+5,2,2019,many leisure option good service easy access,0.5444444444444444,7,5.428571428571429,Positive,2,0
+4,1,2019,loved staying pousada brand new room,0.41818181818181815,6,5.166666666666667,Neutral,1,0
+5,1,2018,always good rest assured new area motorhomes nice,0.47878787878787876,8,5.25,Neutral,1,0
+5,3,2019,wonderful unforgettable tour,0.9,3,8.666666666666666,Positive,2,0
+5,1,2019,beautiful organized place many family 4 swimming poolslunch 4290kg camper daily rate 4000 beer 600 1000 drinking water taps09282019,0.45,19,5.947368421052632,Neutral,1,0
+4,2,2019,loved campsite clean big several pool calm chalet cute price reasonable worth it,0.29583333333333334,13,5.230769230769231,Neutral,1,0
+5,2,2019,perfect place relax family,1.0,4,5.75,Positive,2,0
+5,2,2019,paradise contact nature,0.0,3,7.0,Neutral,1,0
+5,2,2020,cozy place delicious breakfast lunch friendly attentive staff clean organized chalet hot shower great price cant wait go back,0.3739583333333334,19,5.631578947368421,Neutral,1,0
+5,2,2017,love placequiet airyperfect camping weekend,0.5,5,7.8,Neutral,1,0
+2,2,2020,bad service,-0.6999999999999998,2,5.0,Negative,0,0
+4,2,2018,experience could positive warned kitchen utensil chalet borrow kitchen buy thing market overall experience positive,0.15151515151515152,15,6.733333333333333,Neutral,1,0
+1,2,2023,ive always camped problem top infrastructure unwillingness answer clarify question package daily rate disappoints,0.25,14,7.142857142857143,Neutral,1,0
+5,2,2021,good place great breakfast lunch,0.75,5,5.6,Positive,2,0
+3,2,2020,visit january 1st recommend barbecue there barbecue option terrible condition mention space abandoned took case lack staff circulating around campsite person guided u barbecue area guest gave u map understand it visitor day everything lost understand high season pool little water dirty bathroom spotless day ah lack umbrella pool,-0.406875,49,5.755102040816326,Negative,0,0
+5,1,2023,sensational,0.6666666666666666,1,11.0,Positive,2,0
+5,1,2021,excellent place sensational infrastructure camping everything clean recommend,0.6777777777777777,8,8.75,Positive,2,0
+4,1,2023,nice place definitely come back,0.19999999999999998,5,5.4,Neutral,1,0
+5,1,2021,nice place,0.6,2,4.5,Positive,2,0
+5,1,2018,great place,0.8,2,5.0,Positive,2,0
+4,1,2021,excellent place satisfactory criterion review value practiced restaurant because except breakfast reality considering diversity quality offered example jug juice 2700 o,1.0,21,7.0476190476190474,Positive,2,0
+5,1,2017,great place walk family,0.8,4,5.0,Positive,2,0
+5,1,2017,great worth checking,0.55,3,6.0,Positive,2,0
+5,1,2019,ive known many year best experience life great memory,0.7666666666666666,9,5.0,Positive,2,0
+5,2,2023,perfection defines best weekend spent,0.45,5,6.6,Neutral,1,0
+5,2,2023,always liked it,0.6,3,4.333333333333333,Positive,2,0
+5,2,2023,great service dona cida lady reception friendly attentive kiss couple chalet 14,0.525,12,5.666666666666667,Positive,2,0
+5,1,2023,incredible experience everything perfect first class service space delightful never want leave cant wait return,0.7875,15,6.466666666666667,Positive,2,0
+5,1,2018,satisfactory experience place well structured,0.0,5,8.2,Neutral,1,0
+4,1,2018,good great place spend weekend,0.75,5,5.2,Positive,2,0
+5,1,2018,heated pool,0.0,2,5.0,Neutral,1,0
+5,1,2021,soooo good indeed organization cleaning maintenance chalet common area swimming pool well organized clean value accommodation week good worth every penny,0.35333333333333333,21,6.333333333333333,Neutral,1,0
+4,1,2016,cozy good place rest family couple,0.25,6,4.833333333333333,Neutral,1,0
+5,1,2019,super b structured camping diverse attraction various accommodation option like camping chalet room camping lover say good campground crowded restroom clean well organized congratulation everyone camp highly recommend,0.31199999999999994,28,6.785714285714286,Neutral,1,0
+5,1,2019,great place rest camping good structure clean bathroom great pool heated pool sauna recommend everyone,0.6666666666666667,15,5.866666666666666,Positive,2,0
+5,1,2023,place fantastic road terrible,-0.3,4,6.5,Negative,0,0
+5,1,2018,sensational place infrastructure camping congratulation,0.6666666666666666,5,10.2,Positive,2,0
+5,1,2018,tasty,0.0,1,5.0,Neutral,1,0
+5,1,2017,good,0.7,1,4.0,Positive,2,0
+5,1,2023,cozy,-0.19999999999999998,1,4.0,Negative,0,0
+5,2,2023,clean tidy many leisure option,0.48888888888888893,5,5.2,Neutral,1,0
+5,3,2018,getting better new fishing area ranch new camping area spectacular,0.34318181818181814,10,5.7,Neutral,1,0
+5,1,2018,top camping,0.5,2,5.0,Neutral,1,0
+5,1,2018,great,0.8,1,5.0,Positive,2,0
+4,1,2018,camped family really like infrastructure camping area clean lucky catch polite neighboring camper see riot value money good complaint dog common area allowed there one supervises either,0.16666666666666663,27,5.888888888888889,Neutral,1,0
+5,2,2018,excellent highly recommend,0.58,3,8.0,Positive,2,0
+4,2,2017,best camping region,1.0,3,5.666666666666667,Positive,2,0
+5,2,2020,beautiful place great service,0.825,4,6.5,Positive,2,0
+5,2,2018,went see worth spending weekend there came conclusion great place nice infrastructure super friendly attendant,0.4347222222222223,15,6.4,Neutral,1,0
+5,2,2017,good infrastructure heated pool ten night waterslide zipline will quiet want rest,0.2333333333333333,12,5.833333333333333,Neutral,1,0
+5,2,2021,nice place super clean excelent reception good food,0.5,8,5.5,Neutral,1,0
+5,2,2022,everything wonderful excellent food clean cozy chalet intend go often,0.5416666666666666,10,6.0,Positive,2,0
+5,2,2017,family environment always clean bathroom heated pool saved cloudy rainy weekend back often,0.18333333333333335,13,6.0,Neutral,1,0
+5,1,2017,tasty,0.0,1,5.0,Neutral,1,0
+3,1,2017,attraction,0.0,1,10.0,Neutral,1,0
+5,1,2018,excellent infrastructure good access camper respect others,0.85,7,7.428571428571429,Positive,2,0
+3,1,2017,quiet place could better looked after price little steep want stay chalet,0.10416666666666667,12,5.166666666666667,Neutral,1,0
+2,2,2017,cleanliness bathroom leaf something desired service provided izaias following mr rafael nice,0.3,12,6.75,Neutral,1,0
+5,2,2023,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2023,restaurant option,0.0,2,8.0,Neutral,1,0
+5,1,2020,connect good,0.7,2,5.5,Positive,2,0
+4,1,2018,good structure monitor swimming pool good food well organizedthe daily price camping could improved,0.4666666666666666,14,6.142857142857143,Neutral,1,0
+5,1,2018,mt good place recommend,0.7,4,5.0,Positive,2,0
+5,1,2021,place moment relaxation therapy,0.0,4,7.0,Neutral,1,0
+5,3,2023,camping great stayed stone area wellpositioned socket there plenty tree shade shared kitchen 1 4burner stove 1 duplex refrigerator three camping space know others also kitchen intend return soon,0.8,29,5.724137931034483,Positive,2,0
+5,1,2023,excellent place,1.0,2,7.0,Positive,2,0
+5,1,2020,wonderful cant wait go,1.0,4,4.75,Positive,2,0
+4,1,2020,wonderful every time went,1.0,4,5.5,Positive,2,0
+5,2,2023,camping chapu de sol last holiday september 7th went camping reason can not evaluate room certainty camping area marvelous structure available grade 10 clean bathroom hot shower sink available several point electrical part well recommend staying campsite thank service well back soon,0.3020833333333333,42,5.761904761904762,Neutral,1,0
+5,2,2023,cozy quiet place great resting,0.20000000000000004,5,5.2,Neutral,1,0
+2,2,2023,campsite overcrowded refrigerator small communal kitchen small refrigerator stove flame haha fishing boat part stay fishing right pay 34 reais per kg fish caught haha snooker game table also need pay hahaha paint ball 50 reais100 ball zip line even see price also pay hahaha camping fee 60 reais charge 30 reais per pet hahaha ive never seen better td value use camping space shower bath always fall say there security noticed one entrance pool prohibit bringing drink food td charged separately cant enter pool anything lol need force eat restaurant pool water slide end filthy even dirty foam,0.021978021978021976,99,5.01010101010101,Neutral,1,0
+5,2,2023,chalet good restaurant camp swimming pool,0.7,6,6.0,Positive,2,0
+5,3,2023,wonderful place really top,0.75,4,5.75,Positive,2,0
+5,2,2022,good,0.7,1,4.0,Positive,2,0
+3,2,2022,camping wonderful pool great really upset restaurant rude staff waited long time weigh dish food good price charged supposed much better,0.4071428571428571,21,5.523809523809524,Neutral,1,0
+5,2,2021,magical place avampei weekend meet fell love hey polite staff super clean pool area camping bathroom super clean hot shower outstanding structure recommend eye closed,0.33888888888888885,25,5.68,Neutral,1,0
+5,2,2023,wonderful place want direct contact nature rest peace place organized stayed campsite super clean bathroom definitely come back,0.3,18,6.111111111111111,Neutral,1,0
+2,2,2022,ive good time frustrating arrived yesterday chalet dirty smelled cigarette bucket cloth front chalet waiting arrived already 8pm cleaned quickly put thing side chalet went heated pool morning woke early get breakfast 8 make day ready wait coffee went fishing spot husband wanted rent reel good one girl called guy see could fix told u go thing would take while sorting issue reel daughter wanted jump bounce house full tree branch asked girl clean gave squeegee could clean hahaha guy paying stay absurd complained reception im still waiting response,0.11666666666666668,89,5.191011235955056,Neutral,1,0
+5,1,2022,excellent experience surprised lot everything organized tasty restaurant atmosphere note 10,0.55,11,7.363636363636363,Positive,2,0
+5,2,2022,wonderful place camping chapu sol itu sp worth enjoying,0.6,9,5.222222222222222,Positive,2,0
+5,2,2022,quiet place family friendly everyone welcomed u well,0.1875,8,5.625,Neutral,1,0
+5,2,2022,camping wonderful great infrastructure communal kitchen heated pool great recreation great restaurant super attentive reception staff especially dona cida simone whose name remember camping great go walk middle nature highly recommend going kid ninth time ive campsite compliment looking forward next holiday thursday together camper friend again hat sun meeting point suggestion improvement shower bathroom near shed hot enough water cold usually one three working lady room thanks jussara thomazi,0.2819607843137255,70,6.128571428571429,Neutral,1,0
+5,2,2022,camping super well structured several camping point bathroom went super clean camping great recreation team,0.36666666666666664,15,6.2,Neutral,1,0
+5,2,2022,loved perfect infrastructure cleanliness safety,0.85,5,8.6,Positive,2,0
+5,2,2019,best place camp family,1.0,4,4.75,Positive,2,0
+5,2,2019,thank beautiful place polite staff good foodall excellent next time,0.6375,10,5.8,Positive,2,0
+5,2,2021,wonderful super family place super clean bathroom wonderful swimming pool highly recommend it,0.5322222222222223,13,6.230769230769231,Positive,2,0
+5,1,2021,without doubt great option owner great person back soon,0.5333333333333333,9,5.222222222222222,Positive,2,0
+5,1,2021,miss great place,0.8,3,4.666666666666667,Positive,2,0
+2,2,2021,like place bad access took vip chalet chalet 51 privacy chalet absolutely nothing photo tiny even sofa chair living room mattress made leatherette super disgusting chalet smelled mold guy entrance super attentive understanding place pretty bad especially value,-0.0883333333333333,38,5.868421052631579,Negative,0,0
+4,1,2021,negative thing shower little water,-0.24375,5,6.0,Negative,0,0
+5,1,2017,great place go family,0.8,4,4.5,Positive,2,0
+3,3,2021,expensive beer,-0.5,2,6.5,Negative,0,0
+5,2,2021,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2021,super beautiful place complied rule,0.5916666666666667,5,6.2,Positive,2,0
+5,2,2021,good club hang at host also peaceful place good food missing little shop attraction even campsite cool,0.26875,17,5.0588235294117645,Neutral,1,0
+3,2,2022,positive point flexibility checkin lot entertainment child negative point 1 camping bathroom one close pesqueiro 2 shower one heat freezing leaving 1 entire area addition trash near hand sink especially next dish sink path bathroom lit making accident fall dangerous pesqueiro go way ensure customer even enter strict rule abusive price,-0.09545454545454546,51,5.607843137254902,Negative,0,0
+5,2,2022,ive twice really like it always stay chalet food good place clean bathroom always clean nothing complain,0.4083333333333333,17,5.176470588235294,Neutral,1,0
+3,2,2021,really liked place food service left something desired shower flow properly shower left lot desired thought lacked bit entertainment heated pool small,0.06999999999999999,22,5.863636363636363,Neutral,1,0
+5,1,2021,good relaxing,0.7,2,6.0,Positive,2,0
+5,1,2018,good recommend,0.7,2,6.5,Positive,2,0
+4,1,2021,quiet beautiful well maintained place could promotion discount frequent customer especially come abroad pay toll would definitely go often,0.19,19,6.315789473684211,Neutral,1,0
+5,1,2020,top restaurant good food great variety well attended dona cida top team definitely back highly recommend,0.44333333333333336,16,5.5625,Neutral,1,0
+5,1,2021,great campsite accepts rv trailer motorhomes 220v energy water several point bathroom great clean gas heater well organized,0.4916666666666667,18,5.888888888888889,Neutral,1,0
+4,1,2019,good place great structure,0.75,4,5.75,Positive,2,0
+5,1,2020,concierge staff super polite helpful,0.3333333333333333,5,6.4,Neutral,1,0
+5,1,2017,went go great place,0.8,4,4.0,Positive,2,0
+5,1,2019,great beautiful familiar place always visit,0.6749999999999999,6,6.333333333333333,Positive,2,0
+5,3,2021,tasty good food beautiful place recommend it,0.7749999999999999,7,5.428571428571429,Positive,2,0
+5,2,2021,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2021,loved it especially paytboll structure bathroom shower could better price charge place really beautiful,0.5125,14,6.428571428571429,Positive,2,0
+5,2,2021,second time go first one stayed weekend inn day use really like place wooded organized restaurant bar good camping area huge fish use zip line water slide offered monitor entertain child price reasonable definitely worth it,0.2928571428571428,36,5.222222222222222,Neutral,1,0
+1,2,2023,communication problem 1 week ago sent message requesting reservation far nothingonly robot respondsno one answer landline cell phone hello anyone end line,0.1,22,6.045454545454546,Neutral,1,0
+5,2,2021,campsite simply wonderful several activity child adult alike monitor exceptional daughter lot fun problem night lighting leaf something desired,0.4133333333333333,19,6.578947368421052,Neutral,1,0
+4,2,2020,beautiful place good swimming pool one heated fishing ground good shower communal kitchen family atmosphere several different place pitch tent nice view others shade tree chalet also hotel room,0.47500000000000003,29,5.689655172413793,Neutral,1,0
+5,2,2019,liked family environment structure thought price fair service fantastic,0.5666666666666665,9,7.0,Positive,2,0
+5,2,2018,quiet spacious place great pool always go family,0.4,8,5.125,Neutral,1,0
+5,2,2023,perfect,1.0,1,7.0,Positive,2,0
+4,2,2016,went first time stayed chalet loved it family atmosphere many activity child clean well maintained attentive friendly staff definitely come back,0.32395833333333335,21,5.904761904761905,Neutral,1,0
+5,2,2016,frequented hatofthesun campsite 25 year better better congratulation,0.5,8,7.625,Neutral,1,0
+5,2,2017,always wonderful,1.0,2,7.5,Positive,2,0
+4,2,2023,experience wonderful set camp two night ended staying three gave 4 star reason baby changing stand bathroom find changing table bathroom rest incredible place,0.95,24,5.625,Positive,2,0
+1,2,2018,recommend it terrible camping area small pool support number people stay site,-0.625,12,5.5,Negative,0,0
+5,2,2021,cozy place lot nature delicious food,0.4,6,5.166666666666667,Neutral,1,0
+3,1,2021,ruin signage arrive would improve,0.0,5,5.8,Neutral,1,0
+4,2,2021,camping good structure clean bathroom good place child,0.5888888888888889,8,5.875,Positive,2,0
+4,2,2022,ive come several time love place keep getting better little expensive pocket retired teacher earns little right cant come often bad,-0.03616071428571427,21,5.285714285714286,Negative,0,0
+5,2,2018,loved,0.7,1,5.0,Positive,2,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+1,2,2019,discarea word sum service place called reserve spot campsite informed need put family car including pet dog surprise found campground crowded result turned around looked competition,0.0,26,6.0,Neutral,1,0
+5,1,2022,good rest fun recharging energy worth,0.43333333333333335,6,5.333333333333333,Neutral,1,0
+5,3,2022,great place camp child,0.8,4,4.75,Positive,2,0
+5,2,2022,good,0.7,1,4.0,Positive,2,0
+5,1,2022,good place pleasant many camping area energy point,0.6444444444444444,8,5.375,Positive,2,0
+3,1,2019,value money ok,0.5,3,4.0,Neutral,1,0
+5,1,2019,portion view service top,0.5,4,5.25,Neutral,1,0
+5,2,2022,good place clean nice people thing missing pillow chalet,0.36666666666666664,9,5.333333333333333,Neutral,1,0
+5,1,2022,cozy place camped nice structure always clean bathroom good leisure facility one observation would interesting heat least one 3 cold pool one end small demand visitor,0.10208333333333336,26,5.423076923076923,Neutral,1,0
+5,1,2021,wonderful place replenish energy cozy familyfriendly place may worth every penny paid,0.3666666666666667,12,6.166666666666667,Neutral,1,0
+4,1,2021,good,0.7,1,4.0,Positive,2,0
+5,2,2022,fair value homemade food hearty breakfast clean pleasant place ive going 10 year nothing praise,0.6,15,5.4,Positive,2,0
+5,2,2022,great space,0.8,2,5.0,Positive,2,0
+5,1,2022,amazing place amazing team,0.6000000000000001,4,5.75,Positive,2,0
+5,1,2020,quiet clean organized,0.18333333333333335,3,6.333333333333333,Neutral,1,0
+1,2,2019,structured place camper,0.0,3,7.0,Neutral,1,0
+2,2,2020,ive known campsite 15 year time become disappointed last time holiday 1012 crowded look like pandemic measure temperature entrance said capacity reduced wasnt people entering restaurant without mask one said anything worst thing cant take thermal bag near pool water child cold juice rude young man pass threatens confiscate want go anymore,-0.35,52,5.5576923076923075,Negative,0,0
+2,2,2023,ive known campsite since 2001 tradition camping every year family carnival good today value are abusive get ready pay r750 itubaina brand soda daily rate expensive can not take food drink near pool absurd swimming pool bathroom need maintenance around 5 pm employee start throwing water without even whether people nearby not expelling guest today worth anymore unfortunately back,0.037499999999999985,59,5.4576271186440675,Neutral,1,0
+5,2,2020,wonderful best,1.0,2,6.5,Positive,2,0
+4,2,2023,love tour welcoming team,0.5,4,5.25,Neutral,1,0
+5,3,2019,great facility top notch staff,0.65,5,5.2,Positive,2,0
+5,1,2019,beautiful place excellent walk family contact nature,0.925,7,6.571428571428571,Positive,2,0
+5,1,2019,fun place family good lot activity child,0.5,7,4.857142857142857,Neutral,1,0
+5,1,2021,excellent,1.0,1,9.0,Positive,2,0
+5,1,2020,best camping know,1.0,3,5.0,Positive,2,0
+5,1,2019,great place lot activity kid,0.8,5,4.8,Positive,2,0
+3,3,2019,already better,0.5,2,6.5,Neutral,1,0
+5,1,2018,great camping lot attraction child good price vacancy motor home zip line giant water slide heated pool fishing playground several pool,0.375,21,5.476190476190476,Neutral,1,0
+5,1,2020,best camping ive ever seen wonderful,1.0,6,5.166666666666667,Positive,2,0
+4,1,2017,family campingnice place great infrastructure bestno loud soundsgreat place relax,0.45,10,7.2,Neutral,1,0
+4,1,2020,good environment beautiful 4 swimming pool one heated big space paintball fishing site rent chalet stay inn too problem lack communication employee know explain thing well customer trash can spread around place better signage place,0.5125,35,5.628571428571429,Positive,2,0
+4,1,2018,good place,0.7,2,4.5,Positive,2,0
+4,3,2018,cozy quiet place policy silence 10 pm guarantee peaceful sleep enjoy best camping offer next day,0.2416666666666667,16,5.0625,Neutral,1,0
+5,2,2018,good service nice facility,0.6499999999999999,4,5.75,Positive,2,0
+5,2,2017,sensational place simple organized clean well maintained liked,0.4083333333333333,8,6.875,Neutral,1,0
+5,2,2022,wonderful place super quiet family friendly want rest right place mention wonderful coffee lunch top staff,0.4991496598639456,16,5.6875,Neutral,1,0
+5,2,2018,good place clean helpful friendly staff good fishing snack bar good restaurant good swimming pool,0.5902777777777778,15,5.533333333333333,Positive,2,0
+5,2,2018,simple cozy chalet wonderful food leisure pool good definitely back,0.3,10,5.8,Neutral,1,0
+5,1,2018,familiar well taken care of,0.375,5,4.6,Neutral,1,0
+5,1,2019,great place family lot greenery swimming pool peaceful place ideal relaxing family,0.65,12,5.916666666666667,Positive,2,0
+5,1,2019,great place privileged nature,0.8,4,6.5,Positive,2,0
+5,3,2018,love,0.5,1,4.0,Neutral,1,0
+4,3,2018,great place,0.8,2,5.0,Positive,2,0
+5,2,2018,loved place cant wait go back,0.35,6,4.0,Neutral,1,0
+1,2,2021,112 0937 deia id like make complaint ive camping ive customer many year took guest away disappointed 112 0938 deia breakfast poor table dirty staff sitting chatting thing ran out even replace it share juice 4 112 0940 deia lunchtime employee rude rude simple dish without seasoning wanted pastel egg left food plate leave embarrassed speaking highly camp disappointed,-0.2490909090909091,59,5.237288135593221,Negative,0,0
+3,2,2020,place beautiful big im going start talking map look like 1 year old drew it find chalet arrived precisely well signposted chalet number alternative correct number interfered lot u locating it finally arrived chalet negative point dirty stove dirty oven even so pan kitchen utensil cabin lot hair floor dirty double mattress also super dirty nervous mite must live there wiring old see many wire spliced together shower also patch cold drop keep falling patch pipe shower also ant bathroom drain dirty value chalet also high 190 reais per day thats week restaurant also expensive 22 reais coffee adult dish also expensive water 3 reais cash discount value telephone service terrible positive point 3 swimming pool another one child childrens one working lot greenery see teius many bird toucan people restaurant really nice rating 10 treated u well,-0.07572121212121212,138,5.144927536231884,Negative,0,0
+4,2,2021,good place loved suggestion put table camping site would help well,0.7,11,5.090909090909091,Positive,2,0
+5,2,2021,,0.0,1,0.0,Neutral,1,0
+5,2,2021,best gift beginning year want more,0.75,6,4.833333333333333,Positive,2,0
+5,2,2021,good place camping many attraction child 4 swimming pool court fishing ground 2 restaurant bathroom clean campsite petfriendly,0.5222222222222223,18,6.055555555555555,Positive,2,0
+5,2,2021,showww back often good breakfast lunchwell varied attentive staff,0.3666666666666667,9,6.333333333333333,Neutral,1,0
+5,2,2021,really like there third time ive there food part good price affordable,0.3,12,4.916666666666667,Neutral,1,0
+4,2,2018,moment tranquility relaxation,0.0,3,9.0,Neutral,1,0
+5,2,2019,magnificent,1.0,1,11.0,Positive,2,0
+5,2,2022,wonderful place clean beautiful people whenever go,0.7388888888888889,7,6.285714285714286,Positive,2,0
+5,2,2021,cozy chalet,-0.19999999999999998,2,5.0,Negative,0,0
+4,2,2019,peaceful quiet familiar place,0.20833333333333334,4,6.5,Neutral,1,0
+5,2,2021,wonderful place highly recommend it,0.58,5,6.2,Positive,2,0
+5,1,2021,top,0.5,1,3.0,Neutral,1,0
+4,1,2021,great place rest meeting family friend tasty meal recommend,0.8,9,5.666666666666667,Positive,2,0
+5,1,2019,wonderful camping show ball service super attentive take person wheelchairspecial attention word gratitude,0.5777777777777778,13,7.230769230769231,Positive,2,0
+4,1,2017,familyfriendly good food chalet tent area daily rate good price,0.4666666666666666,10,5.4,Neutral,1,0
+4,2,2021,nice place leisure option thing left restaurant open later fishing restaurant many option menu expensive,0.10000000000000002,15,6.0,Neutral,1,0
+5,2,2021,well wooded placegood restadmire landscapegood breakfastgood lunchall good,0.7,8,8.375,Positive,2,0
+5,2,2020,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2020,good,0.7,1,4.0,Positive,2,0
+5,2,2018,recommend nature swimming pool fishing great environment relax buffet meet need good variety,0.75,13,6.153846153846154,Positive,2,0
+5,2,2019,wonderful highly recommended,0.58,3,8.666666666666666,Positive,2,0
+5,2,2020,good price lot thing do advised checkin water slide sauna working,0.7,11,5.0,Positive,2,0
+5,1,2020,lovely place lovely,0.5,3,5.666666666666667,Neutral,1,0
+5,2,2020,good great structure everything clean well sanitized wonderful pool loved it,0.7133333333333333,11,6.0,Positive,2,0
+5,2,2020,best cleanliness service natural beauty recommend,0.55,6,7.333333333333333,Positive,2,0
+4,2,2020,good option spend day family friend like camping stayed inn comfort infrastructure recommend,0.7,13,6.153846153846154,Positive,2,0
+1,1,2020,place nice restaurant terrible attraction need improved,-0.2,7,7.0,Negative,0,0
+5,1,2022,life lightning cant waste time whenever eternal companion mrcia,-0.2,9,6.111111111111111,Negative,0,0
+5,1,2019,top,0.5,1,3.0,Neutral,1,0
+5,1,2018,best place get peace tranquility differentiated service,1.0,7,7.0,Positive,2,0
+5,1,2018,great place spend weekend day several pool excellent service,0.6,9,5.777777777777778,Positive,2,0
+4,1,2020,good accommodation day camp,0.7,4,6.0,Positive,2,0
+5,2,2020,good liked everything,0.6499999999999999,3,6.333333333333333,Positive,2,0
+5,2,2019,excellent structure bathroom always clean great camping area family atmosphere good living entertainment area worth going family,0.6333333333333334,17,6.588235294117647,Positive,2,0
+5,1,2019,great place go family,0.8,4,4.5,Positive,2,0
+5,1,2021,super family highly recommend,0.24666666666666665,4,6.5,Neutral,1,0
+2,2,2019,better year ago place bit abandoned restaurant expensive nightly rate too price match camping trip monitor team leaf something desired good thing going family child peaceful,0.2375,26,5.6923076923076925,Neutral,1,0
+5,1,2019,top,0.5,1,3.0,Neutral,1,0
+5,1,2019,great space leisure family stayed inn everything new clean comfortable restaurant great food option lake snack bar portion snack excelent reception,0.5006060606060606,21,6.0476190476190474,Positive,2,0
+3,3,2019,good service,0.7,2,5.5,Positive,2,0
+5,1,2018,amazing service good structure worth it even day,0.5333333333333333,8,5.125,Positive,2,0
+5,1,2023,excellent space camping good swimming pool delicious food staff willing help,0.7375,11,6.0,Positive,2,0
+5,2,2018,soul day again good wonderful place staff super attentive everyone concierge restaurant staff maintenance staff without exception back sure,0.4888888888888889,19,6.368421052631579,Neutral,1,0
+5,2,2022,great camping motorhome too,0.8,4,6.0,Positive,2,0
+1,2,2023,none ive called three time one answer return respond whatsapp leaf lot desired,0.0,13,5.076923076923077,Neutral,1,0
+4,2,2018,connect good cozy,0.25,3,5.0,Neutral,1,0
+4,2,2023,difficulty making reservation would interesting improve customer service aspect however campsite large several activity explore food well served several vegetarian option breakfast lunch camping offer fun activity child young adult senior loved water aerobics class made experience meaningful made u connect other,0.22892857142857145,42,6.476190476190476,Neutral,1,0
+5,1,2018,great place amenity hot water light water point next tent beautiful chalet cheap food addition wellmaintained pool,0.45,17,5.764705882352941,Neutral,1,0
+5,2,2016,quiet pleasant place lot greenery,0.36666666666666664,5,5.8,Neutral,1,0
+5,1,2018,pleasant,0.7333333333333333,1,8.0,Positive,2,0
+5,2,2018,good,0.7,1,4.0,Positive,2,0
+5,1,2019,liked camping great place camp,0.7,5,5.2,Positive,2,0
+5,1,2019,good relax enjoy family,0.55,4,5.0,Positive,2,0
+4,2,2019,went see liked,0.6,3,4.0,Positive,2,0
+5,2,2019,good,0.7,1,4.0,Positive,2,0
+5,1,2019,nature present life here,0.0,4,5.25,Neutral,1,0
+4,1,2019,bathroom clean little pricey size campsite bathroom battery stall,0.08958333333333335,9,6.333333333333333,Neutral,1,0
+4,1,2021,give juice delivery driver,0.0,4,5.75,Neutral,1,0
+4,1,2018,great place,0.8,2,5.0,Positive,2,0
+3,1,2023,punctual observation lack maintenance pool lot algae pool cloudy water attentive restaurant staff clean restaurant pleasant place plenty nature first station camper well wooded nice space plenty shade saw new pool built might even interesting due fact bigger pool,0.31792929292929295,39,5.769230769230769,Neutral,1,0
+5,1,2018,unbelievable,-0.25,1,12.0,Negative,0,0
+5,1,2021,really like place,0.2,3,5.0,Neutral,1,0
+5,1,2021,good go family,0.7,3,4.0,Positive,2,0
+5,1,2019,amazing qualified staff friendly everything good,0.5583333333333333,6,7.166666666666667,Positive,2,0
+4,2,2021,nice place,0.6,2,4.5,Positive,2,0
+4,3,2021,great place spend family weekend good camping equipment lack light point community kitchen otherwise work well,0.6333333333333333,16,5.9375,Positive,2,0
+5,1,2021,place simply wonderful anyone looking family rescue highly recommended,0.58,9,6.888888888888889,Positive,2,0
+4,1,2018,good camping,0.7,2,5.5,Positive,2,0
+5,1,2022,good place spend time family family atmosphere also accepts pet,0.7,10,5.4,Positive,2,0
+5,1,2022,beautiful place clean cool see next time,0.3916666666666667,7,4.857142857142857,Neutral,1,0
+5,1,2021,venture fishing spot restaurant fishing spot sell wonderful portion,1.0,9,6.555555555555555,Positive,2,0
+5,1,2019,simply amazing,0.6000000000000001,2,6.5,Positive,2,0
+1,1,2020,bad structure sauna work day called cold think spend restaurant site terrible food horrible salad sour one one bad experience,-0.6916666666666665,20,5.3,Negative,0,0
+3,1,2018,water heated pool cold even speaking reception weekend heated pool camping good chalet seem little abandoned,-0.029166666666666674,16,5.8125,Negative,0,0
+4,1,2017,wonderful place camped campiratas group organized,1.0,6,7.333333333333333,Positive,2,0
+5,1,2018,good place,0.7,2,4.5,Positive,2,0
+5,1,2018,top,0.5,1,3.0,Neutral,1,0
+5,2,2021,loved,0.7,1,5.0,Positive,2,0
+5,2,2021,always wonderful to camp amoverde cheer nature,1.0,7,5.714285714285714,Positive,2,0
+5,2,2019,quiet familyfriendly location 4 swimming pool one heated structure organized restaurant fishing chalet camping area,0.0,15,6.733333333333333,Neutral,1,0
+5,2,2016,wonderful quiet top line,0.5,4,5.25,Neutral,1,0
+3,2,2019,place beautiful nature beautiful chalet ok offer basic negative point establishment open seemingly unlimited day use made stay holiday pleasant pool crowded another issue safety water slide monitor apparently trained release person previous one left risk area incident stay fortunately serious,0.19848484848484846,41,6.170731707317073,Neutral,1,0
+5,2,2020,great infrastructure friendly people welleducated staff definitely back,0.39166666666666666,8,8.0,Neutral,1,0
+5,2,2023,great structure fair price,0.75,4,5.75,Positive,2,0
+5,2,2019,love much amazing service,0.55,4,5.5,Positive,2,0
+5,1,2019,great recommend 100,0.8,3,5.666666666666667,Positive,2,0
+3,1,2022,good structure service evaluation lost one star due barbecue area vip chalet leaf lot desired,0.2875,15,5.266666666666667,Neutral,1,0
+5,1,2019,good great pool great service good cleanliness,0.75,7,5.714285714285714,Positive,2,0
+4,1,2019,great camping option good structure camping family,0.75,7,6.285714285714286,Positive,2,0
+5,2,2019,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2018,super cozy place,0.06666666666666667,3,4.666666666666667,Neutral,1,0
+5,2,2018,wonderful super nominate without word show,0.6666666666666666,6,6.166666666666667,Positive,2,0
+5,2,2021,without doubt incredible start finish hope come back soon im already counting hour wonderful rest inside little house cloth roof recommend 100000 time everyone,0.428125,24,5.666666666666667,Neutral,1,0
+4,2,2019,great value money camping beautiful place tree good walking swimming pool restaurant fishing ground among thing family atmosphere super pleasant,0.6833333333333333,20,6.25,Positive,2,0
+5,1,2018,excellent location great service great place meet fun,0.725,8,5.75,Positive,2,0
+5,1,2019,great accommodation,0.8,2,9.0,Positive,2,0
+5,1,2019,great environment,0.8,2,8.0,Positive,2,0
+4,1,2019,used tent camping lot shady place wellmaintained 220v socket lot place barbecue worth taking meat grill take food especially drink 9 mineral water lot option child fun monitor game water slide look simple mess go glass tie swim trunk bikini well lot cool pool there wellorganized fishing spot little expensive select mess well reserved overall go really worth it,-0.03365384615384616,59,5.1525423728813555,Negative,0,0
+4,1,2019,good good structure bathroom bathing toilet great pool insane water slide lol,0.3277777777777778,12,5.5,Neutral,1,0
+5,1,2016,one best option camping around so paulo nice pool child activity,0.8,11,4.909090909090909,Positive,2,0
+4,3,2019,top,0.5,1,3.0,Neutral,1,0
+5,2,2020,wonderful much better imagined everything clean plant super well cared for quiet familiar breakfast perfect lunch good want relax perfect place large lake fishingi highly recommend first time ill back soon price accommodation also super affordable staff wonderful education super attentive hope meet owner congratulate place cozy gratitude,0.3824185463659148,48,6.083333333333333,Neutral,1,0
+5,2,2020,top portion shrimp value money amazing,0.55,6,5.5,Positive,2,0
+5,1,2020,great camping recommend everyone,0.8,4,7.25,Positive,2,0
+4,1,2018,great place spend weekend barbecue swimming pool,0.8,7,6.0,Positive,2,0
+5,1,2018,great camping guesthouse monitor,0.8,4,7.25,Positive,2,0
+5,2,2020,great beautiful clean wonderful place,0.7541666666666667,5,6.6,Positive,2,0
+5,1,2020,accommodation comfortable apartment chalet breakfast wellkept place swimming pool restaurant fishing ground area camping trailer motorhomes,0.4,16,7.75,Neutral,1,0
+5,1,2020,great service special person,0.5785714285714286,4,6.25,Positive,2,0
+3,1,2017,ok,0.5,1,2.0,Neutral,1,0
+5,1,2018,magnificent camping sun hat well managed place lively monitor plenty water there shortage water tap summer infrastructure envy several support point barbecue camper several chalet bathroom shower scattered around restaurant canteen game room fun is waterslide zip line swimming pool sauna bocce ball paintball playground wonderful fishing spot canteen afternoon beef rib made like fire ground charged portion charm congratulation,0.2909090909090909,60,6.166666666666667,Neutral,1,0
+5,1,2020,cool,0.35,1,4.0,Neutral,1,0
+5,2,2020,clean well taken care of,0.3666666666666667,5,4.0,Neutral,1,0
+4,2,2018,place beautiful lot nature several attraction wellkept tidy space adequate structure team work day great night lack vigilance staff move around place command respect several people making mess 10pm early hour morning even called reception patrolman came help mess continued happen again two night stayed like that,0.2592592592592593,47,5.680851063829787,Neutral,1,0
+5,2,2018,good loved,0.7,2,4.5,Positive,2,0
+5,2,2018,super organized structured place family atmosphere fair price definitely come back another time,0.2583333333333333,13,6.384615384615385,Neutral,1,0
+5,2,2018,good place,0.7,2,4.5,Positive,2,0
+5,2,2020,good would stay month,0.7,4,4.5,Positive,2,0
+4,2,2023,good experience pleasant place good recreation child old facility good condition equivalent costbenefit,0.5866666666666666,13,7.0,Positive,2,0
+4,1,2018,calm place,0.30000000000000004,2,4.5,Neutral,1,0
+5,1,2018,great beloved wife were loving it infrastructure 10,0.7000000000000001,8,5.5,Positive,2,0
+5,1,2018,sensational,0.6666666666666666,1,11.0,Positive,2,0
+5,1,2017,perfect place relax family,1.0,4,5.75,Positive,2,0
+5,1,2021,totally different camping ive ever to worth every penny paid huge well maintained place several swimming pool including heated bar polite staff several clean bathroom among others,0.1777777777777778,27,5.666666666666667,Neutral,1,0
+4,1,2018,great experience,0.8,2,7.5,Positive,2,0
+5,1,2021,beautiful organized clean attentive dedicated staff,0.5388888888888889,6,7.666666666666667,Positive,2,0
+5,2,2018,workplace love wonderful place,0.75,4,6.75,Positive,2,0
+5,1,2018,great service perfect place family laser,0.9,6,5.833333333333333,Positive,2,0
+5,2,2018,always good,0.7,2,5.0,Positive,2,0
+5,1,2018,family environment two sauna heated pool well served reception,0.0,9,6.0,Neutral,1,0
+5,1,2021,loved much fun,0.5,3,4.0,Neutral,1,0
+5,1,2022,top ideal family,0.7,3,4.666666666666667,Positive,2,0
+5,1,2018,two word sensational,0.6666666666666666,3,6.0,Positive,2,0
+3,1,2023,good shame cant go pool night,0.7,6,4.0,Positive,2,0
+5,1,2021,good,0.7,1,4.0,Positive,2,0
+5,1,2015,family atmosphere beautiful,0.85,3,8.333333333333334,Positive,2,0
+5,1,2018,excellent,1.0,1,9.0,Positive,2,0
+5,1,2022,excellent place,1.0,2,7.0,Positive,2,0
+5,1,2018,excellent place camp,1.0,3,6.0,Positive,2,0
+5,1,2017,one best camping brazil welcoming staff top structure,0.75,8,5.75,Positive,2,0
+5,1,2018,excellent,1.0,1,9.0,Positive,2,0
+5,3,2018,good,0.7,1,4.0,Positive,2,0
+5,2,2018,loved camping clean organized good structure,0.5888888888888889,6,6.5,Positive,2,0
+4,1,2018,good place camp excellent infrastructure,0.85,5,7.2,Positive,2,0
+5,1,2018,beautiful place great weekend staff top notch ive worked security guard guarantee good safe place whole family,0.5916666666666667,17,5.529411764705882,Positive,2,0
+5,1,2018,beautiful place lot thing do sauna pool good food,0.7749999999999999,9,4.555555555555555,Positive,2,0
+5,2,2018,great service even clientele atmosphere friendship hospitality felt safe child met lot people coming place year ill back soon,0.2,19,5.631578947368421,Neutral,1,0
+5,2,2021,went visit wonderful recommend anyone want relax nature lot leisure,1.0,10,5.8,Positive,2,0
+5,3,2018,1 time good,0.7,3,3.0,Positive,2,0
+5,2,2018,great,0.8,1,5.0,Positive,2,0
+5,2,2020,great place spend season excelent reception wellstructured chalet,0.8,8,7.25,Positive,2,0
+4,2,2020,amazing place polite staff good mealsthey could pay attention electrical part light room working arrived shower leaked water side heat up,0.5666666666666668,21,5.571428571428571,Positive,2,0
+4,2,2021,large campsite plenty area camping clean well maintained bathroom 5 pool small end crowding people big fishery familiar excellent child,0.28432539682539687,20,5.8,Neutral,1,0
+4,1,2018,route good one kilometer left gps indicated bad street pas although better option without going bumpy street,0.12500000000000003,17,5.411764705882353,Neutral,1,0
+5,1,2018,good great fishing spot good camping,0.7333333333333334,6,5.166666666666667,Positive,2,0
+5,1,2023,liked everything much signage arrive night,0.4,6,6.166666666666667,Neutral,1,0
+5,2,2023,great environment place rest,0.8,4,6.25,Positive,2,0
+5,3,2023,wonderful like always,1.0,3,6.333333333333333,Positive,2,0
+5,1,2023,large camping infrastructure camping motorhome addition several swimming pool 1 heated complete leisure area adult child,0.10357142857142856,16,6.5625,Neutral,1,0
+5,1,2016,great place,0.8,2,5.0,Positive,2,0
+5,1,2017,good,0.7,1,4.0,Positive,2,0
+5,1,2020,great,0.8,1,5.0,Positive,2,0
+5,1,2022,good top notch,0.6,3,4.0,Positive,2,0
+5,1,2021,personally stay better went work winter waterslide disabled weekday discovered heated pool tasty breakfast lunch hmmm included rate want go back family,0.075,22,5.909090909090909,Neutral,1,0
+5,2,2023,there liked it mainly heated pool,0.3833333333333333,6,4.666666666666667,Neutral,1,0
+5,2,2023,amazing place good highly recommend,0.48666666666666664,5,6.2,Neutral,1,0
+5,2,2023,used day use amazed beautiful,0.85,5,5.0,Positive,2,0
+5,2,2023,ive three time spend day staff super friendly front desk cheerful explain u work staff restaurant snack bar super friendly too loved recreation staff always activity including age walk fun calmer child quiet already know right lol niece loved it lot fun coolest thing near top pool song played lively fun sometimes staff even activity inside pool like dancing game really nice noisy mix music time,0.3530812324929971,66,5.03030303030303,Neutral,1,0
+5,1,2023,interesting place chalet camping area pool area game room lake fishing,0.04999999999999999,11,5.454545454545454,Neutral,1,0
+5,1,2019,best camping region,1.0,3,5.666666666666667,Positive,2,0
+5,1,2018,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2023,excellent,1.0,1,9.0,Positive,2,0
+5,3,2019,good,0.7,1,4.0,Positive,2,0
+5,1,2017,wonderful place fair price,0.85,4,5.75,Positive,2,0
+4,1,2018,good simple good value money,0.4666666666666666,5,4.8,Neutral,1,0
+5,2,2019,show,0.0,1,4.0,Neutral,1,0
+5,2,2018,great,0.8,1,5.0,Positive,2,0
+3,2,2023,went camping area plenty space clean bathroom swimming pool many dayuse usersi think price high daily camping rate r7000,0.25666666666666665,19,5.368421052631579,Neutral,1,0
+4,2,2021,good place good food lot people pandemic,0.7,7,4.857142857142857,Positive,2,0
+5,2,2019,good,0.7,1,4.0,Positive,2,0
+5,3,2019,great camping,0.8,2,6.0,Positive,2,0
+4,1,2019,nice place cozy chalet good facility,0.3666666666666667,6,5.166666666666667,Neutral,1,0
+5,2,2019,good atmosphere excellent service suitable family,0.75,6,7.333333333333333,Positive,2,0
+3,1,2019,nice place lot space,0.6,4,4.25,Positive,2,0
+4,1,2018,good place spend weekend,0.7,4,5.25,Positive,2,0
+4,1,2018,stayed familiar camping love suggestion greater flexibility checkin checkout especially day low demand,0.275,13,6.923076923076923,Neutral,1,0
+5,1,2018,great,0.8,1,5.0,Positive,2,0
+4,1,2018,good enjoyed visiting interesting village,0.5666666666666667,5,7.4,Positive,2,0
+5,2,2018,wonderful place great come family quiet safe middle nature cold heated pool dry wet sauna zip line tobogganing playground restaurant fishing much more highly recommend,0.21933333333333332,25,5.72,Neutral,1,0
+5,1,2018,top,0.5,1,3.0,Neutral,1,0
+5,1,2018,tasty,0.0,1,5.0,Neutral,1,0
+4,1,2019,good place relax,0.7,3,4.666666666666667,Positive,2,0
+5,1,2019,nice place infrastructure bathroom restaurant swimming pool fishing much more,0.55,10,6.8,Positive,2,0
+5,4,2018,good great place rest great service wonderful pool excellent breakfast lunch excellent fishing wonderful service best left another weekend,0.8111111111111111,19,6.315789473684211,Positive,2,0
+5,1,2018,great camping recommend everyone among best ive to,0.9,8,5.375,Positive,2,0
+5,1,2017,congratulation service reception grade 10 camping fantastic top beautiful place green pool good toboggan show kid make party first time camping already want go back lol mention community kitchen help lot go tent top girlfriend like most already seeing day return dnv thank much keep up,0.4090909090909091,46,5.217391304347826,Neutral,1,0
+5,2,2017,really liked good vip chalet location back soon,0.4333333333333333,8,5.0,Neutral,1,0
+5,2,2017,family atmosphere peaceful recreation team 10,0.25,6,6.666666666666667,Neutral,1,0
+5,1,2016,good,0.7,1,4.0,Positive,2,0
+5,1,2019,great spot anyone looking wellstructured campsite like farm hotel ideal place,0.8500000000000001,11,6.090909090909091,Positive,2,0
+5,1,2019,beautiful immaculate attentive kind staff,0.6166666666666667,5,7.4,Positive,2,0
+5,1,2017,great option child adequate infrastructure,0.5666666666666667,5,7.6,Positive,2,0
+5,1,2018,clean organized,0.3666666666666667,2,7.0,Neutral,1,0
+5,1,2021,excellent place family fishing wonderful chalet good cost,0.9,8,6.25,Positive,2,0
+5,1,2020,great good family,0.75,3,5.0,Positive,2,0
+2,3,2019,wonderful camping fee increased lot 35 50 heavy take family,0.4,10,5.0,Neutral,1,0
+4,3,2019,nice place,0.6,2,4.5,Positive,2,0
+4,2,2019,great service delicious homemade food pleasant quiet place heated pool suitable temperature cold day,0.4138888888888888,14,6.214285714285714,Neutral,1,0
+5,3,2019,excellent,1.0,1,9.0,Positive,2,0
+4,1,2019,good rest beautiful location,0.7749999999999999,4,6.25,Positive,2,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+3,3,2019,heated outdoor pool serve dinner,0.0,5,5.6,Neutral,1,0
+5,2,2022,wonderful place impeccable perfect meal loved always come back sure,0.6583333333333333,10,5.8,Positive,2,0
+4,3,2022,highly recommend my husband rented chalet loved it reception meal everything wonderful well back soon,0.46499999999999997,15,5.8,Neutral,1,0
+5,2,2022,incredible place connect nature great leisure option family delicious food restaurant wonderful service,0.925,13,7.0,Positive,2,0
+5,3,2022,good,0.7,1,4.0,Positive,2,0
+5,2,2022,want tranquility peace wonderful place,1.0,5,6.8,Positive,2,0
+5,2,2022,weve going place 20 year always wonderful love it,0.75,9,4.555555555555555,Positive,2,0
+5,2,2018,wonderful place super recommend chalet cute really worth,0.5333333333333333,8,6.125,Positive,2,0
+5,2,2022,great place pleasant atmosphere excellent food welldeserved rest,0.8444444444444444,8,7.125,Positive,2,0
+5,2,2023,beautiful cozy place well located perfect spend amazing day family service great,0.61,12,5.75,Positive,2,0
+5,2,2017,calm familiar beautiful,0.5083333333333333,3,7.0,Positive,2,0
+5,2,2023,went year ago love place clean spacious stay home worth,0.3888888888888889,10,4.6,Neutral,1,0
+2,1,2020,allow cooler near pool camping absurd visited campsite again sad problem cooler continued turbaina soft drink r750 thought absurd changing room bathroom maintained bathroom near pool closed sad really liked campsite,-0.13333333333333336,31,5.967741935483871,Negative,0,0
+4,1,2021,place nice whether camping fishing simply beer friend,0.3,8,5.75,Neutral,1,0
+5,2,2021,love place super family friendly atmosphere super delicious good breakfast delicious food,0.6059523809523809,12,6.5,Positive,2,0
+5,2,2017,goodprivileged naturefresh air tranquility,0.0,4,9.75,Neutral,1,0
+5,2,2019,first experience camper loved highly recommend,0.36999999999999994,6,6.833333333333333,Neutral,1,0
+5,2,2016,wonderful call great service,0.9,4,6.25,Positive,2,0
+5,2,2021,wonderful experience good place family healthy environment safe clean organized water socket sink light security thank everything ill back soon,0.37083333333333335,20,6.2,Neutral,1,0
+5,2,2016,family atmosphere beautiful place good food excellent service recommend,0.85,9,7.0,Positive,2,0
+4,2,2021,loved beautiful place,0.7749999999999999,3,6.333333333333333,Positive,2,0
+5,2,2021,excellent infrastructure,1.0,2,11.5,Positive,2,0
+5,2,2022,great option looking rest peace good food lot fun enjoyed lot family i,0.575,13,4.461538461538462,Positive,2,0
+5,1,2022,excellent place especially family thing weekend price go 50 reais 60 per person think unfair,0.16666666666666666,15,5.2,Neutral,1,0
+5,1,2022,great camping great structure especially family child,0.5333333333333333,7,6.714285714285714,Positive,2,0
+5,1,2022,nice quiet place spend time friend family,0.3,7,5.0,Neutral,1,0
+5,3,2018,cozy place happy people,0.30000000000000004,4,5.0,Neutral,1,0
+5,2,2022,great reception beautiful cozy place everything organized many leisure option definitely come back often one suggestion 2 year old baby went missed childrens playground pool area maybe childrens pool something like that that everything perfect start finish,0.38125,37,5.945945945945946,Neutral,1,0
+5,1,2021,family atmosphere,0.0,2,8.0,Neutral,1,0
+1,1,2020,went holiday 10122020 thought would reduced capacity informed phone full holiday ive to lack social distancing swimming pool full rule number people worried cooler near pool known gone left home thinking safe place rule people,0.2222222222222222,35,5.485714285714286,Neutral,1,0
+1,1,2018,poor infrastructure enough employee abusive price offered,-0.2,7,7.285714285714286,Negative,0,0
+5,1,2021,beautiful place,0.85,2,7.0,Positive,2,0
+1,1,2021,family 2 adult 3 year old child idea enter friday leave sunday asked entry could around noon friday informed additional daily charge would charged entry 6pm conversation stopped there thanks,0.1,30,5.366666666666666,Neutral,1,0
+5,1,2020,great place quiet well maintained impeccable chalet,0.5166666666666667,7,6.428571428571429,Positive,2,0
+4,1,2021,yes,0.0,1,3.0,Neutral,1,0
+5,1,2021,good place good food liked lot,0.6666666666666666,6,4.166666666666667,Positive,2,0
+5,2,2021,top wonderful place relax,0.75,4,5.5,Positive,2,0
+5,1,2021,good good service,0.7,3,5.0,Positive,2,0
+4,1,2021,good cool place,0.5249999999999999,3,4.333333333333333,Positive,2,0
+1,2,2021,come intention harming place come vent great regret regular customer many manager attitude generally frustrating realize really care customer lining pocket matter always camp tent cost 55 reais day far good disabled uncle help wheelchair walker cant get tent wanted take fun however call find provide affordable chalet one without breakfast lunch included one night flexible come making exception person disability wow sometimes lot empty chalet cost nothing empathetic charge fair amount know offer chalet inn package breakfast lunch included friday sunday 590 reais stay unreal something could fairer value sleep establishment u clearly caring customer lost client big fan place even introduced place many different people business know lose customer lose one lose others customer could take reflect,0.20625000000000002,119,5.739495798319328,Neutral,1,0
+5,1,2021,beautiful place great structure,0.825,4,7.0,Positive,2,0
+5,1,2019,rested ate well ive several time recommend place,0.0,8,5.125,Neutral,1,0
+5,1,2017,sun hat many recreation child adult mention swimming pool water slide,0.3,11,5.363636363636363,Neutral,1,0
+5,1,2018,great infrastructure polite staff well located recommended camping cell phone signal,0.8,11,6.7272727272727275,Positive,2,0
+4,1,2019,good,0.7,1,4.0,Positive,2,0
+4,1,2019,beautiful place good walk family,0.7749999999999999,5,5.6,Positive,2,0
+5,1,2016,good structure recreation good service beautiful landscape among thing,0.75,9,6.888888888888889,Positive,2,0
+5,2,2021,perfect loved,0.85,2,6.0,Positive,2,0
+5,2,2023,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2023,highly recommend it born place keep getting better good spend day,0.4533333333333333,11,5.0,Neutral,1,0
+3,1,2018,great chalet wonderful environment,0.9,4,7.75,Positive,2,0
+5,1,2018,great campaign go family,0.8,4,5.25,Positive,2,0
+5,4,2023,top,0.5,1,3.0,Neutral,1,0
+5,2,2023,expensive,-0.5,1,9.0,Negative,0,0
+5,3,2020,good,0.7,1,4.0,Positive,2,0
+5,2,2023,excellenti loved place come back,0.35,5,5.6,Neutral,1,0
+5,1,2023,best camping itu polite staff clean quiet place flaw day extremely perfect arrival departure restaurant sensational atmosphere recommend,0.6066666666666667,18,6.611111111111111,Positive,2,0
+5,1,2017,super safe fun family environment barbecue area game guaranteed leisure,0.18333333333333332,10,6.2,Neutral,1,0
+4,2,2023,liking loving liked it positive point nice place take child nice pool beautiful place rest stayed pedras camping area one shade area shade day day lol clean bathroom toilet paper sink area close bathroom nice use kitchen campsite 10minute drive city great walk andor going market need to observation point place lot fly lot type think mango lot first day almost manage lunch made lunch went center buy detefon snake ascend try comfortable solve 100 least stone space lighting pretty bad streetlight weak light girl fell ill soon noticed employee trainedqualified first aid firefighter called emergency service like anything snack bar service price compatible size drink portion case potato portion took 56 minute even though ordered 2 minute ordering began would go back place close cool environment,0.28065025252525255,127,5.299212598425197,Neutral,1,0
+5,2,2023,incredible place great rest easy access,0.7111111111111112,6,5.666666666666667,Positive,2,0
+5,1,2018,modernizing great space place rest unwind,0.8,6,6.0,Positive,2,0
+5,3,2023,wonderful place excellent infrastructure clean chalet well ventilated weve going long time loved it last visit 2nd november storm left campsite without electricity 28 hour even team maintained far possible best service provided perfect meal wonderful fresh breakfast hot lunch recreation team always interacts child game manual activity thank family would like live,0.3766488413547237,53,5.90566037735849,Neutral,1,0
+5,1,2023,excellent place good structure complete always come back,0.45,8,6.125,Neutral,1,0
+5,1,2023,great place camp clean polite staff great place highly recommend it,0.5316666666666667,11,5.181818181818182,Positive,2,0
+5,1,2020,loved good,0.7,2,4.5,Positive,2,0
+3,1,2018,half,-0.16666666666666666,1,4.0,Negative,0,0
+4,1,2021,far praise empty,0.0,3,4.666666666666667,Neutral,1,0
+5,2,2018,beautiful place enjoy family friend eat delicious portion fish incredible view,0.7875,11,6.181818181818182,Positive,2,0
+5,1,2018,great spot,0.8,2,4.5,Positive,2,0
+4,1,2018,nice place whole family,0.4,4,5.0,Neutral,1,0
+4,1,2018,great place,0.8,2,5.0,Positive,2,0
+5,1,2018,family environment country atmosphere first class infrastructure,0.25,7,8.285714285714286,Neutral,1,0
+5,1,2018,organized camping excellent hygiene bathroom common area organized good privacy chalet tent area others best campsite ive region,0.6,18,6.166666666666667,Positive,2,0
+5,1,2020,top,0.5,1,3.0,Neutral,1,0
+1,3,2018,recommend spending week ask turn water slide every day heated pool open 11 pm day lighting turned on is possible use it staff start working late pool cleaned 730 am pool 930 leave employee shouted waterslide saying would clean it hour passed go clean it recommend anyone want enjoy pool want sleep go thats good for sleep,0.21904761904761907,57,4.649122807017544,Neutral,1,0
+4,2,2018,family atmosphere accommodation want simplicity price low compared place restaurant good homemade food hot seasoned service always friendly problem chalet already old need renovation,0.2791666666666667,24,6.625,Neutral,1,0
+5,2,2017,wonderful placeperfect rest enjoy family friendsloving more,0.6333333333333333,7,7.571428571428571,Positive,2,0
+4,2,2018,beautiful place well maintained hope solve problem electricity area designated camping motorhomes trailer frequently went out making impossible use electrical appliance furthermore place rated 10,0.09444444444444444,25,6.84,Neutral,1,0
+4,2,2020,family atmosphere good service,0.7,4,6.75,Positive,2,0
+5,2,2020,say one thing guy need go meet note 10 everything,0.0,10,4.0,Neutral,1,0
+5,1,2020,campsite sensational everything clean organized men woman bathroom clean shower hot water campsite caters well looking tranquility leisure nature,0.4125,19,6.684210526315789,Neutral,1,0
+5,2,2020,beautiful place delicious lunch great service,0.8833333333333334,6,6.666666666666667,Positive,2,0
+5,4,2020,everything vip service,0.0,3,6.666666666666667,Neutral,1,0
+1,1,2020,serve camper well give preference motor home trailer unmotivated employee match location complain everything want give saying camping crazy people main camping area parking employee approach asking stopped car street threaten wake stop streetunmotivated fishing chef asked one security guard safe camp answer everywhere dangerous thought employee threat me sleep third night strange peoplealthough place beautiful clean employee unprepared must change employee frequently high turnover 2 month old staff campsite talk ostentatious really shamei want go back unless change team,0.0911111111111111,80,6.2125,Neutral,1,0
+3,1,2020,spent new year eve 2019 camping ive known since 1990s place fantastic lot green space attentive staff family atmosphere restaurant good caters well visitor opened new one near lake get use downside noticed since 1990s renovation carried site 1 court sport bad shape bocce field already gone abandoned 2 game room 1 good pool table broken one room old ping pong table hole electronic arcade pinball machine removed childrens playground remains without much option 4 swimming pool adult small without shadow like it play sertanejo music day long leisure area last volume becomes unpleasant like already old right entrance tennis court believe since inauguration abandoned idle space short good renovation existing area game room option umbrella tree around pool ambient sound would make campsite opinion best so paulo,0.08878621378621379,128,5.375,Neutral,1,0
+5,1,2023,nice atmosphere great pool look like building another one good place family outing,0.6999999999999998,13,5.384615384615385,Positive,2,0
+4,1,2018,good camping big good maintenance service nice waterslide small heated pool familiar good restaurant reasonable price,0.37812500000000004,16,6.375,Neutral,1,0
+5,1,2018,well maintained place attractive child adult lot space great,0.5666666666666668,9,5.777777777777778,Positive,2,0
+5,1,2020,loved place,0.7,2,5.0,Positive,2,0
+4,1,2022,great stop kid good restaurant good price fair pool waterslide far camping area lot down prepare physique,0.47407407407407415,17,5.235294117647059,Neutral,1,0
+5,1,2020,good,0.7,1,4.0,Positive,2,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+5,1,2018,incredible place quiet fishing event weekend polite attentive staff,0.43333333333333335,9,6.555555555555555,Neutral,1,0
+5,1,2022,good recommend,0.7,2,6.5,Positive,2,0
+5,1,2022,really liked place lot nature highly recommend it ill back soon sure,0.152,12,4.75,Neutral,1,0
+5,1,2020,show recommend,0.0,2,6.5,Neutral,1,0
+3,1,2018,trekking competition,0.0,2,9.5,Neutral,1,0
+5,1,2018,camping,0.0,1,7.0,Neutral,1,0
+3,1,2021,dear reviewing evaluation noticed holiday party like new year camping messy staff make lot noise night campground also creates show event night dawn expect sleep go family rest best avoided,0.3121212121212121,30,5.333333333333333,Neutral,1,0
+5,1,2018,,0.0,1,0.0,Neutral,1,0
+5,1,2017,looking peace nature place beautiful restaurant,0.85,6,7.0,Positive,2,0
+1,2,2022,lost desire visit place due arrogance unwillingness whatsapp service seems like angry answer thats asked price want polite here second time tried ask information rude already found another place go,-0.23125,30,5.6,Negative,0,0
+5,2,2022,wonderful place great service,0.9,4,6.5,Positive,2,0
+5,2,2022,great structure excellent location,0.9,4,7.75,Positive,2,0
+5,2,2021,wonderful,1.0,1,9.0,Positive,2,0
+4,3,2021,wonderful place rest everything clean organized restaurant service left something desired employee bad mood,0.1666666666666667,14,6.714285714285714,Neutral,1,0
+5,2,2021,dream place family atmosphere,0.0,4,6.5,Neutral,1,0
+5,2,2018,beautiful wonderful but need date term customer service implanting computer make life easier customer always need remember card number wait employee look it generating queue embarrassment,0.925,26,6.230769230769231,Positive,2,0
+5,2,2019,wonderful dream honeymoon amazing place,0.8,5,7.0,Positive,2,0
+5,2,2021,location incredibly beautiful 1 heated pool boiler 3 natural pool place full tree bird platform motor home chalet rent mezzanine 3 mattress lower area 1 double bed bathroom heated shower stove refrigerator tv everything rustic well organized clean also tent area power point water camper worth knowing camping huge still fishing tambaqui trara pacu tilapia much more,0.35833333333333334,57,5.43859649122807,Neutral,1,0
+1,1,2021,lousy service secretary questioning time reservation man woman couple mattered recommend anyone know serve people know tourism totally disappointed,-0.625,19,6.7894736842105265,Negative,0,0
+4,1,2021,good,0.7,1,4.0,Positive,2,0
+5,1,2021,excellent,1.0,1,9.0,Positive,2,0
+5,1,2021,wonderful place spectacular food unforgettable fishing great servicehighly recommended,0.8,9,8.666666666666666,Positive,2,0
+5,3,2021,great,0.8,1,5.0,Positive,2,0
+4,1,2021,nice clean place organized pool leave something desired interfere tour worth checking out,0.4222222222222222,13,5.923076923076923,Neutral,1,0
+3,1,2021,good,0.7,1,4.0,Positive,2,0
+5,2,2023,wonderful place june party live music recreation excellent raining memo program like this went child loved intend return,0.709090909090909,18,5.722222222222222,Positive,2,0
+5,1,2020,topalways improving renovating spacesits really worth it,0.3,7,7.142857142857143,Neutral,1,0
+5,1,2023,experience wonderful congratulation thing could bottle minibar suite water arrive everything perfect,1.0,12,7.416666666666667,Positive,2,0
+5,1,2020,peace,0.0,1,5.0,Neutral,1,0
+1,2,2023,opportunity visit campsite contacted via whatsapp waiting response reservation wanted 1307th today 1507th answered suggest anyone interested look elsewhere recommend bad service beginning end could worse lucky experience,-0.12916666666666665,28,6.892857142857143,Negative,0,0
+5,1,2023,one coolest campinas region great location wonderful view,0.9,8,6.25,Positive,2,0
+5,2,2023,place beautiful well wooded organized camping area huge onsite socket faucet contains simple community kitchen kiosk barbecue grill use will point improve rule loud sound camping area respect end bothering camper another point also heated pool extremely small full child without supervision parent guardian establishment due unable enjoy pool apart point great place beautiful undoubtedly one best camping ive to ill back often,0.2516666666666667,63,5.7936507936507935,Neutral,1,0
+4,2,2017,positive point super comfortable guesthouse room accommodation family atmosphere negative point expensive caipirinha quality quantity offered terrible wifi signal,-0.13989898989898988,19,7.578947368421052,Negative,0,0
+5,3,2023,best place world ive ever been,1.0,6,4.166666666666667,Positive,2,0
+5,2,2023,quiet well maintained place polite staff breakfast lunch good well done,0.35,11,5.545454545454546,Neutral,1,0
+4,3,2023,nice clean place,0.48333333333333334,3,4.666666666666667,Neutral,1,0
+3,2,2020,really like place tranquility nature coffee lunch among others wooden chalet need urgent maintenance bathroom another option besides nail put towel door worn give bad impression time released several chicken rooster fishing area animal feces everywhere like keep looking ground fear stepping it thought disgusting hope get better,-0.2285714285714285,48,5.875,Negative,0,0
+4,1,2017,good,0.7,1,4.0,Positive,2,0
+5,1,2018,great value money camping family,0.8,5,5.6,Positive,2,0
+5,1,2018,perfect place spend day nature several swimming pool,0.5,8,5.625,Neutral,1,0
+4,1,2017,went play paint ball place look good,0.7,7,4.285714285714286,Positive,2,0
+4,3,2017,quiet spacious clean place several pool varied leisure option salty price,0.12222222222222223,11,5.7272727272727275,Neutral,1,0
+5,2,2017,place great everything,0.8,3,6.666666666666667,Positive,2,0
+5,2,2022,wonderful place true peace place chale top restaurant note 10 congratulation back often,0.4625,13,5.769230769230769,Neutral,1,0
+5,1,2017,nice familiar place,0.4875,3,5.666666666666667,Neutral,1,0
+4,1,2017,well topic camp it really cool,0.35,6,4.166666666666667,Neutral,1,0
+2,1,2019,price much higher offered imposes rule force consumption poor service,-0.07500000000000001,10,6.0,Negative,0,0
+5,2,2019,gratitude joy peace heart beautiful beautiful place people good,0.8,9,6.111111111111111,Positive,2,0
+5,2,2019,wonderful everything need holiday weekend peace tranquility honest price,0.8,9,7.111111111111111,Positive,2,0
+4,3,2019,dark night small bad,-0.36666666666666664,4,4.25,Negative,0,0
+5,2,2019,went today friend first time campsite super clean everything tidy staff polite helpful good homecooked food clean swimming pool familyfriendly placei backcongratulations everyone campsite,0.4361111111111111,24,6.833333333333333,Neutral,1,0
+5,2,2019,recommend,0.0,1,9.0,Neutral,1,0
+5,2,2020,quiet peace rest,0.0,3,4.666666666666667,Neutral,1,0
+5,3,2020,familyfriendly place completely peaceful even recommend friend,0.25,7,8.0,Neutral,1,0
+5,1,2020,pleasantly organized several activity child good structure,0.4777777777777777,7,7.428571428571429,Neutral,1,0
+5,1,2020,wonderful place loved,0.85,3,6.333333333333333,Positive,2,0
+4,3,2018,place perfect breakfast lunch good chalet stayed great thing left desired mattress horrible swimming pool two child one aged 2 aged 9 month heated pool full child age people arrived drinking eating pool child left everything adduct remained end good,0.23499999999999996,40,5.25,Neutral,1,0
+4,1,2018,peace nature,0.0,2,5.5,Neutral,1,0
+5,1,2018,hat moment best region new pool fishing everything great want go back soon,0.48409090909090907,13,4.769230769230769,Neutral,1,0
+5,3,2019,great relaxing,0.8,2,6.5,Positive,2,0
+5,1,2019,wonderful place camp great service user support place four swimming pool one heated trail one camping area well shaded bathroom always clean really worth visiting,0.6166666666666667,25,5.52,Positive,2,0
+5,2,2019,great place stroll fun family,0.55,5,5.0,Positive,2,0
+5,3,2019,camping note ten,0.0,3,4.666666666666667,Neutral,1,0
+5,2,2019,tasty clean bathroom complete camping wonderful fishing cozy restaurant affordable price swimming pool good leisure area,0.39333333333333337,16,6.5625,Neutral,1,0
+5,2,2021,love placewhen want rest peace stay inntop servicewonderful accommodationapart breakfast lunch deliciousi highly recommend it,0.33,15,7.4,Neutral,1,0
+5,2,2019,loved family environment well structured pool staff courteous food great wide variety salad juice jug wonderful chose acerola juice perfect great option spend day family friend,0.6857142857142857,26,5.8076923076923075,Positive,2,0
+1,2,2023,unfortunately nothing like imagined rented chalet tomorrow event organization terrible paid absurd amount including transfer 1st day missed half event simply driver took wrong route accept help passed 4th time supposed go asked stop bus walked way back even worse company want pay parking event ended walk br 2 hour bus get location stayed another 2 hour support chalet company return call message even returned chalet continued try get touch communication difficult horrible feeling again pay cheap this going humiliation chalet full cobweb even look like cleaned much smaller imagined price absurd tell next day returned realized entered chalet without even informing anything type room service take everything even bed linen reason entry make confidence 0 asked refund transfer first day second day event returned mess correspond pay short ruined good part experience,-0.17708333333333331,133,5.548872180451128,Negative,0,0
+5,2,2022,wonderful place spend day,1.0,4,5.5,Positive,2,0
+5,3,2022,loved place perfect go family great want peace lot nature good food variety option,0.8,14,4.928571428571429,Positive,2,0
+5,2,2022,excellent place wonderful polite staff place amazing lot nature great rest everything well maintained clean meal good too love place recommend it,0.7095238095238096,22,5.636363636363637,Positive,2,0
+5,1,2022,nice place clean relaxing great camping,0.5888888888888889,6,5.666666666666667,Positive,2,0
+3,2,2022,rasuavel,0.0,1,8.0,Neutral,1,0
+5,2,2022,camping organized employee attentive place beautiful 4 pool enjoy lot oh mention delicious breakfast,0.6625,14,6.214285714285714,Positive,2,0
+5,2,2020,wonderful place service note 10,1.0,5,5.4,Positive,2,0
+5,1,2022,well maintained pleasant place,0.7333333333333333,4,6.75,Positive,2,0
+5,2,2022,really like place second time returned environment relax moment peace,0.1,10,6.0,Neutral,1,0
+4,1,2022,great looking place get rush day renew energy,0.8,8,4.75,Positive,2,0
+5,3,2018,nice place,0.6,2,4.5,Positive,2,0
+5,2,2018,beautiful location excellent couple family outing good pool structure,0.85,9,6.777777777777778,Positive,2,0
+5,3,2018,coldest weekend year went camping camping structure great lot do lighting camping area left little desired great place family couple camp,0.353125,21,5.571428571428571,Neutral,1,0
+5,2,2018,went camping chapeu de sol family experience great various activity pool billiards paintball definitely back rest family,0.26666666666666666,17,6.117647058823529,Neutral,1,0
+5,2,2017,camping great structure guaranteed fun little one,0.3041666666666667,7,6.142857142857143,Neutral,1,0
+5,2,2021,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2021,cool,0.35,1,4.0,Neutral,1,0
+5,2,2021,everything great,0.8,2,7.5,Positive,2,0
+5,2,2021,love place great go family,0.65,5,4.4,Positive,2,0
+5,2,2018,beautifulwonderfulrecommend,0.0,1,27.0,Neutral,1,0
+5,2,2022,wonderful wonderful breakfast lunch,1.0,4,8.0,Positive,2,0
+5,2,2020,simply wonderful spent weekend enchanted well signposted clean accessible great structure lot nature,0.4883333333333333,13,6.769230769230769,Neutral,1,0
+5,1,2018,call happy,0.8,2,4.5,Positive,2,0
+5,1,2018,good clean organized,0.5333333333333333,3,6.0,Positive,2,0
+5,1,2018,great especially child clean green well maintained good pool,0.33333333333333337,9,5.777777777777778,Neutral,1,0
+4,1,2017,family place,0.0,2,5.5,Neutral,1,0
+4,1,2018,good campig staff work attentive restaurant lot variety clean,0.48888888888888893,9,5.888888888888889,Neutral,1,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+5,1,2023,activated map cajuru could go castelinho close,0.0,7,5.714285714285714,Neutral,1,0
+5,1,2018,good quiet place beautiful view well structured organized welcoming staff,0.5166666666666666,10,6.4,Positive,2,0
+5,1,2018,went camping great experience place clean,0.5833333333333334,6,6.0,Positive,2,0
+5,1,2018,top place super clean area recommend everyone,0.39999999999999997,7,5.571428571428571,Neutral,1,0
+5,1,2017,good weekend holiday,0.7,3,6.0,Positive,2,0
+5,1,2017,extraordinary place,0.3333333333333333,2,9.0,Neutral,1,0
+5,1,2018,beautiful place,0.85,2,7.0,Positive,2,0
+5,1,2018,excellent place family atmosphere recreation child stay free chargeexcellent,0.7,9,7.555555555555555,Positive,2,0
+5,2,2019,great,0.8,1,5.0,Positive,2,0
+5,2,2019,wonderful place enjoy family friend worth it,0.5666666666666667,7,5.428571428571429,Positive,2,0
+3,2,2020,however liked kitchen precarious far place stayed tent too would also nice roof near troller get sun day space good,0.41999999999999993,20,4.8,Neutral,1,0
+4,2,2019,great place,0.8,2,5.0,Positive,2,0
+5,1,2019,good day use hosting,0.7,4,4.25,Positive,2,0
+5,3,2019,liked,0.6,1,5.0,Positive,2,0
+5,2,2019,booom,0.0,1,5.0,Neutral,1,0
+5,2,2021,super quiet place 4 adult pool 1 heated 1 childrens pool wonderful place,0.35833333333333334,13,4.615384615384615,Neutral,1,0
+5,3,2019,love camping there many activity polite people,0.5,7,5.714285714285714,Neutral,1,0
+5,2,2018,excellent place fun family congratulation,0.65,5,7.4,Positive,2,0
+5,2,2022,great place excellent food attentive staff,0.7333333333333334,6,6.166666666666667,Positive,2,0
+5,2,2018,call sensational,0.6666666666666666,2,7.5,Positive,2,0
+5,2,2018,delightful place,1.0,2,7.5,Positive,2,0
+5,2,2018,loved cozy organized treated well great accommodation cleanliness plenty attraction child,0.43333333333333335,11,7.181818181818182,Neutral,1,0
+4,2,2018,fantastic,0.4,1,9.0,Neutral,1,0
+2,2,2020,restaurant staff serve poorly patience all buffet without variety,-0.4,9,6.333333333333333,Negative,0,0
+5,2,2018,loved place great spend weekend family friend whether charming chalet camping show,0.7333333333333334,12,5.916666666666667,Positive,2,0
+5,1,2018,everything good wonderful structure go without fear happy exceeds expectation,0.8333333333333334,10,6.8,Positive,2,0
+3,1,2016,old chalet poorly maintained inn generally good swimming pool trail good restaurant good breakfast,0.36,14,6.071428571428571,Neutral,1,0
+5,1,2018,structure organization 100 cleanliness family camping easy access,0.43333333333333335,8,7.25,Neutral,1,0
+5,2,2022,loved,0.7,1,5.0,Positive,2,0
+5,2,2022,wonderfuli highly recommend it,0.16,4,6.75,Neutral,1,0
+5,2,2022,excellent place fantastic staff attentive friendly cozy familiar atmosphere,0.3916666666666666,9,7.444444444444445,Neutral,1,0
+5,2,2020,good place excellent negative point camping brighter heated pool bigger people want stay child,0.35,14,5.785714285714286,Neutral,1,0
+5,3,2022,good place camping everyone work campsite friendly attentive really enjoyed definitely back,0.395,12,6.666666666666667,Neutral,1,0
+1,1,2022,stayed camping area mororhomes carnival weekend left ahead schedule place without rule visitor want smoke pool area staff see it everything dirty bathroom god cleaned often campsite lack maintenance mention arrived yesterday sunday day use people come bring sound box dispute listens louder rhythm mix turn mess pool get crowded water turn claycolored full hair because due number people someone maintenance day frankly charging 7500 per person offering anything right mention lawn full ant cost put poison anthill went little breakfast child bitten place enough money factory think thats crowded rule everyone want back family weekend over plan stay whole holiday finally home,0.03832417582417583,103,5.58252427184466,Neutral,1,0
+5,1,2022,camping carnival good place take family relax big city see bit life closer nature,0.35,14,4.857142857142857,Neutral,1,0
+5,1,2017,really liked it crowded familiar,0.4875,5,5.6,Neutral,1,0
+3,1,2017,would like go,0.0,3,3.6666666666666665,Neutral,1,0
+5,2,2017,ive going 11 year love it,0.5,6,3.3333333333333335,Neutral,1,0
+4,3,2017,tasty recommend,0.0,2,7.0,Neutral,1,0
+5,3,2017,great service felt like home,0.8,5,4.8,Positive,2,0
+5,3,2017,great place spend weekend family,0.8,5,5.6,Positive,2,0
+1,1,2017,camping great problem tent area caste fdp love make fuss noise loud sound 10 pm anyway try imagine dozen tent formed family hypocrite never heard word altruism,0.45000000000000007,27,4.925925925925926,Neutral,1,0
+5,1,2022,good pleasant reasonable price,0.5444444444444444,4,6.75,Positive,2,0
+2,1,2019,weak,-0.375,1,4.0,Negative,0,0
+5,1,2019,soooo good indicate,0.7,3,5.666666666666667,Positive,2,0
+5,2,2019,great lot fun,0.55,3,3.6666666666666665,Positive,2,0
+5,3,2019,highly recommend it,0.16,3,5.666666666666667,Neutral,1,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+5,1,2017,great better place,0.65,3,5.333333333333333,Positive,2,0
+5,3,2020,wellstructured camping camper always clean bathroom 220v power supply communal kitchen,0.3666666666666667,11,6.909090909090909,Neutral,1,0
+5,2,2020,wonderful little person possible lot fun note 10,0.278125,8,5.125,Neutral,1,0
+4,2,2020,really liked it several swimming pool good barbecue area,0.4333333333333333,9,5.333333333333333,Neutral,1,0
+5,2,2023,loved,0.7,1,5.0,Positive,2,0
+5,2,2019,love place,0.5,2,4.5,Neutral,1,0
+5,1,2020,simple peaceful beautiful place,0.3666666666666667,4,7.0,Neutral,1,0
+5,3,2020,wonderful,1.0,1,9.0,Positive,2,0
+4,1,2018,pleasant however wi fi cell phone operator signal vivo e oi terrible inside suite common area vivo signal good lack night service term food example snack bar nature generous place,0.033333333333333326,30,5.0,Neutral,1,0
+5,2,2018,beautiful place beautiful nature several swimming pool good service stayed day,0.6,11,6.181818181818182,Positive,2,0
+5,2,2018,place beautiful people work friendly helpful saw one disadvantage regarding bathroom separate toilet shower place cozy bathroom becomes small detail,0.14833333333333334,20,6.45,Neutral,1,0
+4,3,2018,heated pool child adult addition taking away privacy still use space already small since child need hot water adult hot pool always used lot dirty strong smell chlorine lot rude people using pool common place even dating restaurant positive perfect breakfast lunch tasty well prepared staff well prepared serve serve snack bar excellent staff serve price little salty chalet nice tidy need maintenance send right away good good relaxing stay looking peace tranquility recommend it,0.25604557479557477,75,5.413333333333333,Neutral,1,0
+4,2,2018,camping well structured worth going,0.3,5,6.2,Neutral,1,0
+5,3,2018,good,0.7,1,4.0,Positive,2,0
+5,4,2018,family environment clean safe great resting,0.5555555555555556,6,6.333333333333333,Positive,2,0
+5,1,2018,ameiii,0.0,1,6.0,Neutral,1,0
+2,1,2018,reasonable location,0.2,2,9.0,Neutral,1,0
+5,2,2018,super cozy,0.06666666666666667,2,4.5,Neutral,1,0
+5,1,2020,top trip beautiful place,0.675,4,5.25,Positive,2,0
+5,1,2020,great environment service,0.8,3,7.666666666666667,Positive,2,0
+4,1,2020,liked it child lot fun however chalet lack structure air conditioning modern tv cozy double mattress give upgrade place beautiful,0.2916666666666667,20,5.5,Neutral,1,0
+5,3,2020,wonderful beautiful place,0.925,3,7.666666666666667,Positive,2,0
+5,2,2020,first time went loved place good clean organized well received recommend,0.5041666666666667,11,5.636363636363637,Positive,2,0
+5,2,2020,place nice spacious camping good cold windy night pool great one heated breakfast lunch dinner portion,0.375,16,5.4375,Neutral,1,0
+4,1,2020,camping good reason give 5 star lack grass camping area,0.7,10,4.6,Positive,2,0
+5,2,2020,good lot leisure option,0.7,4,5.0,Positive,2,0
+4,2,2020,wonderful place close nature ive camping twice perfect bathroom created near campsite im always child queuing take shower unpleasant people get irritated want wait pay stay right comfort suggest expand bathroom space shower quickly can otherwise congratulation place top notch,0.3670068027210885,40,5.925,Neutral,1,0
+5,1,2020,great family,0.8,2,5.5,Positive,2,0
+4,1,2020,camping experience nice pleasant fun program whole family excellent cost benefitregarding structure thought nice clean area bathroomsin time pandemic think implement preventive measure relation cobid19 true few occasional use mask employee sense suggest checking temperature visitor entering maintain limitation distance pool area overcrowded space without control people pet procedure,0.3949999999999999,49,6.877551020408164,Neutral,1,0
+5,1,2020,liked quiet laser,0.3,3,5.0,Neutral,1,0
+5,1,2018,great park family atmosphere,0.8,4,6.25,Positive,2,0
+4,1,2018,liked cost benefit lot nature place simple go expecting luxury,0.3,10,5.3,Neutral,1,0
+5,1,2021,great structure spacious several area camping,0.4,6,6.666666666666667,Neutral,1,0
+5,1,2023,beautiful cozy place one best,0.5499999999999999,5,5.0,Positive,2,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
+5,2,2020,camping well structured restaurant breakfast lunch another dinner snack pizza live music heated pool 4 cold pool one water slide sauna trampoline child community kitchen love place chale tent,0.012121212121212125,29,5.620689655172414,Neutral,1,0
+5,2,2020,good recommend,0.7,2,6.5,Positive,2,0
+5,2,2016,guy much cost enter place went twice last year remember much cost someone tell please,0.13333333333333333,15,4.733333333333333,Neutral,1,0
+4,1,2016,excellent place guesthouse camper,1.0,4,7.5,Positive,2,0
+4,1,2021,easy access good value and suitable resting harmonizing nature,0.5611111111111111,9,6.0,Positive,2,0
+5,2,2016,excellent place stay ftima excellent structure,1.0,6,6.833333333333333,Positive,2,0
+3,1,2016,liked it thought breakfast weak place pleasant could bench u sit walking,0.3194444444444444,12,5.083333333333333,Neutral,1,0
+5,2,2016,love camp,0.5,2,4.0,Neutral,1,0
+4,1,2016,great place relax,0.8,3,5.0,Positive,2,0
+5,1,2016,good place service note 10,0.7,5,4.4,Positive,2,0
+5,2,2018,wonderful place familiar child ease safe already marking return love,0.59375,10,5.9,Positive,2,0
+5,2,2018,excellent,1.0,1,9.0,Positive,2,0
+5,1,2018,best slide,1.0,2,4.5,Positive,2,0
+4,2,2018,excellent,1.0,1,9.0,Positive,2,0
+4,3,2018,good place camp friend family highly recommend it good structure great safe service,0.5720000000000001,13,5.461538461538462,Positive,2,0
+5,1,2018,top place affordable food good service great pool sauna,0.6666666666666666,9,5.222222222222222,Positive,2,0
+5,3,2020,tasty organized,0.0,2,7.0,Neutral,1,0
+5,1,2020,family camping without setback loved,0.7,5,6.4,Positive,2,0
+5,1,2020,toooop,0.0,1,6.0,Neutral,1,0
+5,2,2020,spent weekend family loved everything chalet local food easy access road comfortable already planned return attentive employee including collaborator isaias gave support dedication needed,0.3055555555555555,24,6.833333333333333,Neutral,1,0
+5,2,2019,nice beautiful,0.725,2,6.5,Positive,2,0
+4,2,2018,good food good place child rest,0.7,6,4.333333333333333,Positive,2,0
+5,1,2023,surprised structure campsite visited motorhome may2023 great spot park motorhome socket water next space campsite swimming pool 1 heated game room restaurant breakfast fishing lake paintball space recommend,0.125,28,6.392857142857143,Neutral,1,0
+5,1,2023,wonderful placeservice rating 10organizationcleanliness everything great breakfast lunch chaletsswimming pool good many varietiesrated 10,0.75,14,8.857142857142858,Positive,2,0
+5,2,2023,bit everything,0.0,2,6.5,Neutral,1,0
+5,2,2023,went camping loved experience,0.7,4,6.5,Positive,2,0
+5,2,2018,wonderful place lot green area great looking tranquility fishing spot beautiful view snack bar delicious portion like meal served restaurant staff polite friendly always willing help suggestion reception would nice sign informing get chalet area even though girl reception explained got lost woman came meet saying private area pool could umbrella lack handrail stair give access part pool restaurant,0.5194444444444444,59,5.796610169491525,Positive,2,0
+5,1,2023,good structure many bathroom clean heated pool great several activity campsite addition extremely beautiful placethe price may little higher compared campsite compare one worth every penny end even expensive,0.30791666666666667,29,6.172413793103448,Neutral,1,0
+5,1,2019,beautiful place super clean quiet nice excelent reception nothing desired,0.43,10,6.4,Neutral,1,0
+5,2,2018,place incredible unique momentsmemories last forever,0.425,6,7.833333333333333,Neutral,1,0
+5,1,2023,awesome,1.0,1,7.0,Positive,2,0
+5,1,2022,family place great reception attentive monitor child great camping area impeccable bathroom,0.6875,12,6.666666666666667,Positive,2,0
+5,1,2023,good place spend time family im sure ill come back often,0.175,11,4.181818181818182,Neutral,1,0
+4,2,2023,campsite good area socket bathroom would double due number camper mention last day none shower camping area near pool hot,0.15416666666666665,20,5.1,Neutral,1,0
+4,1,2021,nice place great rest good food too,0.6999999999999998,7,4.142857142857143,Positive,2,0
+4,1,2021,wide nice,0.25,2,4.0,Neutral,1,0
+5,2,2021,best camping place,1.0,3,5.333333333333333,Positive,2,0
+5,3,2021,nice place great fishing,0.7,4,5.25,Positive,2,0
+5,2,2021,perfect place reception fantastic soon arrived felt like among friend receptive staff provided firstworld education meal served excellence fresh hygienic see piece paper thrown floor congratulation chapu de sol family everything perfect highly recommend time year thank family i delighted god bless you,0.5933333333333334,43,6.046511627906977,Positive,2,0
+5,2,2018,great place several swimming pool fishing lake chalet many thing,0.43333333333333335,10,5.5,Neutral,1,0
+1,1,2023,excellent place relax enjoy nature found mr roberto getting soda going pool approached asked bring drink food cool price affordablei leave dissatisfaction administration establishment,0.5833333333333334,24,6.666666666666667,Positive,2,0
+5,1,2022,good place amazing experience recommend,0.65,5,7.0,Positive,2,0
+5,2,2022,wonderful camping super attentive staff dona nice incredible woman super clean camping area clean bathroom clean swimming pool one thing need observed administration community kitchen not people stay agglomerated without able allow people use itbut everything else wonderful ill back soon,0.435897435897436,41,6.048780487804878,Neutral,1,0
+5,2,2022,excellent place clean organized highly recommend it,0.5088888888888888,7,6.428571428571429,Positive,2,0
+5,2,2022,best campsite weve ever to highly recommended,0.58,7,5.571428571428571,Positive,2,0
+5,2,2022,wonderful place familiar organized clean excellent service great family laser friend couple etc,0.7083333333333334,13,6.384615384615385,Positive,2,0
+5,1,2019,excellent take family great infrastructure,0.9,5,7.6,Positive,2,0
+3,3,2019,iron spike giraffe pool drain ended weekend,0.0,7,5.285714285714286,Neutral,1,0
+1,2,2019,prejudiced place went friend simply go couple family ridiculous place,-0.16666666666666666,10,6.0,Negative,0,0
+5,2,2019,nice family atmosphere great food shame sound cooler restricted otherwise excellent,0.7,11,6.636363636363637,Positive,2,0
+4,1,2019,nice cozy place quiet great relax,0.30000000000000004,6,4.666666666666667,Neutral,1,0
+5,1,2023,nice place total peace,0.3,4,4.75,Neutral,1,0
+5,1,2023,cool place,0.35,2,4.5,Neutral,1,0
+5,4,2019,family favorite stop,0.5,3,6.0,Neutral,1,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2017,great place camp family affordable restaurant heated pool,0.8,8,6.25,Positive,2,0
+5,1,2017,great structure soon new pool lot camping option there,0.4681818181818182,9,5.111111111111111,Neutral,1,0
+5,1,2019,excellent meal careful internet dining room fails,0.13333333333333333,7,6.142857142857143,Neutral,1,0
+5,1,2019,wonderful convenience 10,1.0,3,7.333333333333333,Positive,2,0
+5,3,2019,sensational,0.6666666666666666,1,11.0,Positive,2,0
+5,2,2019,well structured heated pool clean bathroom time fun whole family best camping ive ever to were 20 day away intend return,0.4666666666666667,21,4.761904761904762,Neutral,1,0
+5,1,2019,good,0.7,1,4.0,Positive,2,0
+5,2,2019,best place found looking peace people nice loved it,0.7666666666666666,9,4.777777777777778,Positive,2,0
+5,2,2020,nice place,0.6,2,4.5,Positive,2,0
+5,3,2019,show,0.0,1,4.0,Neutral,1,0
+5,3,2016,great camping excellent structure,0.9,4,7.5,Positive,2,0
+4,1,2016,super nice place,0.4666666666666667,3,4.666666666666667,Neutral,1,0
+5,1,2021,beautiful place green well maintained leisure area excellent infrastructure attentive staff option tastesbudgets,0.5125,13,7.6923076923076925,Positive,2,0
+5,1,2016,good,0.7,1,4.0,Positive,2,0
+5,1,2016,good great place,0.75,3,4.666666666666667,Positive,2,0
+5,1,2020,loko top best ive ever been delicious restaurant spectacular breakfast fish lake one better other,0.5791666666666667,15,5.533333333333333,Positive,2,0
+5,2,2020,good,0.7,1,4.0,Positive,2,0
+5,2,2020,beautiful place,0.85,2,7.0,Positive,2,0
+4,2,2022,loved place peaceful perfect replenishing energy reason giving 5 star visit sauna working heated pool small swim sometimes even go in fishing area closed visitor due private party wooden chalet different size stayed smallest one give u another option arrived,0.16388888888888886,40,5.475,Neutral,1,0
+5,2,2022,good price high well looked after,0.43,6,4.666666666666667,Neutral,1,0
+5,3,2022,excellent,1.0,1,9.0,Positive,2,0
+5,2,2022,great place waiter rude u took u pool minute leave people charge healthy attentive,0.35,14,4.928571428571429,Neutral,1,0
+5,2,2018,beautiful,0.85,1,9.0,Positive,2,0
+5,1,2022,beautiful place good experience,0.7749999999999999,4,7.0,Positive,2,0
+1,4,2022,want say congratulation girl reception helpful sweetheart service restaurant terriblei ordered caipirinha took 30 minuteslook quiet peoplea guy approached daughterin front poolto ask thermal bag open bagsvery embarrassingthe clogged drain flooded bathroommezzanine lot dust left cleaner found itanyway positive point pool great,0.20545454545454547,42,6.809523809523809,Neutral,1,0
+5,2,2019,good beautiful,0.7749999999999999,2,6.5,Positive,2,0
+5,2,2022,highly recommend,0.16,2,7.5,Neutral,1,0
+4,2,2017,infrastructure swimming pool service,0.0,4,8.25,Neutral,1,0
+5,2,2022,loved place well structured quiet easy reach,0.37777777777777777,7,5.428571428571429,Neutral,1,0
+5,2,2019,went park good,0.7,3,4.0,Positive,2,0
+2,4,2019,left lot desired view comment seen social medium,0.016666666666666666,8,5.125,Neutral,1,0
+3,2,2017,worth knowing camping family good food excellent service wonderful space etc,0.75,11,6.0,Positive,2,0
+4,2,2019,good,0.7,1,4.0,Positive,2,0
+5,2,2020,beautiful,0.85,1,9.0,Positive,2,0
+4,3,2019,cozy place,-0.19999999999999998,2,4.5,Negative,0,0
+4,3,2018,really liked place lot fun,0.44999999999999996,5,4.4,Neutral,1,0
+5,2,2018,place great structure camping going use day use new pool,0.4681818181818182,10,4.7,Neutral,1,0
+5,1,2018,cool unmissable,0.35,2,7.0,Neutral,1,0
+5,1,2018,great environment,0.8,2,8.0,Positive,2,0
+5,2,2018,love place,0.5,2,4.5,Neutral,1,0
+5,2,2021,best camping complete,0.55,3,6.333333333333333,Positive,2,0
+5,2,2018,wonderful,1.0,1,9.0,Positive,2,0
+4,2,2018,cozy place great spend day family,0.30000000000000004,6,4.666666666666667,Neutral,1,0
+5,3,2018,organized cozy clean good structure recommend everyone,0.2888888888888889,7,6.857142857142857,Neutral,1,0
+5,2,2017,beautiful landscape nature great food service ten loved,0.5874999999999999,8,6.0,Positive,2,0
+5,1,2017,tasty family atmosphere good service improve lunch option breakfast serf well,0.7,11,6.090909090909091,Positive,2,0
+5,3,2017,pleasant family environment various entertainment age recommend,0.36666666666666664,7,8.142857142857142,Neutral,1,0
+5,2,2017,beautiful well looked,0.85,3,6.333333333333333,Positive,2,0
+5,1,2019,good rest quiet wellkept place,0.35,5,5.2,Neutral,1,0
+4,1,2020,good,0.7,1,4.0,Positive,2,0
+4,2,2020,wonderful place,1.0,2,7.0,Positive,2,0
+5,1,2020,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2020,excellent,1.0,1,9.0,Positive,2,0
+5,1,2022,5 year incredible trip took family decided go week get know place better fell love every detail calm polite staff cleanliness place clean pool everything organized stayed chalet 12 receptionist lovely arrived uber son put chalet close everything could get around better him playground restaurant swimming pool way heated option choice lol anyway lunch delicious ideal quantity people staying complete breakfast cold cut savory snack cake danone complete cornflakes provide dinner option ordering snack 3pm picking 4pm place huge opportunity visit fishing spot closed went place even though closed enchanted definitely intend return intention stay 2 night incredible extended another day want leave hope return soon enjoy place little more congratulation employee owner recommended family friend,0.36567460317460326,116,5.853448275862069,Neutral,1,0
+3,1,2022,nice place camp campsite seems stopped time almost improvement new feature fishing airsoft paid separately,0.36818181818181817,15,6.133333333333334,Neutral,1,0
+5,1,2022,wonderful camping recommend it,1.0,4,6.75,Positive,2,0
+4,1,2022,good wonderful place bad thing give discount halfday rate,0.3333333333333333,9,5.444444444444445,Neutral,1,0
+5,1,2022,gorgeous gorgeous,0.7,2,8.0,Positive,2,0
+4,2,2022,location good service accommodation,0.7,4,8.0,Positive,2,0
+5,2,2022,wonderful place stayed chalet surprised beauty place beautiful calm property pet friendly impeccable food organized note bathroom chalet need maintenance leak nothing much fell love enchanting beauty place return parent worth it,0.4861111111111111,32,6.15625,Neutral,1,0
+5,4,2022,good recommend everyone,0.7,3,7.0,Positive,2,0
+5,1,2022,beautiful campsite well organized clean,0.6083333333333334,5,7.0,Positive,2,0
+5,1,2022,top,0.5,1,3.0,Neutral,1,0
+4,2,2022,wonderful excellent place spend weekend family top,0.8333333333333334,7,6.285714285714286,Positive,2,0
+4,1,2018,good relax enjoy family plenty space toy child,0.55,8,4.875,Positive,2,0
+4,1,2018,surprised structure without doubt recommend it,0.1,6,6.833333333333333,Neutral,1,0
+5,1,2018,excellent camping well structured,1.0,4,7.5,Positive,2,0
+5,1,2018,excellent place rest wide area several option swimming pool good fishing spot many leisure option worth checking out,0.39999999999999997,18,5.5,Neutral,1,0
+5,4,2023,day use family found place good whether day use camping family atmosphere lot activity good swimming pool good food attentive polite staff price also thought fair recommend,0.6399999999999999,27,5.407407407407407,Positive,2,0
+5,2,2023,super happy back several time,0.2833333333333333,5,5.0,Neutral,1,0
+5,1,2023,camping fantastic nothing like sp structure organized well maintained lot activity child adult good location excellent access road,0.55,18,6.277777777777778,Positive,2,0
+1,3,2023,worst campsite ive ever to thing save rest pool dirty shallow lot lizard hang around people,-0.6444444444444445,16,4.75,Negative,0,0
+5,2,2023,always pleasure go back there several swimming pool including child walk parent relax little one fun restaurant vegan option anyone vegan brings food,0.028124999999999997,23,5.521739130434782,Neutral,1,0
+5,1,2023,sensational experience friend,0.6666666666666666,3,9.0,Positive,2,0
+5,2,2023,loved it ill soon,0.09999999999999998,4,3.5,Neutral,1,0
+5,2,2023,experience really cool went school,0.35,5,6.0,Neutral,1,0
+1,1,2023,recommend deliver deliver still ignore complaint total neglect disorganizedcomplaints reported time problem happening ignored,-0.15,14,8.0,Negative,0,0
+5,2,2017,camping priceless,1.0,2,8.0,Positive,2,0
+5,1,2019,great atmosphere good food,0.75,4,5.75,Positive,2,0
+5,3,2019,great place,0.8,2,5.0,Positive,2,0
+5,2,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2018,recommend it wonderful place great child,0.9,6,5.833333333333333,Positive,2,0
+5,2,2018,cool fun,0.32499999999999996,2,3.5,Neutral,1,0
+5,3,2019,there better place rest,0.5,4,5.0,Neutral,1,0
+4,1,2019,good,0.7,1,4.0,Positive,2,0
+5,3,2019,wonderful,1.0,1,9.0,Positive,2,0
+5,3,2019,wonderful place,1.0,2,7.0,Positive,2,0
+5,2,2019,simply magical place family environment place stay destress forget problem relax lagoon,0.5,12,6.333333333333333,Neutral,1,0
+5,2,2019,sooooo good love,0.6,3,4.666666666666667,Positive,2,0
+4,2,2019,good nice atmosphere spend day found expensive,0.2666666666666666,7,5.714285714285714,Neutral,1,0
+4,1,2019,4 star camping area structure swimming pool family environment really liked fishing logo horrible service terrible owner rude full restriction fish go even fishing boat spoil place,-0.27,27,5.703703703703703,Negative,0,0
+4,1,2021,ideal place child good infrastructure camping bathroom shower electricity point 220v swimming pool hiking among attraction like fish fishing offer exciting hook,0.6333333333333334,22,6.318181818181818,Positive,2,0
+5,1,2019,great place camping rest leisure,0.8,5,5.6,Positive,2,0
+4,1,2019,place incredible service inside parking lot leaf lot desired thats im giving 4 star,0.9,14,5.0,Positive,2,0
+5,2,2019,wonderful spent saturday day paradise congratulation employee professionalism met two couple chalet wonderful people loved everything thanks,0.5599999999999999,17,7.294117647058823,Positive,2,0
+4,1,2019,good,0.7,1,4.0,Positive,2,0
+4,3,2017,facility good recommend,0.7,3,7.0,Positive,2,0
+5,1,2017,always play paint ball campground,0.0,5,5.8,Neutral,1,0
+5,1,2017,beautiful place,0.85,2,7.0,Positive,2,0
+5,1,2017,recommend great place,0.8,3,6.333333333333333,Positive,2,0
+5,1,2017,excellent worth,0.65,2,7.0,Positive,2,0
+3,2,2017,wonderful beautiful familiar place chalet little dusty good,0.3895833333333334,8,6.5,Neutral,1,0
+5,2,2020,visited hat sol camping wonderful bathroom clean camping area great communal kitchen first experience camping hat sol stopped since highly recommend it close shopping mall city center make easy walk around forget something,0.41571428571428576,33,5.757575757575758,Neutral,1,0
+5,1,2023,love place,0.5,2,4.5,Neutral,1,0
+1,2,2023,like itclosed swimming pool overcrowdedi like service also leaf something desired,0.0,11,6.454545454545454,Neutral,1,0
+5,1,2023,reception accommodation spectacular food,0.6,4,9.25,Positive,2,0
+4,1,2023,day use,0.0,2,3.0,Neutral,1,0
+2,2,2023,get visit thought fee charged take pet terrible 30 reais human day tent even chalet think wrong say accept pet charge abusive amount give taking them go without pet ill look another place,-0.5,33,4.696969696969697,Negative,0,0
+4,1,2020,place tranquility relax think anything beautiful huge clean campsite bathroom always cleaned day,0.5388888888888889,13,6.461538461538462,Positive,2,0
+5,2,2020,place preserved nature organized beautiful peaceful many bird topnotch service delicious restaurant,0.65,12,7.333333333333333,Positive,2,0
+5,2,2020,amazing,0.6000000000000001,1,7.0,Positive,2,0
+5,2,2021,great camping spectacular infrastructure,0.7,4,9.25,Positive,2,0
+3,3,2021,well let go second time already possible consideration place reasonable lends acceptable sin nonsense rented kiosk upon arrival found light turn outlet without power restaurant know outsourced acceptable expensive beyond certain silly rule 2 pm asked snack denied ground snack served lunch over 3 pm then customer want lunch simple stay hungry 3pm unfortunate,-0.07619047619047618,54,5.666666666666667,Negative,0,0
+5,1,2021,place wonderful,1.0,2,7.0,Positive,2,0
+1,2,2021,place beautiful administration leaf something desired check compliance quiet hour pandemic respect distance maximum occupancy place,0.425,16,7.25,Neutral,1,0
+5,1,2018,paradise 10,0.0,2,5.0,Neutral,1,0
+5,2,2021,amazing place cozy welcoming besides beautiful,0.4166666666666667,6,6.833333333333333,Neutral,1,0
+4,3,2021,excellent camping several pool wonderful restaurant spectacular green area good back,0.4428571428571428,11,6.7272727272727275,Neutral,1,0
+5,3,2021,always spend day perfect,1.0,4,5.25,Positive,2,0
+2,3,2021,campsite area designated motorhomes several tent site motorhomes camper trailer tentroof vehicle noisy people respecting nocturnal silence schedule party barbecue night long prohibition using speaker management answer phone time respond text place without inspection becomes man land instead pleasant place close nature,0.22777777777777775,42,6.619047619047619,Neutral,1,0
+5,1,2022,great structure,0.8,2,7.0,Positive,2,0
+5,2,2022,loved going family,0.7,3,5.333333333333333,Positive,2,0
+5,3,2022,excellent,1.0,1,9.0,Positive,2,0
+5,2,2022,went first time weekend family im really delighted never imagined day incredible fun place would wonderful thing could affordable meal i thought price expensive good accessible plus environment location structure incredible sure new year eve incredible place,0.5134469696969698,37,6.0,Positive,2,0
+5,2,2022,good good go early,0.5,4,3.75,Neutral,1,0
+4,2,2022,good excellent option fun refreshment family,0.6666666666666666,6,6.5,Positive,2,0
+5,1,2022,excelent recommend,0.0,2,8.5,Neutral,1,0
+5,2,2020,camping customer 15 year go often top wonderful place,0.75,9,5.0,Positive,2,0
+5,3,2020,great,0.8,1,5.0,Positive,2,0
+4,3,2020,good price brl 5000 heated pool waterslide,0.7,7,5.142857142857143,Positive,2,0
+5,2,2020,best camping ive ever seen super attentive cool fun monitor kid adult too game even adult highly recommend,0.2603703703703704,18,4.944444444444445,Neutral,1,0
+5,3,2020,went camping beautiful structure negative point campsite day use type goer respect end dangerous leave tent open go pool belonging risk respect camping rule make trouble definitely back big holiday,-0.035714285714285705,30,5.6,Negative,0,0
+5,2,2020,wonderful surprised structure cleanliness highly recommend it come back often,0.315,10,6.8,Neutral,1,0
+3,2,2020,found bathroom dirty disgusting toilet shower stall night lighting establishment anyone sleeping tent camping area need use flashlight go bathroom really dark,-0.44583333333333336,22,6.2272727272727275,Negative,0,0
+4,2,2018,piece paradise im stuck peace quiet family atmosphere car stereo best,0.5,11,5.363636363636363,Neutral,1,0
+4,2,2018,well organized place great restaurant,0.8,5,6.6,Positive,2,0
+5,1,2018,love place,0.5,2,4.5,Neutral,1,0
+5,2,2021,good,0.7,1,4.0,Positive,2,0
+5,1,2021,good location welcoming staff well prepared coffee lunch,0.7,8,6.125,Positive,2,0
+4,3,2021,recommend it quiet welcoming,0.0,4,6.25,Neutral,1,0
+5,1,2021,excellent place take family friend,1.0,5,6.0,Positive,2,0
+4,2,2023,nice place camp spacious nice structure,0.6,6,5.666666666666667,Positive,2,0
+5,1,2023,good experience chalet everything working good food service friendliness staff u everything good definitely come back,0.41999999999999993,16,6.375,Neutral,1,0
+5,2,2023,ive going campsite year now really like it polite kind service staff good restaurant love,0.5,15,5.0,Neutral,1,0
+5,1,2023,great infrastructure camping family,0.8,4,8.0,Positive,2,0
+4,2,2023,good,0.7,1,4.0,Positive,2,0
+5,3,2023,top place spend weekend love meet soon well back,0.3333333333333333,9,4.444444444444445,Neutral,1,0
+5,3,2021,good,0.7,1,4.0,Positive,2,0
+5,1,2021,sensational,0.6666666666666666,1,11.0,Positive,2,0
+5,1,2021,chic last one really enjoyed already date set return top,0.3333333333333333,10,4.7,Neutral,1,0
+5,1,2021,best place fun relax love place much im going 27 year old happinesscamping,0.42000000000000004,13,4.769230769230769,Neutral,1,0
+5,1,2021,excellent worth going,0.65,3,6.333333333333333,Positive,2,0
+5,1,2021,good pleasant family place highly recommend team congratulated,0.531111111111111,8,6.875,Positive,2,0
+5,1,2022,great place relax spend weekend,0.8,5,5.4,Positive,2,0
+5,3,2018,wonderful,1.0,1,9.0,Positive,2,0
+5,1,2018,clean organized,0.3666666666666667,2,7.0,Neutral,1,0
+5,2,2018,top,0.5,1,3.0,Neutral,1,0
+5,2,2018,wonderful place well caters tent trailer motohomes fishing great attraction,0.9,10,6.6,Positive,2,0
+5,1,2018,beautiful place service good,0.7749999999999999,4,6.25,Positive,2,0
+5,1,2021,delicious place many attraction well incredible cultural experience village super recommended relax enjoy family,0.5388888888888889,14,7.071428571428571,Positive,2,0
+5,2,2018,wonderful chalet left something desired loved place,0.5666666666666667,7,6.428571428571429,Positive,2,0
+5,2,2018,great service good pool lot space,0.75,6,4.666666666666667,Positive,2,0
+5,3,2018,ive known 10 year familyfriendly place competitive price,0.0,8,6.125,Neutral,1,0
+5,1,2018,excellent camping,1.0,2,8.0,Positive,2,0
+5,1,2018,best camping,1.0,2,5.5,Positive,2,0
+5,2,2018,really want go back,0.1,4,4.0,Neutral,1,0
+5,2,2017,great super structured place,0.5666666666666667,4,6.25,Positive,2,0
+5,1,2021,good service camping,0.7,3,6.0,Positive,2,0
+5,2,2023,place beautiful delight,0.85,3,7.0,Positive,2,0
+5,1,2023,wonderful middle nature recommend it,0.5,5,6.4,Neutral,1,0
+5,3,2023,spent weekend camping tent structure campsite excellent bathroom clean throughout stay rest also good true staff recommend everyone,0.46333333333333326,18,6.333333333333333,Neutral,1,0
+4,2,2023,great value money stayed inn weekend room clean airy air conditioning double bed single bed tv minibar turned off late friday two local restaurant already closed close 5pm order water outside tip anyone arriving 5pm bring water etca suggestion camping leave minibar stocked least water soft drink beer checkout write consumption staying innas outside great place large lake volleyball court basketball court game room childrens playground paintball paid extra 5 swimming pool one waterslide one baby building sixth pool useful lot day user weekend pool better fit everyonebreakfast several option homemade cake grilled bread etc homemade good lunch included dessert option drink included lunch,0.15047619047619049,104,5.673076923076923,Neutral,1,0
+3,3,2020,good place rest fun several time went last two noticed drop punctuality opening cafeteria hygiene accommodation adding maintenance daily rate gone lot quality gone well,0.2,25,5.76,Neutral,1,0
+5,2,2020,spectacular cleaning treatment,0.6,3,9.333333333333334,Positive,2,0
+1,3,2018,wifi,0.0,1,4.0,Neutral,1,0
+5,2,2020,best place,1.0,2,4.5,Positive,2,0
+5,2,2020,adore,0.0,1,5.0,Neutral,1,0
+5,2,2020,great place worth visiting,0.55,4,5.75,Positive,2,0
+5,2,2023,stay 0105 congratulation employee dedication attentive clean place see employee always cleaning whether restaurant external area even entire garden employee aline friendly leticia reception too monitor entertainment child day best vacation back soon possible wonderful place,0.3490740740740741,36,6.638888888888889,Neutral,1,0
+5,2,2023,loved already second time go lot,0.35,6,4.5,Neutral,1,0
+4,1,2020,everything,0.0,1,10.0,Neutral,1,0
+5,3,2020,great place camping recommend everyone,0.8,5,6.8,Positive,2,0
+4,3,2020,simple quiet fresh air collect rubbish room option take food camping like it option take bed linen use pay extra,0.075,20,4.65,Neutral,1,0
+5,2,2021,congratulation really liked,0.6,3,8.333333333333334,Positive,2,0
+5,2,2022,place wonderful great service good infrastructure whole family,0.675,8,6.875,Positive,2,0
+1,2,2018,experience horrible filed complaint im still waiting response waste time money going campsite,-0.5,13,6.230769230769231,Negative,0,0
+5,3,2018,family atmosphere,0.0,2,8.0,Neutral,1,0
+5,3,2018,great,0.8,1,5.0,Positive,2,0
+5,2,2018,excellent place super nice environment mention good service super nominate feelinghome bomestaramigos,0.5933333333333333,12,7.5,Positive,2,0
+5,1,2018,awesome wonderful,1.0,2,8.0,Positive,2,0
+5,2,2018,loved,0.7,1,5.0,Positive,2,0
+4,1,2018,good structure swimming pool court monitor child clean bathroom hot gas shower different camping area motor home area beautiful fishing spot cant take cooler certain area good camping recommend it,0.4401360544217687,30,5.566666666666666,Neutral,1,0
+4,1,2023,excellent,1.0,1,9.0,Positive,2,0
+4,2,2023,spacious safe place clean chalet good restaurant clean pool lot area walk rest,0.48333333333333334,13,5.076923076923077,Neutral,1,0
+5,3,2023,incredible experience visit camping chapu de sol stayed wellorganized clean chalet facility refrigerator stove bed tv also took advantage entire camping structure campinh plenty structure come child congratulation management love it next,0.35333333333333333,32,6.4375,Neutral,1,0
+5,1,2021,changed previous evaluation responded complaint assured correct problem changed evaluation try sure place beautiful great rest stress day life sp also good reading writing silence addition beauty place main attraction opinion thank chapu sol listening me,0.36428571428571427,36,6.083333333333333,Neutral,1,0
+5,2,2023,good come back whenever can,0.35,5,4.6,Neutral,1,0
+5,1,2023,passing,0.0,1,7.0,Neutral,1,0
+5,2,2019,excellent place good food great accommodation perfect place relax enjoy family attentive staff camping area grade 10,0.7166666666666667,17,5.882352941176471,Positive,2,0
+5,2,2019,best place,1.0,2,4.5,Positive,2,0
+3,1,2019,camping hat sun beautiful place think camper leaf something desired first space near entrance community kitchen lighting everything dark number bathroom 3 enough long weekend pitching tent sloping place horrible restaurant pool good 110v voltage would needed camping space away pool regular obey law silence 10 pm also see anyone guide even sign informing 40 50 reais camping offer something more,0.12000000000000002,61,5.508196721311475,Neutral,1,0
+4,1,2019,facility great enforce quiet hour rest spectacular,0.4666666666666666,7,6.285714285714286,Neutral,1,0
+5,2,2021,welcoming place stayed vip chalet really liked it facility site good ahhh breakfast great lunch even better,0.6499999999999999,17,5.352941176470588,Positive,2,0
+5,2,2021,felt super comfortable safe camped alone second time support needed,0.30833333333333335,10,5.8,Neutral,1,0
+5,1,2021,great place walk relax eat camp otherwise whole experience wonderful,0.6666666666666666,10,5.9,Positive,2,0
+5,2,2021,good recommend,0.7,2,6.5,Positive,2,0
+5,2,2021,excellent,1.0,1,9.0,Positive,2,0
+4,1,2021,good place hospitable environment lot greenery pleasant climategood food excellent breakfasti highly recommend,0.6483333333333333,13,7.538461538461538,Positive,2,0
+5,2,2021,love place ive coming 10 year every year improvement great facility great food amazing place suitable child adult,0.5583333333333333,18,5.333333333333333,Positive,2,0
+4,1,2021,satisfied excellent reception staff,0.75,4,8.0,Positive,2,0
+5,1,2021,great place relax enjoy whole family recommend,0.46666666666666673,7,5.714285714285714,Neutral,1,0
+5,1,2023,excellent space several swimming pool including heated one large green area great restaurant snack bar chalet big cozy staff friendly fair price coffee lunch included cost chalet day use,0.2988095238095238,29,5.448275862068965,Neutral,1,0
+4,1,2023,place good structure restaurant service poor expensive,-0.0666666666666667,7,6.857142857142857,Negative,0,0
+5,1,2023,quiet location great service,0.4,4,6.25,Neutral,1,0
+5,2,2018,wonderful placewe always camp,1.0,4,6.5,Positive,2,0
+5,2,2023,wonderful place sensational structure receptive attentive staff restaurant divine food loved,0.6916666666666667,11,7.454545454545454,Positive,2,0
+4,3,2018,good place spend weekend especially child good attraction cheap food,0.44999999999999996,10,5.9,Neutral,1,0
+5,2,2019,delicious place familiar camping wooded clean,0.5805555555555556,6,6.666666666666667,Positive,2,0
+5,1,2019,well maintained clean peaceful place rest,0.30833333333333335,6,6.0,Neutral,1,0
+5,2,2019,love place fair value good pool think water slide god every time go get hurt overall place amazing addition fishery sport fishing,0.5,22,4.909090909090909,Neutral,1,0
+5,3,2019,excellent structure environment appeal age monitor available quality service,0.7,9,7.555555555555555,Positive,2,0
+5,2,2019,pleasant,0.7333333333333333,1,8.0,Positive,2,0
+5,1,2018,great need armchair older people rest spending day campsite,0.48333333333333334,9,5.666666666666667,Neutral,1,0
+5,1,2018,good quiet like shower need improve add grocery store basic purchase,0.2333333333333333,11,5.2727272727272725,Neutral,1,0
+1,2,2018,like,0.0,1,4.0,Neutral,1,0
+5,3,2018,family going chalet cozy accommodation since 2005 heated pool tranquility good location u live sorocaba strong point u always return frequently,0.23393939393939395,21,5.857142857142857,Neutral,1,0
+5,1,2018,great place,0.8,2,5.0,Positive,2,0
+5,1,2018,crazy sauna,-0.6,2,5.0,Negative,0,0
+5,1,2017,good cheap affordable,0.55,3,6.333333333333333,Positive,2,0
+5,2,2017,good delight place wonderful nature everything tasty love,0.7333333333333334,8,6.25,Positive,2,0
+5,2,2017,great environment polite attentive staff clean restroom complete leisure structure security,0.41666666666666674,11,7.363636363636363,Neutral,1,0
+5,3,2018,beautiful place toy bathroom kitchen pool near camping think little market u going camping take forget something,0.25416666666666665,17,5.647058823529412,Neutral,1,0
+5,2,2018,delicious place,1.0,2,7.0,Positive,2,0
+4,2,2022,pleasant time therea super peaceful wonderful place,0.5791666666666666,7,6.428571428571429,Positive,2,0
+5,3,2022,spent new year eve 10 year old son use camping well structured organized shower sink toilet perfect condition cleaning ok 5 great pool 1 heated zip line playground recreation good food point like price kg new year eve 7990 party food go one fishing boat too go camping dayuse chalet inn intend return soon worth going family friend plenty space kid recommend congratulated,0.35393939393939394,63,4.920634920634921,Neutral,1,0
+4,4,2022,attraction closed otherwise good place,0.3,5,6.8,Neutral,1,0
+5,2,2022,loved camping stayed inn honestly one coolest place ive ever stayed room clean staff polite oriented entertainer super lively always activity whole family definitely recommend others people soon thank wonderful weekend had,0.41704545454545455,32,5.96875,Neutral,1,0
+2,3,2021,lot loose dog watch animal droppings bland food unsafe electrical installation,-0.12179487179487179,11,6.181818181818182,Negative,0,0
+4,3,2021,good place nice good spending day weekend child stayed family chalet missed list available item item needed taken taking away good,0.6199999999999999,21,5.238095238095238,Positive,2,0
+5,3,2021,good everything well organized super nice environment,0.5444444444444444,7,6.714285714285714,Positive,2,0
+5,1,2021,great place spend weekend family camped family organized clean bathroom good camping facility various activity little one swimming pool zip line water slide play ground sport court etc fair price worth knowing,0.38273809523809516,32,5.5625,Neutral,1,0
+5,1,2021,liked,0.6,1,5.0,Positive,2,0
+5,2,2021,good location great structure many bathroom scattered around pool including 1 heated great location 5 min shopping market intend go back,0.5599999999999999,21,5.523809523809524,Positive,2,0
+5,2,2020,nice place spend weekendgood food,0.6,5,5.8,Positive,2,0
+5,4,2020,good,0.7,1,4.0,Positive,2,0
+5,2,2020,super clean beautiful place super friendly people loved it,0.4930555555555555,9,5.555555555555555,Neutral,1,0
+5,2,2020,great place rest fun food good variety menu although second time went lunch good quality maintained every day regardless commemorative datesholidays anyway that everything ok,0.5,25,6.0,Neutral,1,0
+5,1,2020,nice place many tree many pool many place rest enjoy day,0.5,11,4.181818181818182,Neutral,1,0
+5,2,2020,good,0.7,1,4.0,Positive,2,0
+5,1,2020,fantastic experience top service recommend,0.45,5,7.6,Neutral,1,0
+5,3,2020,top,0.5,1,3.0,Neutral,1,0
+5,2,2015,went went wonderful heated pool 3 pool something eat lunch breakfast food delicious day went toboggan slid seemed scary went twice four time stayed two day wanted stay another 1000 wanted stay longer delicious wanted stay thousand day wanted stay longer day wonderful time wanted even 2014 miss sun hat were 2015 december were home month december thursday,0.7,58,5.137931034482759,Positive,2,0
+5,1,2022,great structure super clean bathroom one review top pool,0.5,9,5.333333333333333,Neutral,1,0
+5,2,2022,wonderful place organized loved it want go back soon,0.5666666666666667,9,4.888888888888889,Positive,2,0
+5,1,2022,cida friendly went take bread order,0.375,6,5.0,Neutral,1,0
+5,2,2022,top placei hope come back often would nice socket kiosk hahaha everything perfect,0.45999999999999996,13,5.3076923076923075,Neutral,1,0
+5,1,2022,great beautiful day,0.825,3,5.666666666666667,Positive,2,0
+4,3,2019,pleasant,0.7333333333333333,1,8.0,Positive,2,0
+5,1,2019,better impossible,-0.08333333333333331,2,8.0,Negative,0,0
+5,1,2019,great whole family super cool environment camping area infrastructure camper good day use,0.47666666666666657,13,5.923076923076923,Neutral,1,0
+5,1,2018,place family tranquility always attentive staff,0.4,6,7.0,Neutral,1,0
+4,4,2018,great camping excellent structure good service,0.8333333333333334,6,6.833333333333333,Positive,2,0
+5,2,2018,wonderful,1.0,1,9.0,Positive,2,0
+5,2,2018,great service family place top come back whenever possible,0.325,9,5.555555555555555,Neutral,1,0
+5,1,2017,wonderful place cozy totally familyfriendly firstclass service super clean wellmaintained great whole family,0.35714285714285715,13,7.384615384615385,Neutral,1,0
+5,2,2017,wonderful quiet place want relax good food,0.5666666666666667,7,5.142857142857143,Positive,2,0
+5,2,2017,cheap tasty access road need improve,0.4,6,5.166666666666667,Neutral,1,0
+5,3,2017,great place price little high,0.2575,5,5.0,Neutral,1,0
+5,2,2019,love,0.5,1,4.0,Neutral,1,0
+5,2,2019,everything good food service chalet cleanlinesseverything,0.7,6,8.666666666666666,Positive,2,0
+5,2,2019,good place spend hot day 3 pool option,0.475,8,3.875,Neutral,1,0
+5,2,2018,great camping always clean bathroom hot shower swimming pool taste including heated one great location 2 km away large market anyone stopping bus station recommended take uber location,0.48619047619047623,28,5.607142857142857,Neutral,1,0
+5,2,2018,top place relax family,0.5,4,4.75,Neutral,1,0
+5,1,2018,best camping know great structure spectacular service,0.7999999999999999,7,6.714285714285714,Positive,2,0
+5,4,2018,best camping structure weve ever seen regular customer 5 year,0.5,10,5.2,Neutral,1,0
+4,1,2018,small cozy camping family place,-0.22499999999999998,5,5.4,Negative,0,0
+5,2,2018,super quiet,0.16666666666666666,2,5.0,Neutral,1,0
+5,2,2018,pleasant,0.7333333333333333,1,8.0,Positive,2,0
+5,3,2018,one complaint place great treat u well get used it,0.25,10,4.1,Neutral,1,0
+3,3,2018,crowdedbut good,0.7,2,7.0,Positive,2,0
+5,1,2018,top,0.5,1,3.0,Neutral,1,0
+5,1,2018,good,0.7,1,4.0,Positive,2,0
